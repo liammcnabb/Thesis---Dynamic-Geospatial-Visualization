@@ -1,0 +1,33 @@
+\babel@toc {english}{}
+\babel@toc {english}{}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Introduction}{1}{chapter.1}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Survey of Surveys (SoS)}{11}{chapter.2}
+\contentsline {table}{\numberline {\relax 2.1}{\ignorespaces A list of literature sources we search for survey papers, with the quantity of papers identified from each. For paper searching, we use IEEE Xplore \cite {ieeexplore}, ACM Digital Library \cite {acmdigitallibrary}, Google Scholar \cite {scholar}, and Vispubdata \cite {isenberg2017VPD}\relax }}{15}{table.caption.10}
+\contentsline {table}{\numberline {\relax 2.2}{\ignorespaces Hierarchy of subject-based clusters.\relax }}{19}{table.caption.15}
+\contentsline {table}{\numberline {\relax 2.3}{\ignorespaces \relax \fontsize {8}{9.5}\selectfont A 3-Dimensional hierarchical classification table depicting the categorization of all the survey papers. \color@box {}{lime}{Green Highlighting} represents survey's summarised within the SoS. \color@box {}{yellow}{Yellow Highlighting} represents surveys that were not summarised in detail due to prioritization of journals or size constraints. \color@box {}{pink}{Pink Highlighting} represents survey's not reviewed in detail within the paper due to year constraints discussed in the Scope (Section \ref {sec:scope}). \relax }}{21}{table.caption.16}
+\contentsline {table}{\numberline {\relax 2.4}{\ignorespaces \relax \fontsize {8}{9.5}\selectfont A Categorization of classification tables found within each primary survey paper (highlighted \color@box {}{lime}{green} in Table \ref {table: classificationTableClusters}). The table examines how many dimensions each survey table features, the structure of each survey classification, and the type of mapping schema it incorporates. This table uses the paper's visual representation of the classification. If there is more than one classification, the primary classification is shown. This table itself corresponds to the classification example shown in Figure \ref {table:uniqueMappingExamples} (B). \relax }}{23}{table.caption.17}
+\contentsline {table}{\numberline {\relax 2.5}{\ignorespaces The tables provides an overview of interactive literature browsers found during the literature search. Sorted in alphabetical order\relax }}{29}{table.caption.23}
+\contentsline {table}{\numberline {\relax 2.6}{\ignorespaces The tables shows a breakdown of research directions discussed for each primary survey paper (highlighted \color@box {}{lime}{green} in Table \ref {table: classificationTableClusters}). The directions displayed represent research areas that are discussed in more than one survey. This table corresponds to the 1-N classification example shown in Figure \ref {table:nMappingExamples} (B). \relax }}{75}{table.caption.71}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Dynamic Maps}{78}{chapter.3}
+\contentsline {table}{\numberline {\relax 3.1}{\ignorespaces The results of performance. We present some attributes of each shape file, performance times broken into separate sections of the procedure, and the average FPS. The FPS is set to a minimum required screen space of 5\% for polygon rendering. \vspace {-0.2cm} \relax }}{99}{table.caption.84}
+\addvspace {10\p@ }
+\contentsline {xchapter}{User Study}{102}{chapter.4}
+\contentsline {table}{\numberline {\relax 4.1}{\ignorespaces Table indicating the data saved for each task. Refer to Section \ref {sec:stored}. \relax }}{115}{table.caption.95}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Multivariate Maps}{124}{chapter.5}
+\contentsline {table}{\numberline {\relax 5.1}{\ignorespaces Previews of the different glyphs, and the hidden density indicators provided in the application. Each glyph represents the same area, reflecting the same hidden indicator values, and attributes. Refer to our third case study, Section \ref {sec:case}, for more details on the values.\relax }}{135}{table.caption.106}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Software Design and Development}{150}{chapter.6}
+\contentsline {table}{\numberline {\relax 6.1}{\ignorespaces A table depicting some results for intersecting testing, we depict the two major tests from the examples in Chapter \ref {chap:MultivariateMaps} as well as a few more represented in Chapters \ref {chap:dcm} and \ref {chap:userStudy}.\relax }}{164}{table.caption.130}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Conclusion}{171}{chapter.7}
+\contentsline {table}{\numberline {\relax 7.1}{\ignorespaces Visual channels presented by Borgo et al.\ \cite {borgo2013glyph}\relax }}{175}{table.caption.136}
+\addvspace {10\p@ }
+\contentsline {xchapter}{How To Write A Visualization Survey Paper: A Starting Point}{1}{appendix.A}
+\contentsline {table}{\numberline {\relax A.1}{\ignorespaces A shortlist of literature sources.\relax }}{6}{table.caption.138}
+\contentsline {table}{\numberline {\relax A.2}{\ignorespaces A shortlist of potential collective and comparative meta-data.\relax }}{17}{table.caption.144}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Miscellanious}{23}{appendix.B}

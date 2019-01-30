@@ -1,0 +1,82 @@
+%% For normal draft builds (figs undisplayed hence fast compile)
+%\documentclass[hyperpdf,nobind,draft,oneside]{hepthesis}
+%\documentclass[hyperpdf,nobind,draft,twoside]{hepthesis}
+
+%% For short draft builds (breaks citations by necessity)
+%\documentclass[hyperpdf,nobind,draft,hidefrontback]{hepthesis}
+
+%%For Cambridge soft-bound version
+%\documentclass[nobindpdf,a4paper,twoside]{hepthesis}
+\documentclass[nobindpdf,a4paper,oneside]{hepthesis}
+%% For Cambridge hard-bound version (must be one-sided)
+%\documentclass[hyperpdf,oneside]{hepthesis}
+
+%% Load special font packages here if you wish
+%\usepackage{lmodern}
+\usepackage{mathpazo}
+\usepackage{minitoc}
+%\usepackage{euler}
+
+%% Put package includes etc. into preamble.tex for convenience
+\input{preamble}
+
+%% You can set the line spacing this way
+%\setallspacing{double}
+%% or a section at a time like this
+%\setfrontmatterspacing{double}
+
+
+
+%% Define the thesis title and author
+\title{Dynamic Geospatial Maps}
+\author{Liam McNabb}
+
+%% Doc-specific PDF metadata
+\makeatletter
+\@ifpackageloaded{hyperref}{%
+\hypersetup{%
+  pdftitle = {Dynamic Geospatial Maps},
+  pdfsubject = {Liam McNabb's PhD thesis},
+  pdfkeywords = {Computer Science, Information, Visualisation, Data, Levels of Detail, Scalability},
+  pdfauthor = {\textcopyright\ Liam McNabb}
+}}{}
+\makeatother
+
+\dominitoc[c] 
+%% Start the document
+\begin{document}
+\small
+%% Define the un-numbered front matter (cover pages, rubrik and table of contents)
+\begin{frontmatter}
+  \input{frontmatter}
+\end{frontmatter}
+
+%% Start the content body of the thesis
+\begin{mainmatter}
+  %% Actually, more semantic chapter filenames are better, like "chap-bgtheory.tex"
+ \input{ch1-Introduction}
+ \input{ch2-Survey}
+ \input{ch3-ChoroplethZooming}
+ \input{ch4-UserStudy}
+ \input{ch5-MultivariateMaps}
+ \input{ch6-SoftwareDevelopment}
+ \input{ch7-Conclusion}
+ 
+  %% To ignore a specific chapter while working on another, making the build faster, comment it out:
+  %\input{chap4}
+\end{mainmatter}
+ 
+%% Produce the appendices
+\begin{appendices}
+	\input{AppA-HowToWriteASurveyPaper}
+  \input{appendices}
+\end{appendices}
+
+%% Produce the un-numbered back matter (e.g. colophon,
+%% bibliography, tables of figures etc., index...)
+\begin{backmatter}
+  \input{backmatter}
+\end{backmatter}
+
+%% Close
+\end{document}

@@ -1,0 +1,82 @@
+%% Title
+\titlepage[of Swansea University]{%
+\vspace{-5cm} \includegraphics[width=0.3\textwidth]{images/swansea_university_logo} \\  \vspace{3cm} A dissertation submitted to the University of Swansea\\ for the degree of Doctor of Philosophy}
+
+%% Abstract
+\begin{abstract}%[\smaller \thetitle\\ \vspace*{1cm} \smaller {\theauthor}]
+  %\thispagestyle{empty}
+
+%Intro
+Our thesis covers the topic of dynamic geospatial maps and how we can leverage interaction techniques to reduce complexity of maps, while avoiding the removal of detail complletely. Our first Chapter clearly breaks down where our topic of work sits, and provides a breakdown of the following chapters.
+
+%Survey
+Information visualization as a field is growing rapidly in popularity since the first information visualization conference in 1995. However, as a consequence of its growth, it is increasingly difficult to follow the growing body of literature within the field. Survey papers and literature reviews are valuable tools for managing the great volume of previously published research papers, and the quantity of survey papers in visualization  has reached a critical mass.  To this end, this survey paper takes a quantum step forward by surveying and  classifying literature survey papers in order to help researchers understand the current landscape of Information Visualization. It is, to our knowledge, the first survey of survey papers (SoS) in Information Visualization. Our second chapter classifies survey papers into natural topic clusters which enables readers to find relevant literature and develops the first classification of classifications. The paper also enables researchers to identify both mature and less developed research directions as well as identify future directions. It is a valuable resource for both newcomers and experienced researchers in and outside the field of Information Visualization and Visual Analytics.
+
+%Dynamic Choropleth Maps
+Choropleths are a common and useful way of depicting area-coupled data on a geo-spatial map. One advantage they provide is combining area-based data accurately with geo-space. However perceptual problems arise when areas are too small, i.e when they only cover a few pixels or less. This is a very common occurrence when zooming or in densely populated areas like capital cities. In Chapter 3, we present a novel algorithm that ensures the user is able to observe area-based data coupled to geo-space based on their interactive level of zoom without distorting the original geo-spatial map. This is resolved by building a hierarchical data structure in which each area and its data is merged with one of its smallest neighbor recursively until only one polygon covers each contiguous region. The benefits are that the viewer can always view area-based data contained in the map regardless of how small any individual area becomes during interactive zooming. We break down each step of the algorithm and provide pseudo-code to enable reproducibility. We also discuss unique test cases that challenge the robustness of the algorithm with 30,000 polygons and 4,652,800 vertices as well as the performance.
+
+%USer Study
+Choropleth maps are an invaluable visualization type for mapping geo-spatial data. One advantage to a choropleth map over other geospatial visualizations such as cartograms is the familiarity of a non-distorted landmass. However, this causes challenges when an area becomes too small in order to accurately perceive the underlying color. When does size matter in a choropleth map? In Chapter 4, we conduct an experiment to verify the relationship between choropleth maps, their underlying color map, and a user's perceivability. We do this by testing a user's perception of color relative to an administrative area's size within a choropleth map, as well as user-preference of fixed-locale maps with enforced minimum areas. Based on this initial experiment we can make the first recommendations with respect to a unit area's minimum size in order to be perceivably useful.
+
+
+%Multivariate Maps
+Maps are one of the most conventional types of visualization used when conveying information to both inexperienced users and advanced analysts. However, the multivariate representation of data on maps is still considered an unsolved problem. In Chapter 5, we present a multivariate map that uses geo-space to guide the position of  multivariate glyphs and enable users to interact with the map and glyphs, conveying meaningful data at different levels of detail. We develop an algorithm pipeline for this process and demonstrate how the user can adjust the level-of-detail of the resulting imagery. We present a selection of user options to facilitate the exploration process and provide case studies to support how the application can be used. We also compare our placement algorithm with previous geo-spatial glyph placement algorithms. The result is a novel glyph placement solution to support multi-variate maps.
+
+%Software Development
+In Chapter 6, we discuss some of the development issues we encountered throughout the course of the PhD candidature, the biggest problem came with the development of our merging process. When algorithms are needed for large or complex calculations, it is essential that the user understands the progression, and identifies errors in their code. We present the techniques we used to debug the algorithm discussed in the main body of the thesis, and some of the ways they helped aid the construction of our algorithm. Chapter 6 also holds a section dedicated to intersection testing. Although performance was not crucial, being a pre-processing step. Common intersection testing could be run millions of time every time a new file was loaded. We examine common intersection tests that could be necessary  and compile them into a clear header file for use with c++, for basic 2D primatives. 
+
+%Conclusion
+Our final chapter provides closure to the thesis. We discuss the state of scale and it's perceived reception within the field, we give our thoughts on the use of the algorithm itself, and review future work that could be reviewed in a follow-up PhD candidature.
+
+\end{abstract}
+%% Declaration
+\begin{declaration}
+  This dissertation is the result of my own work, except where explicit
+  reference is made to the work of others, and has not been submitted
+  for another qualification to this or any other university. This
+  dissertation does not exceed the word limit for the respective Degree
+  Committee.
+  \vspace*{1cm}
+  \begin{flushright}
+    Liam McNabb
+  \end{flushright}
+\end{declaration}
+
+
+%% Acknowledgements
+\begin{acknowledgements}
+  I am thankful for all the help I have been given along my PhD candidature including my Parents, brother and sister, who made jokes and who supported me when necessary. I'd like to thank my Granny Rose and Nana Mairaed who also reassured me when stress got the better of me. I dedicate my thesis to my Grandad Sam and Papa Jonjo, who passed away during 2018.
+  
+I also want to thank my friends who kept me going and those who made sure my work was clear and professional. Finally, I want to thank my supervisor who let me voice my opinions clearly and did not budge on his solutions, allowing us to achieve some great software and papers.
+  
+\end{acknowledgements}
+
+
+%% Preface
+\begin{preface}
+  For this thesis, we cover the following papers:
+  
+  \begin{enumerate}
+  \footnotesize
+  \item \bibentry{mcnabb2017sos} \cite{mcnabb2017sos}\\ \emph{Supplementary Material: }n/a
+  \item \bibentry{mcnabb2018dynamic} \cite{mcnabb2018dynamic}\\ \emph{Supplementary Material: } \url{https://bit.ly/2wYX0Ok}
+  \item \bibentry{mcnabb2018when} \cite{mcnabb2018when}\\ \emph{Supplementary Material: } \url{https://bit.ly/2M9wIvY}
+  \item \bibentry{mcnabb2019multivariate} \cite{mcnabb2019multivariate}\\ \emph{Supplementary Material: }\url{https://vimeo.com/314225790} [password:mcnabbthesis]
+  \item \bibentry{mcnabb2019how} \cite{mcnabb2019how}\\ \emph{Supplementary Material:} n/a
+  \end{enumerate}
+
+  
+\end{preface}
+
+%% ToC
+{\hypersetup{linkcolor=black}
+\tableofcontents
+}
+
+%% Strictly optional!
+\frontquote{%
+  It's a rare artistic choice to have the bar fill up\\
+   but not actually be done loading.}%
+  {Ryan Letourneau}
+%% I don't want a page number on the following blank page either.
+\thispagestyle{empty}

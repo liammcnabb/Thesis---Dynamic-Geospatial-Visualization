@@ -1,0 +1,14 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.1}Introduction and Motivation}{\reset@font\mtcSfont 151}{section.6.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.2}Debug Visualization for Geospatial Maps}{\reset@font\mtcSfont 151}{section.6.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.2.1}Debug Geospatial Visualization Concepts}{\reset@font\mtcSSfont 152}{subsection.6.2.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.2.2}Geospatial Data Loading Verification}{\reset@font\mtcSSfont 153}{subsection.6.2.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.2.3}Contiguity Visualization}{\reset@font\mtcSSfont 153}{subsection.6.2.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.2.4}Hierarchy Building Visualization}{\reset@font\mtcSSfont 155}{subsection.6.2.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.3}Intersection Testing for Primatives}{\reset@font\mtcSfont 163}{section.6.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.3.1}Motivation}{\reset@font\mtcSSfont 163}{subsection.6.3.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.3.2}Graphical User Interface}{\reset@font\mtcSSfont 164}{subsection.6.3.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.3.3}Using Primatives}{\reset@font\mtcSSfont 164}{subsection.6.3.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.3.4}Open Source}{\reset@font\mtcSSfont 165}{subsection.6.3.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.4}The Complexities of Identifying a Boundary}{\reset@font\mtcSfont 166}{section.6.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.4.1}Unification of Area Pair}{\reset@font\mtcSSfont 167}{subsection.6.4.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.4.2}Identifying the Start and End of a Shared Boundary}{\reset@font\mtcSSfont 168}{subsection.6.4.2}}

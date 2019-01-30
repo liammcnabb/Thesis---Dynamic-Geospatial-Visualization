@@ -1,0 +1,55 @@
+
+Converting a set of publications to a thesis.
+
+In the Introduction Chapter of your thesis:
+
+- Add an Abstract (an abstract of chapter abstracts)
+
+- Add an introduction chapter -included abstracts from 
+papers at end of introduction (10 pages or more.)
+
+- Include a list of publications at the beginning of thesis 
+on its own page
+
+Body Content
+- Modify each chapter title to form a more coherent story
+(more than just a list of papers)
+
+- Describe in 1-2 paragraphs how each chapter fits into the
+overall thesis at the beginning of each chapter.
+
+- Change all paper references to chapter references in text
+
+- Cite the publication(s) that each chapter is based on at 
+beginning of each chapter.
+
+- Expand each chapter. Include content such as figures and text
+that was removed due to space limitations.  Enlarge each
+figure especially if it was shrunk to fit publication page
+limits.  Also, re-integrate any appendix material from a
+paper into the main text of the chapter.
+
+- Include optional figures.
+
+- (At least) remove the related work sub-section headers,
+from each chapter. These can also be called "Background".
+
+- The related work section of each paper can be moved to 
+the literature review chapter.
+
+- Add quotes to the start of each chapter
+
+Ending Content
+- Add a software engineering chapter -discuss details of implementation
+that don't have room in publications.
+
+-  Add a conclusion and future work chapter -an expanded version of 
+all paper conclusions and future work (remove from individual chapters)
+
+- The conclusions and future work chapter is at least 5-10 pages.  What
+would the next PhD student do?
+
+-  Add an Acknowledgements Section
+
+-  Consider adding an Index.  Bobâ€™s thesis has a nice
+index.

@@ -1,0 +1,20 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {G.1}Introduction and Motivation}{\reset@font\mtcSfont 129}{section.G.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {G.2}Background}{\reset@font\mtcSfont 130}{section.G.2}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {G.3}Design Goals and Tasks}{\reset@font\mtcSfont 132}{section.G.3}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {G.4}Overview}{\reset@font\mtcSfont 133}{section.G.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {G.4.1}Pre-processing}{\reset@font\mtcSSfont 134}{subsection.G.4.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {G.4.2}Geospatial Glyph Placement}{\reset@font\mtcSSfont 135}{subsection.G.4.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {G.4.3}Glyph Selection}{\reset@font\mtcSSfont 135}{subsection.G.4.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {G.4.4}Adjusting Level-of-Detail with Glyph Density}{\reset@font\mtcSSfont 136}{subsection.G.4.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {G.4.5}Smooth Merging and Splitting Transitions}{\reset@font\mtcSSfont 138}{subsection.G.4.5}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {G.4.6}Dynamic Average Glyph Legend}{\reset@font\mtcSSfont 138}{subsection.G.4.6}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {G.4.7}Attribute Filtering}{\reset@font\mtcSSfont 138}{subsection.G.4.7}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {G.4.8}Unit Area Density Indicators}{\reset@font\mtcSSfont 138}{subsection.G.4.8}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {G.4.9}Interactive User Options}{\reset@font\mtcSSfont 139}{subsection.G.4.9}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {G.5}Evaluation}{\reset@font\mtcSfont 140}{section.G.5}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {G.5.1}Case Studies}{\reset@font\mtcSSfont 140}{subsection.G.5.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Case 1: England's Clinical Commissioning Groups (CCGs)}{\reset@font\mtcSSSfont 140}{section*.245}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Case 2: Counties of the United States}{\reset@font\mtcSSSfont 142}{section*.247}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Case 3: Electoral Divisions of the Republic of Ireland}{\reset@font\mtcSSSfont 143}{section*.250}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {G.5.2}Comparative Evaluation: Grid-Placement vs. Dynamic Placement}{\reset@font\mtcSSfont 145}{subsection.G.5.2}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {G.6}Conclusion}{\reset@font\mtcSfont 146}{section.G.6}}
