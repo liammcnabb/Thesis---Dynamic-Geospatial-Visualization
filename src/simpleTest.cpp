@@ -4,7 +4,8 @@ int HelloWorld::main( )
     LineSegment ls( Point( 10.0f,-10.0f ), Point( -10.0f, 10.0f );
 
     if( IntersectionTester::isIntersecting( p, ls ) )
-        std::cout << "Intersect";
+        std::cout << "Intersect at" <<
+            IntersectionTester::closestPoint(ls,p).toString();
     
     return 0;
 }

@@ -1,19 +1,22 @@
 \chapter{How To Write A Visualization Survey Paper: A Starting Point}
 \label{chap:howTo}
 \bibentry{mcnabb2019how} \cite{mcnabb2019how} \\
+\chapterquote{
+Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime.}
+{Maimonides}
 %% Restart the numbering to make sure that this is definitely page #1!
 \pagenumbering{arabic}
 
 \begin{abstract}
-This paper attempts to explain the mechanics of writing a survey paper in data visualization or visual analytics. It serves as a useful starting point for those who have never written a survey paper or have very little experience. A literature review or survey paper is often considered the starting point of a PhD candidate's scientific degree. However, there are no dedicated papers that focus on guidelines for the planning or writing a survey paper or literature review in visualization or visual analytics. We provide guidelines and our recommendations for a foundational structure on which to build a survey paper, whilst also considering intermediate goals, and offer helpful advice to improve the  survey process and literature analysis. The result is a useful starting point for those wishing to write a survey paper or state-of-the-art (STAR) review in visualization or visual analytics. The guidelines and recommendations we make can also be generalized to other areas of computing and science.\\
+This paper attempts to explain the mechanics of writing a survey paper in data visualization or visual analytics. It serves as a useful starting point for those who have never written a survey paper or have very little experience. A literature review or survey paper is often considered the starting point of a PhD candidate's scientific degree. However, there are no dedicated papers that focus on guidelines for the planning or writing of a survey paper or literature review in visualization or visual analytics. We provide guidelines and our recommendations for a foundational structure on which to build a survey paper, whilst also considering intermediate goals, and offer helpful advice to improve the  survey process and literature analysis. The result is a useful starting point for those wishing to write a survey paper or state-of-the-art (STAR) review in visualization or visual analytics. The guidelines and recommendations we make can also be generalized to other areas of computing and science.\\
 
 An abstract is a required feature of a survey paper and should identity the topic of the literature review. A good abstract addresses why the given topic is interesting and why it is helpful. A good abstract features the following elements:  (1) topic introduction, (2) the motivation, (3) the goal of the review, and the benefits the review provides to the reader. A good literature survey offers a helpful classification of the literature, mature areas of research, and open, unsolved  problems in visualization or visual analytics.
 \end{abstract}  \newpage
 %-------------------------------------------------------------------------
 \section{Introduction and Motivation} \label{sec:introduction}
-A survey paper is an incredibly useful tool for both newcomers and experts of a given field. Twenty years ago, Jim Blinn stated \emph{"There's lots of other journals and it takes more and more effort to make sure that you know what's happening."} \cite{blinn1998ten} One of a survey paper's primary goals is to assist the reader in the hunt for  previously published research papers on a given topic.We discuss a general approach to planning and writing a typical survey paper section-by-section, and provide  more details and guidelines as to appropriate content in each section. 
+A survey paper is an incredibly useful tool for both newcomers and experts of a given field. Twenty years ago, Jim Blinn stated \emph{"There's lots of other journals and it takes more and more effort to make sure that you know what's happening."} \cite{blinn1998ten} One of a survey paper's primary goals is to assist the reader in the hunt for  previously published research papers on a given topic.We discuss a general approach to planning and writing a typical survey paper section-by-section, and provide  more details and guidelines as to appropriate content for each section. 
 
-The target audience of this paper is a PhD student in their first year and their supervisor. This paper presents and follows a versatile template which the reader can follow to accelerate and facilitate the creation of a survey paper. In addition, we discuss important considerations in the preparation phase of a survey paper. For this, we use the symbol (\cons) to designate aspects that are examined as part of the preparation, but are not necessarily  discussed in the actual the text itself. The guidelines and recommendations are based on our experience of reading and writing survey papers in visualization \cite{post2003state, laramee2004state, laramee2007topology,  peng2009higher, mcloughlin2010over, edmunds2012surface, lipsa2012visualization, borgo2013glyph, chung2014glyph, tong2018storytelling, firat2018towards, roberts2018visualising, rees2019survey} as well as meta-surveys, or surveys of surveys (SoS) \cite{mcnabb2017sos, alharbi2017molecular, alharbi2018sos}.
+The target audience of this paper is a PhD student in their first year and their supervisor. This paper presents and follows a versatile template which the reader can follow to accelerate and facilitate the creation of a survey paper. In addition, we discuss important considerations in the preparation phase of a survey paper. The guidelines and recommendations are based on our experience of reading and writing survey papers in visualization \cite{post2003state, laramee2004state, laramee2007topology,  peng2009higher, mcloughlin2010over, edmunds2012surface, lipsa2012visualization, borgo2013glyph, chung2014glyph, tong2018storytelling, firat2018towards, roberts2018visualising, rees2019survey} as well as meta-surveys, or surveys of surveys (SoS) \cite{mcnabb2017sos, alharbi2017molecular, alharbi2018sos, alharbi2019sos}.
 
 
  A well written introduction motivates the topic, including applications of the topic, why the research direction is important, and what the contributions of the survey or state-of-the-art (STAR) report are. Here we use the term "STAR" to refer to literature reviews with a special focus on recent literature, e.g, within the last 10 years. Survey papers are more comprehensive and may include literature from all years.
@@ -40,7 +43,8 @@ The contributions of this paper include:
 \item[\textbf{3.}] A structured survey paper template that can be followed, with in-depth guidelines describing the content of each section.
 \end{itemize}
 
-\textbf{Temporal Planning \cons :} We believe a high quality, full survey paper can take approximately a full year (part-time) to incrementally prepare and write including the literature search. A significant portion of this time concentrates on gathering the related literature on a given literature review topic. Due to the length of full survey papers (20-30 pages), it is time-consuming and difficult to undertake multiple internal full paper reviews and revisions, therefore it is helpful to distribute the preparation, discussion and intermediate feedback sessions periodically over the preparation time frame, to reduce the drafting and corrections process in the final stages. A tested strategy can separate the individual paper browsing and summarization process from the main survey paper organization \cite{laramee2010write}. Individual research paper summaries can be written on a weekly basis for the first six months, yielding roughly 24 summarized topic papers before any final decisions have been made on the organization, or literature classification. This provides a good basis for potential paper classifications to develop.
+
+We believe a high quality, full survey paper can take approximately a full year (part-time) to incrementally prepare and write including the literature search. A significant portion of this time concentrates on gathering the related literature on a given literature review topic. Due to the length of full survey papers (20-30 pages), it is time-consuming and difficult to undertake multiple internal full paper reviews and revisions, therefore it is helpful to distribute the preparation, discussion and intermediate feedback sessions periodically over the preparation time frame, to reduce the drafting and corrections process in the final stages. A tested strategy can separate the individual paper browsing and summarization process from the main survey paper organization \cite{laramee2010write}. Individual research paper summaries can be written on a weekly basis for the first six months, yielding roughly 24 summarized topic papers before any final decisions have been made on the organization, or literature classification. This provides a good basis for potential paper classifications to develop.
 
 %\textbf{Latex:} \LaTeX~is a tool for writing high-quality papers at a professional level. The majority of conferences at this point provide a standard latex template to work with, allowing your paper to hit the standard at which the conference desires. If you, or the main author are not confidant with \LaTeX, then the strategy presented above may allow for steady progress before the bulk of the survey is attempted.
 \subsection{Challenges of Writing a Survey} \label{sec:challenges}
@@ -57,16 +61,16 @@ We identify seven main challenges associated with writing a survey paper.
 
 In the following sections, we address some of these central challenges.
 
-\subsection{Literature Search Methodology \cons} \label{sec:search}
+\subsection{Literature Search Methodology} \label{sec:search}
 It is important to clearly describe how you search for the papers cited in the survey. When a reader browses the literature review, it is likely that you have found research papers that they may not have seen. A new PhD student usually has not yet discovered all of the relevant conferences and journals to search. The literature search methodology provides the names of digital libraries, search engines, search terms, and literature sources used to find literature in your survey paper. 
-If we are looking for research papers on the topic of treemaps, we can use the Google Scholar search engine for example \cite{scholar} to search the term "treemap". This gives us (at the time of writing) over 16,000 related search results. By doing the same using the IEEE Xplore Digital Library \cite{ieeexplore}, we get 115 items, and using vispubdata \cite{isenberg2017VPD}, we get 58 items. For visualization purposes, the three previously-mentioned search engines are a great tool, combined with the use of Google Scholar's "Cited by..." option to find related work, you should be able to gather a fairly complete set of papers. A complete list of sources to search is provided in Table \ref{table:searchTable}.
+If we are looking for research papers on the topic of treemaps, we can use the Google Scholar search engine for example \cite{scholar} to search the term "treemap". This gives us (at the time of writing) over 16,000 related search results. By doing the same using the IEEE Xplore Digital Library \cite{ieeexplore}, we get 115 items, and using vispubdata \cite{isenberg2017VPD}, we get 58 items. For visualization purposes, the three previously-mentioned search engines are a great tool. Combined with the use of Google Scholar's "Cited by..." option to find related work, you should be able to gather a fairly complete set of papers. A complete list of sources to search is provided in Table \ref{table:searchTable}.
 
 \begin{table}[t]
 \ra{1.2}
 \footnotesize
 \centering
 \rowcolors{1}{white}{black!3}
-\begin{tabularx}{0.6\textwidth}{|X|}
+\begin{tabularx}{0.7\textwidth}{|X|}
 \hline \rowcolor{black!30}
 Literature Sources \\ \hline
 %\rowcolor{black!30}  &  Papers \\ 
@@ -87,46 +91,40 @@ Computer \& Graphics \\
 ACM Computing Surveys  \\ 
 \hline
 \end{tabularx}
-\caption{A shortlist of literature sources.} \label{table:searchTable}
+\caption{A shortlist of literature sources.} \vspace{-0.3cm}\label{table:searchTable}
 \end{table} 
 
 The other search consideration is a manual search. When you have found one matching paper, it is likely that you will find a number of related research papers in the related work of the given match. This can be especially useful if there are related survey papers. If you find the majority of papers this way, providing a breakdown of conferences and journals may be a beneficial method of presenting your literature search. The goal is to provide enough information to make your literature search thorough and reproducible. 
 
 \subsection{Literature Classification Overview}  \label{sec:overview}
-Organizing the research papers in your survey is a central topic in any literature reviews. Classification dimensions can be derived for the task.
+Organizing the research papers in your survey is a central topic in any literature review. Classification dimensions can be derived for the task.
 Each of your classification dimensions is presented in this section. One dimension of a literature classification is often a list of (subjects or) topics. Describe each topic in the classification, how each research paper is classified, and possibly some exceptions where research fits into multiple subject categories. A high-quality literature classification is often composed of more than one dimension, e.g. subject category and data dimensionality. By talking about dimensions separately, you allow the reader to understand what is presented in the classification before discussing the individual topics and papers. Images or tables are a good way of conveying an overview.
 
-Refer to McNabb and Laramee's Survey of Surveys for an example \cite{mcnabb2017sos}. One axis consists of an adapted Information Visualization pipeline. A second dimension is a set of topic clusters. A section is presented to to discuss how their pipeline differs from Card et al.'s original \cite{card1999readings}, and why modifications have been made. The topic clusters are discussed in a separate section. How the subjects were gathered and selected is explained. Both sections provide a visual representation to aid in the understanding of each main axis.
+Refer to McNabb and Laramee's Survey of Surveys for an example \cite{mcnabb2017sos}. One axis consists of an adapted Information Visualization pipeline. A second dimension is a set of topic clusters. A section is presented to discuss how their pipeline differs from Card et al.'s original \cite{card1999readings}, and why modifications have been made. The topic clusters are discussed in a separate section. How the subjects were gathered and selected is explained. Both sections provide a visual representation to aid in the understanding of each main axis.
 
 It is important to clearly explain each axis of your proposed literature classification as this is one of the most important aspects of a survey paper which can clearly impact whether a survey paper makes it through the review process. Please review Section \ref{sec:classification} for a detailed guide to developing a classification.
  
-\subsection{Survey Scope \cons} \label{sec:scope}
-Defining the scope of a survey -- subject categories or the topics it covers (and does not cover) can be a very challenging aspect of writing any literature review. The scope defines the topic boundary of literature that is included and excluded from the survey. If the scope is too broad, then the survey includes too many research papers to manage. If the scope is too narrow, then not enough literature may be included for a good classification from which deductions may be drawn. Therefore, it is important to accurately designate what does and does not meet the scope of your paper. The scope is flexible as long as you clarify the scope boundaries clearly. For example, if you paper reviews a specific topic of interest (i.e. a technique or application), then it makes sense to explicitly state that this is the case.
+\subsection{Survey Scope} \label{sec:scope}
+Defining the scope of a survey -- subject categories or the topics it covers (and does not cover) can be a very challenging aspect of writing any literature review. The scope defines the topic boundaries of literature that are included or excluded from the survey. If the scope is too broad, then the survey includes too many research papers to manage. If the scope is too narrow, then not enough literature may be included for a good classification from which deductions may be drawn. Therefore, it is important to accurately designate what does and does not meet the scope of your paper. The scope is flexible as long as you clarify the scope boundaries clearly. For example, if you paper reviews a specific topic of interest (i.e. a technique or application), then it makes sense to explicitly state that this is the case.
 
 % On the other hand, if you find fringe topics, it may be best to leave these out. If a paper opens a door to a new set of papers, it may be best to leave those out.
-Aim to create a scope that encompasses roughly 40-50 research papers. If you cannot see any avenues of narrowing your scope, year of publication is always an option and can be used as a soft-cap, for example, Alsallakh et al.\ with their state-of-the-art in sets and set-typed data \cite{alsallakh2014visualising}. Limiting your survey to the most recent 10 years also turns it into a STAR. Doing this can be a way of reducing the focus research papers while still including older papers for other types of analysis if necessary. Provide examples when pointing out what is and isn't in scope. Lipsa et al.\ provide an informative example of a scope \cite{lipsa2012visualization}. The survey clears presents papers that do or do not meet the scope criteria, with given examples of papers.
+Aim to create a scope that encompasses roughly 40-50 research papers. If you cannot see any avenues of narrowing your scope, year of publication is always an option and can be used as a soft-cap, for example, Alsallakh et al.\ with their state-of-the-art in sets and set-typed data \cite{alsallakh2014visualising}. Limiting your survey to the most recent 10 years also turns it into a STAR. Doing this can be a way of reducing the focus research papers while still including older papers for other types of analysis if necessary. Provide examples when pointing out what is and isn't in scope. Lipsa et al.\ provide an informative example of a scope \cite{lipsa2012visualization}. The survey clearly presents papers that do or do not meet the scope criteria, with given examples of papers.
 
 A very common problem is defining a scope that is too broad. We recommend a scope that includes approximately 50 research papers per PhD student and supervisor pair on the author list. You can use Google Scholar and the other search engines described in Section \ref{sec:search} to make early assessments of scope. For example, if you enter "Isosurface" into a search engine for research papers, you will get a broad scope including over 100 research papers. The scope could be narrowed by focusing on isosurfaces for time-dependent data.
 
-\textbf{Survey Type \cons :} It is important to consider the type of survey that you would like to present within your scope. A \textit{`Literature Review'} refers to a more comprehensive list of papers on a given research direction whilst a \textit{`State-of-the-Art'} (STAR) report refers to the more recent research or techniques. Some examples of this include  Beck et al.\ with their state-of-the-art in visualizing dynamic graphs \cite{beck2014state} and Laramee et al.\ with the state-of-the-art in flow visualization \cite{laramee2004state}. On top of this surveys can focus on task taxonomies rather than the field itself. Examples of this include Kerracher et al.\ and their task taxonomy for temporal graph visualization \cite{kerracher2015task}, or Schulz et al.\ with their design space of visualization tasks \cite{schulz2013design}. These are important considerations to discuss with any potential co-author.
-
-\begin{figure}
-\centering
-\includegraphics[width=1\linewidth]{pictures/sto.png}
-\caption{The colored time flattening operation for space-time cubes. An example depicting a technique using visual rerpresentation. Image courtesy of Bach et al.\ \cite{bach2014review}} \label{fig:sto}
-\end{figure}
+\textbf{Survey Type:} It is important to consider the type of survey that you would like to present within your scope. A \textit{`Literature Review'} refers to a more comprehensive list of papers on a given research direction whilst a \textit{`State-of-the-Art'} (STAR) report refers to the more recent research or techniques. Some examples of this include  Beck et al.\ with their state-of-the-art in visualizing dynamic graphs \cite{beck2014state} and Laramee et al.\ with the state-of-the-art in flow visualization \cite{laramee2004state}. On top of this surveys can focus on task taxonomies rather than the field itself. Examples of this include Kerracher et al.\ and their task taxonomy for temporal graph visualization \cite{kerracher2015task}, or Schulz et al.\ with their design space of visualization tasks \cite{schulz2013design}. These are important considerations to discuss with any potential co-author.
 
 \subsection{Survey Paper Organization}
 The organization of the survey refers to the order in which research papers and subject topics are presented in the main body of the literature review. Organization of a survey can be trivial when the classification has been developed. Research topics and papers can be discussed in linear order based on the primary dimension in your classification, where the secondary dimension will represent the sub-sections of your survey. In each section, a sub-organization can be applied either based on another classification or publication year. Tong et al.\  present their classification dimensions and follow chronological order when presenting their summarized research papers in each sub-section \cite{tong2018storytelling}. 
 
 \section{Related Work} \label{sec:related}
 There are a number of other related educational papers readers may find very useful.
-Sastry and Sastry develop a tool named a summary-comparison matrix (SCM) to aid in the organization and extraction of information in research papers \cite{sastry2013summary}. Our paper differs to this by contextualizing the entire survey writing process.
-Laramee presents a starting point on how to write an individual visualization research paper \cite{laramee2010write}. The paper covers each aspect of the individual paper including the introduction, method, implementation, and performance. The paper also covers important considerations such as planning, procedure diagrams, figures and images, and supplementary material. This paper is considered sibling reading and is encouraged for discussions on paper writing, titles, latex, and collaboration. Laramee also presents guidelines on how to read and summarize a visualization research paper \cite{laramee2011read}. We extend this in Section \ref{sec:summary} to guide uses in extracting the essentials of a survey paper. Daniel Patel provide an educational paper focused on the requirements of an article-based PhD in visualization \cite{patel2011phd}. Munzner provides an overview of pitfalls authors may fall into, leading to rejection during the reviewing process \cite{munzner2008process}.
+Sastry and Mohammed develop a tool named a summary-comparison matrix (SCM) to aid in the organization and extraction of information in research papers \cite{sastry2013summary}. Our paper differs to this by contextualizing the entire survey writing process.
+Laramee presents a starting point on how to write an individual visualization research paper \cite{laramee2010write}. The paper covers each aspect of the individual paper including the introduction, method, implementation, and performance. The paper also covers important considerations such as planning, procedure diagrams, figures and images, and supplementary material. This paper is considered sibling reading and is encouraged for discussions on paper writing, titles, latex, and collaboration. Laramee also presents guidelines on how to read and summarize a visualization research paper \cite{laramee2011read}. We extend this in Section \ref{sec:summary} to guide uses in extracting the essentials of a survey paper. Daniel Patel provide an educational paper focused on the requirements of an article-based PhD in visualization \cite{patel2011phd}. Munzner provides an overview of pitfalls authors may fall into, leading to rejection during the reviewing process \cite{munzner2008process}. Although closer to complimentary material, Laramee produces an audio-visual representation of the paper topic. The video gives a clear structure to design your survey paper \cite{laramee2017how}. There are several pieces of software that can aid in the collection and usage of literature reviews including Mendeley, JabRef and Papers \cite{mendely2018mendely,jabref2019jabref,papers2019papers,refnwrite2018academic}.
 
 
 \subsection{Background}
-Depending on your chosen topic, it may be appropriate to include about a background section. A background section reviews the history of a topic such as how a technique originally emerged and it's evolution, or how its use has changed.  Nusrat and Kobourov give an excellent example by looking at the evolution of cartograms in the 19th and 20th century \cite{nusrat2016state}. Borgo et al present the history of glyphs and their applications \cite{borgo2013glyph}.
+Depending on your chosen topic, it may be appropriate to include a background section. A background section reviews the history of a topic such as how a technique originally emerged and it's evolution, or how its use has changed.  Nusrat and Kobourov give an excellent example by looking at the evolution of cartograms in the 19th and 20th century \cite{nusrat2016state}. Borgo et al present the history of glyphs and their applications \cite{borgo2013glyph}.
 
 %\textbf{Collaboration \cons :} Collaboration is a good process for enabling a wider literature search and increasing the quality of the paper.
 \section{Presenting the Main Literature Survey}\label{sec:presenting}
@@ -178,19 +176,19 @@ You can see the initial summary follows a template. This is useful for treating 
 
 \begin{figure}
 \centering
-\includegraphics[width=1\linewidth]{pictures/techniquetaxonomy.png}
+\includegraphics[width=0.7\linewidth]{pictures/techniquetaxonomy.png}
 \caption{Keim's 
 Classification of information visualization techniques. Courtesy of Keim \cite{keim2002information}. } \label{fig:keim}
 \end{figure} 
 
 
-\subsection{Developing a Literature Classification (How To) \cons } \label{sec:classification}
+\subsection{Developing a Literature Classification (How To) } \label{sec:classification}
 %\highlight{Refer to Video}
 Deriving a literature classification is one major challenge of writing a survey. A classification categorizes each research paper such that similar papers fall into the same group. Deriving groups, categories, and dimensions for your classification requires careful thought.
 
 One property of a good classification is that it is easy to properly place research papers into categories. If you have great difficulty placing individual research papers into the categories identified in your classification, this may be a sign that it requires adjustment.
 
-\subsection{Identifying Classification Dimensions \cons } \label{sec:identify}
+\subsection{Identifying Classification Dimensions } \label{sec:identify}
 There has been a lot of work invested in generating taxonomies. A good classification dimension e.g. subject-category, data-dimensionality etc, is descriptive and easy to communicate. Your classification may change during survey drafting. If you find it difficult to insert literature into a classification, modification is always an option. We recommend aiming for a 2D classification to begin with.
 If you are looking for ideas, adapting existing taxonomies or principles can yield useful classification topics. For example, Keim's technique taxonomy \cite{keim2002information} is used to group visualization techniques into 5 key categories (standard 2D/3D displays, geometrically-transformed displays, iconic displays, dense pixel displays, and stacked displays) (See Figure \ref{fig:keim}). This is used by Ko et al.\ \cite{ko2016survey} in their survey of financial data visualization, where each paper is mapped to these different techniques that are used within the literature. Another option is automatic taxonomy generation. There is a lot of work on text extraction \cite{dias2000combining,park2002automatic} and taxonomy generation \cite{bakar2009building, tsui2010concept, ottens2007multi, velardi2007taxonomy, murthy2010automatically, carrion2018designing}.
 
@@ -198,7 +196,7 @@ We recommend looking for natural recurring topic clusters. If you follow the tem
 
 User tasks are a useful and frequently-used classification dimension. They are the main focus of many survey papers \cite{ahn2014task, brehmer2013multi, schulz2013design}. For task taxonomies, we recommend reading Kerracher and Kennedy's work that focuses on the process and considerations for visualization task classifications \cite{kerracher2017constructing}. As a good starting point for tasks, Schneiderman's task by data-type taxonomy is recommended \cite{shneiderman1996eyes}, where \textit{overview, zoom, filter, details-on-demand, relate, history,} and \textit{extract} are presented as major visualization tasks.
 
-\subsection{Literature Classification Types \cons }
+\subsection{Literature Classification Types }
 \begin{figure}[t]
 \footnotesize
 \begin{tabularx}{1\linewidth}{|c|C|C|C|c|c|C|C|C|C|C|C|}
@@ -278,16 +276,10 @@ We do not recommend (A) or (C) as they can cause some confusion with literature 
 Some papers do not map {\color{blue} L} explicitly in their categorization and choose to display just their classification, using symbols rather than explicit citations. We call this \textbf{indirect mapping}. Some examples of this can be found in Sedlmair et al.'s  taxonomy \cite{sedlmair2012taxonomy} which classifies data characteristics between two different classification dimensions, class-factors and influences. Another example of this is Heinrich and Weiskopf's state-of-the art  report for Parallel Coordinates \cite{heinrich2013state}, which presents a hierarchical view of the important topics within the field. This representation does not explicitly show how literature maps the specified topics. 
 
 \subsection{Paper Centered vs Topic Centered}
-If your goal is to help users understand an area, you can produce a survey focus on underlying topics rather than the research literature. We consider surveys that dedicate more space and content to topics (as opposed to individual research papers) to be topic centered. In this case, the literature is surveyed in the hope of creating a novel framework that can be applied to a field. Landesberger et al.\ provide a good example of this  is their state of the art in the visual analysis of large graphs \cite{von2011visual}. See Tong et al.\ for an example of a paper-centered survey where the content is more focused on research papers \cite{tong2018storytelling}.
-
-\begin{figure}
-\centering
-\includegraphics[width=0.8\linewidth]{pictures/5473227-fig-2-source-hires.png}
-\caption{(a) explicit node-link layout. (b) implicit node-link by inclusion. (c)  implicit node-link by overlap. (d)  implicit node-link by adjacency. These figures display the same system. Courtesy of Schulz et al. \cite{schulz2011design}} \label{fig:compare}
-\end{figure}
+If your goal is to help users understand an area, you can produce a survey focused on underlying topics rather than the research literature. We consider surveys that dedicate more space and content to topics (as opposed to individual research papers) to be topic centered. In this case, the literature is surveyed in the hope of creating a novel framework that can be applied to a field. Landesberger et al.\ provide a good example of this  is their state of the art in the visual analysis of large graphs \cite{von2011visual}. See Tong et al.\ for an example of a paper-centered survey where the content is more focused on research papers \cite{tong2018storytelling}.
 
 \section{Complementary Material}
-Although the core of your survey resides in the classification and surveyed material, your paper does not need to end there. In this section, we discuss some additional options to improve your survey paper. We first focus on collective meta-data and some additional figures to improve the comparison of papers, followed by some options derived from the literature.
+Although the core of your survey resides in the classification and surveyed material, your paper does not need to end there. In this section, we discuss some additional options to improve your survey paper. We first focus on collective meta-data and some additional figures to improve the comparison of papers, followed by some options derived from the literature. 
 
 %\begin{figure}
 %\centering
@@ -301,14 +293,44 @@ Although the core of your survey resides in the classification and surveyed mate
 %\caption{~} \label{fig:stackedbar}
 %\end{figure}
 
+\begin{figure}
+\centering
+\includegraphics[width=0.7\linewidth]{pictures/sto.png}
+\caption{The colored time flattening operation for space-time cubes. An example depicting a technique using visual rerpresentation. Image courtesy of Bach et al.\ \cite{bach2014review}. Refer to Section \ref{sec:figures}} \label{fig:sto}
+\end{figure}
+
+\subsection{Figures} \label{sec:figures}
+As well as presenting some of the work from the summarized papers, figures can be used to enhance understanding of the presented concepts. Bach et al.\ provide an excellent example with hand-drawn illustrations of operations for space-time cube flattening operations (Figure \ref{fig:sto}) \cite{bach2014review}. Hadlak et al.\ present different facets of graph-structured data that are commonly visualized on the survey of multi-faceted graph visualization \cite{hadlak2015survey}. Figures can be used to present more than just an introduction to a concept. Caserta and Zendra, present a comparison of similar systems using different visual techniques to give a comparative view \cite{caserta2011visualization}. Schulz et al.\ present a similar example in their design space of implicit hierarchy visualization \cite{schulz2011design} (Figure \ref{fig:compare}). Borgo et al.\ use comparisons to present visual variables, as well as their glyph design criteria in their glyph-based visualization survey \cite{borgo2013glyph}.  Javed and Elmqvist use figures to present the differences between composite visualization using a scatter plot and bar graph as examples \cite{javed2012exploring}. Vehlow et al.\ present something similar in their state of the art in visualizing group structures in graphs \cite{vehlow2015state}. Tominski et al.'s duology of surveys on interactive lenses in visualization provide good examples of comparative views of techniques and a depiction of an interactive lens technique \cite{tominski2014survey,tominski2016interactive}.
+
+Mentioned in Section \ref{sec:overview}, figures can be used to break down your dimensions. For example if you use a pipeline, presenting it as an image is a useful approach in making sure the reader understands the concept. Chi use this concept to present the information visualization data state reference model, which they use to create a taxonomy of visualization techniques \cite{chi2000taxonomy}. Cottam et al.\ superimpose sources of dynamics onto Chen et al.'s information visualization pipeline \cite{cottam2012watch,card1999readings}. Landesberger et al.\ present their scope and organization in the form of a venn diagram, looking at the main components of visual analysis of large graphs \cite{von2011visual}. Wagner et al.\ present a pipeline depicting the scope and organization of the paper reviewing malware systems \cite{wagner2015survey}. 
+For more information on frameworks, Wang et al.\ present a survey on visual analytics pipelines which may be a good starting point \cite{wang2016survey}.
 
 
 \begin{figure}
 \centering
-\includegraphics[width=1\linewidth]{pictures/collectiveMetaDataExample.png}
+\includegraphics[width=0.4\linewidth]{pictures/5473227-fig-2-source-hires.png}
+\caption{(a) explicit node-link layout. (b) implicit node-link by inclusion. (c)  implicit node-link by overlap. (d)  implicit node-link by adjacency. These figures display the same system. Courtesy of Schulz et al. \cite{schulz2011design}} \label{fig:compare}
+\end{figure}
+
+\subsection{Collective Meta-Data for Comparison}
+A full survey can occupy more than twice the length of most research papers, and therefore pacing is very important. In order to facilitate comparison of research literature and enhance the sections, you can use the collective meta data to present interesting observations and trends in the literature and make comparisons.
+
+A common set of meta-data to visualize is a \textit{distribution of the literature}. Beck et al.\ present a histogram to present the number of literature papers per year, with the publication type distribution mapped to color (Figure \ref{fig:bar}) \cite{beck2014state}. Federico et al.\ also present a histogram of literature distributed by the year \cite{federico2016survey}. Both of these are very prevalent and are often presented together, for example, Blumenstein et al.\  present a stacked bar chart to display the selected literature's venue, stacked based on the publication year \cite{blumenstein2016evaluating}. 
+
+\begin{figure}
+\centering
+\includegraphics[width=0.7\linewidth]{pictures/collectiveMetaDataExample.png}
 \caption{Yearly number of publications on dynamic graph visualization according to our literature database; light gray bars indicate the total number of publications, colored bars distinguish the publications by type. Courtesy of Beck et al.\ \cite{beck2014state} } \label{fig:bar}
 \end{figure}
 
+Another common example comes with the \textit{venues} (conferences or journals for example). Ko et al.\ use a histogram to present this in their survey paper \cite{ko2016survey}.  Lipsa et al.\ present a line chart to present the distribution of papers amongst years and their venues \cite{lipsa2012visualization}.
+Rather than looking at the venue, Janicke et al.\ break up the reviewed literature by the \textit{field origin} (visualization or digital humanities) \cite{janicke2016visual}. Alharbi and Laramee compare the number of methods presented in a paper against the \textit{number of citations} using a bar graph. They also present a word cloud of their focus papers to present the differences in the vocabulary used within each \cite{alharbi2018sos}. Isenberg et al.\ produce a line chart depicting \textit{paper counts per year}, showing trends within each publication venue \cite{isenberg2017VPD}. Schneiderman et al.\ provide a similar example, presenting paper counts for three types of tree innovations \cite{schneiderman2012innovation}.
+McNabb and Laramee present a gantt chart depicting the \textit{time frame for citations} across their reviewed literature, with number of citations mapped to color \cite{mcnabb2017sos}. 
+
+Edmunds et al.\ classify their papers using \textit{relationship diagrams} to indicate how concepts are built upon each other \cite{edmunds2012surface}. Laramee et al.\ present a similar hierarchy of related literature, with their presented technique's dimensionality mapped to glyphs \cite{laramee2004state}.
+
+Merino et al.\ produce a sankey diagram to present the relationship between data collection and empirical evaluation in their survey software visualization evaluation \cite{merino2018systematic}.
+Henry et al.\ present a  wide arrange of meta-data visualization on timelines of paper scope, citation counts, and collaboaration diagrams, as well as more \cite{henry200720}.
 
 \begin{table*}[t]
 \ra{1.2}
@@ -339,52 +361,37 @@ Interactive Literature Browsers & Beck et al.\ \cite{beck2016visual}, Kucher et 
 \end{tabularx}
 \caption{A shortlist of potential collective and comparative meta-data.} \label{table:metaTable}
 \end{table*}
-\subsection{Figures}
-As well as presenting some of the work from the summarized papers, figures can be used to enhance understanding of the presented concepts. Bach et al.\ provide an excellent example with hand-drawn illustrations of operations for space-time cube flattening operations (Figure \ref{fig:sto}) \cite{bach2014review}. Hadlak et al.\ present different facets of graph-structured data that are commonly visualized on the survey of multi-faceted graph visualization \cite{hadlak2015survey}. Figures can be used to present more than just an introduction to a concept. Caserta and Zendra, present a comparison of similar systems using different visual techniques to give a comparative view \cite{caserta2011visualization}. Schulz et al.\ present a similar example in their design space of implicit hierarchy visualization \cite{schulz2011design} (Figure \ref{fig:compare}). Borgo et al.\ use comparisons to present visual variables, as well as their glyph design criteria in their glyph-based visualization survey \cite{borgo2013glyph}.  Javed and Elmqvist use figures to present the differences between composite visualization using a scatter plot and bar graph as examples \cite{javed2012exploring}. Vehlow et al.\ present something similar in their state of the art in visualizing group structures in graphs \cite{vehlow2015state}. Tominski et al.'s duology of surveys on interactive lenses in visualization provide good examples of comparative views of techniques and a depiction of an interactive lens technique \cite{tominski2014survey,tominski2016interactive}.
-
-Mentioned in Section \ref{sec:overview}, figures can be used to break down your dimensions. For example if you use a pipeline, presenting it as an image is a useful approach in making sure the reader understands the concept. Chi use this concept to present the information visualization data state reference model, which they use to create a taxonomy of visualization techniques \cite{chi2000taxonomy}. Cottam et al.\ superimpose sources of dynamics onto Chen et al.'s information visualization pipeline \cite{cottam2012watch,card1999readings}. Landesberger et al.\ present their scope and organization in the form of a venn diagram, looking at the main components of visual analysis of large graphs \cite{von2011visual}. Wagner et al.\ present a pipeline depicting the scope and organization of the paper reviewing malware systems \cite{wagner2015survey}. 
-For more information on frameworks, Wang et al.\ present a survey on visual analytics pipelines which may be a good starting point \cite{wang2016survey}.
-
-\subsection{Collective Meta-Data for Comparison}
-A full survey can occupy more than twice the length of most research papers, and therefore pacing is very important. In order to facilitate comparison of research literature and enhance the sections, you can use the collective meta data to present interesting observations and trends in the literature and make comparisons.
-
-A common set of meta-data to visualize is a \textit{distribution of the literature}. Beck et al.\ present a histogram to present the number of literature papers per year, with the publication type distribution mapped to color \cite{beck2014state}. Federico et al.\ also present a histogram of literature distributed by the year \cite{federico2016survey}. Both of these are very prevalent and are often presented together, for example, Blumenstein et al.\  present a stacked bar chart to display the selected literature's venue, stacked based on the publication year \cite{blumenstein2016evaluating}. 
-
-Another common example comes with the \textit{venues} (conferences or journals for example). Ko et al.\ use a histogram to present this in their survey paper \cite{ko2016survey}.  Lipsa et al.\ present a line chart to present the distribution of papers amongst years and their venues \cite{lipsa2012visualization}.
-Rather than looking at the venue, Janicke et al.\ break up the reviewed literature by the \textit{field origin} (visualization or digital humanities) \cite{janicke2016visual}. Alharbi and Laramee compare the number of methods presented in a paper against the \textit{number of citations} using a bar graph. They also present a word cloud of their focus papers to present the differences in the vocabulary used within each \cite{alharbi2018sos}. Isenberg et al.\ produce a line chart depicting \textit{paper counts per year}, showing trends within each publication venue \cite{isenberg2017VPD}. Schneiderman et al.\ provide a similar example, presenting paper counts for three types of tree innovations \cite{schneiderman2012innovation}.
-McNabb and Laramee present a gantt chart depicting the \textit{time frame for citations} across their reviewed literature, with number of citations mapped to color \cite{mcnabb2017sos}. 
-
-Edmunds et al.\ classify their papers using \textit{relationship diagrams} to indicate how concepts are built upon each other \cite{edmunds2012surface}. Laramee et al.\ present a similar hierarchy of related literature, with their presented technique's dimensionality mapped to glyphs \cite{laramee2004state}.
-
-Merino et al.\ produce a sankey diagram to present the relationship between data collection and empirical evaluation in their survey software visualization evaluation \cite{merino2018systematic}.
-Henry et al.\ present a  wide arrange of meta-data visualization on timelines of paper scope, citation counts, and collaboaration diagrams, as well as more \cite{henry200720}.
 
 A collection of literature can often aid in the creation of a new framework. Even if you do not use this as a dimension in your classification, their is no reason to not include one. Chen et al.\ present a \textit{conceptual pipeline} of traffic data visualization for the survey on the same topic \cite{chen2015survey}. Dasgupta et al.\ end their paper by presenting their visual uncertainty pipeline which they believe extends past the scope of their parallel coordinates survey \cite{dasgupta2012conceptualizing}. Liang and Huang provide multiple models, including a conceptual model of highlighting, and a framework of viewing control \cite{liang2010highlighting}. Lu et al.\  present a predictive visual analytics pipeline for their survey of the same topic \cite{lu2016recent}.  Mattila et al.\ design a pipeline to present the stages of research \cite{mattila2016software}. Zhou et al.\ present a framework depicting an edge-bundling framework for their survey on the same topic \cite{zhou2013edge}.
 
 If you have clearly labeled a scope, you may be able to present some data about options outside of your scope. Fuchs et al.\ use a stacked bar chart to display the ratio of two different \textit{evaluation types}, where a lower saturation indicates experiments evaluating design variations of the marks (those being reviewed) and a higher saturation for other experiments (not reviewed) \cite{fuchs2016systematic}.
 
  Lam et al.\ review studies presented in their papers  \cite{lam2012empirical}. A bar chart is used to show the distribution between process scenarios and visualization scenarios. They use lines to further evaluate visualization and process scenarios between 1995--2010, by breaking down the scenarios.
-Isenberg et al.\ review \textit{evaluation scenarios} using both histograms and a line charts \cite{isenberg2013systematic}.
-Zhang et al.\ perform stress tests on the different commercial systems they review, and present them in the form of a bar graph \cite{zhang2012visual}.
- 
+Isenberg et al.\ review \textit{evaluation scenarios} using both histograms and line charts \cite{isenberg2013systematic}.
+Zhang et al.\ perform stress tests on the different commercial systems they review, and present them in the form of a bar graph \cite{zhang2012visual}. See Table \ref{table:metaTable} for a breakdown of collect meta-data samples.
+
 
 \subsection{Interactive Literature Browsers}
 Interactive literature browsers have become increasingly popular in the realm of visualization survey papers. The browser enables readers to interactively browse the findings of the paper to aid exploration. McNabb and Laramee's SoS paper find 13 literature browsers from the last 5 years, making this a worthwhile consideration.  Although it is possible to produce a unique browser design, we recommend SurVis \cite{beck2016visual} as an option, due to it's open source, and easy-to-implement design.
 
-Kucher and Kerren create their own interactive browser providing the opportunity for users to filter through different text visualization techniques, as well as allowing for user submitted entries \cite{kucher2015text}. Behrisch et al.\ provide a complimentary website to help readers compare matrix plots, as well as present additional meta data on the reviewed literature \cite{matrixreorderingVis}. Dumas et al.\ present a website to review visualization focused on financial data \cite{dumas2014financevis}.
+Kucher and Kerren create their own interactive browser providing the opportunity for users to filter through different text visualization techniques, as well as allowing for user submitted entries (Figure \ref{fig:browser}) \cite{kucher2015text}. Behrisch et al.\ provide a complimentary website to help readers compare matrix plots, as well as present additional meta data on the reviewed literature \cite{matrixreorderingVis}. Dumas et al.\ present a website to review visualization focused on financial data \cite{dumas2014financevis}.
+
 
 \begin{figure}[t]
 \centering
 \includegraphics[width=1\linewidth]{pictures/kucherkerren.png}
 \caption{Kucher and Kerren's interactive literature browser . 
 %\url{http://textvis.lnu.se}
- \cite{kucher2015text}} \label{fig:bar}
+ \cite{kucher2015text}} \label{fig:browser}
 \end{figure}
 
 \section{Discussion and Future Challenges} \label{sec:fut}
 The discussion and future challenges sections are critical areas within survey papers. The section summarizes any challenges presented in the research papers in generalized terms. By the end of this section, readers could clearly understand what directions should be taken to further the field. If you are having trouble finding the content, domain expert feedback can be used to draw out more areas with less work undertaken.
 
 We recommend referring to the classification that you have designed. It is likely that you have noticed trends throughout the compilation process such as missing or less mature areas within your classification dimensions. Two dimensional classifications are very good at pointing out both mature and immature research directions. Look for holes in your classification table or matrix. Your paper summaries can also be used to identify future research topics. If you notice key topics that seem to be missing or less mature (other potential classification dimensions for example), this is also worth mentioning. Look out for the following when developing your discussion: 1) Empty spaces in the classification table, 2) mature areas with dense research, 3) temporal trends such as early pioneers in the field and trends in only the last few years and 4) trends in publication venues.
+
+\section{Future Work}
+There are many avenues of future work that we could invest our efforts into for further papers. For this paper, we have focused on our own expertise and experience, however there our many different survey authors with many different styles and pieces of advice to share. Therefore, we would like to expand our guidance to hold more perspectives. We also think that exploring more example figures to discuss what makes them effective, and how they are used. Finally, we only briefly talk about the journey you follow in the temporal planning section. We believe discussing the intermediate stages and milestones could aid prospective writers overcome mental barriers in writing a successful survey paper.
 
 \section{Conclusions}
 We provide starting point guidelines with a flexible template for the reader to follow in order to produce a full visualization survey paper. The paper offers step-by-step instructions in order to guide the reader through each section of a typical survey, as well as additional considerations that need to be made during the writing cycle. The paper reviews what we consider essential topics and supplementary options that can be used to improve the quality of a survey paper and increase the chance of succeeding through the review process.

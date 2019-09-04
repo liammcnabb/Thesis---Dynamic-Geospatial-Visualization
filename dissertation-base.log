@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.10.12)  30 JAN 2019 12:44
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.10.12)  20 AUG 2019 16:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -47,12 +47,6 @@ Package scrbook Info: You've used standard option `12pt'.
 (scrbook)             If you'd like to set the option with \KOMAoptions,
 (scrbook)             you'd have to use `fontsize=12pt' there
 (scrbook)             instead of `12pt', too.
-Class scrbook Info: You've used standard option `oneside'.
-(scrbook)           This is correct!
-(scrbook)           Internally I'm using `twoside=false'.
-(scrbook)           If you'd like to set the option with \KOMAoptions,
-(scrbook)           you'd have to use `twoside=false' there
-(scrbook)           instead of `oneside', too.
 Class scrbook Info: File `scrsize12pt.clo' used to setup font sizes on input li
 ne 2296.
 
@@ -64,18 +58,6 @@ File: scrsize12pt.clo 2017/09/07 v3.24 KOMA-Script font size class option (12pt
 Package: typearea 2017/09/07 v3.24 KOMA-Script package (type area)
 \ta@bcor=\skip42
 \ta@div=\count79
-Package typearea Info: You've used standard option `a4paper'.
-(typearea)             This is correct!
-(typearea)             Internally I'm using `paper=a4'.
-(typearea)             If you'd like to set the option with \KOMAoptions,
-(typearea)             you'd have to use `paper=a4' there
-(typearea)             instead of `a4paper', too.
-Package typearea Info: You've used standard option `oneside'.
-(typearea)             This is correct!
-(typearea)             Internally I'm using `twoside=false'.
-(typearea)             If you'd like to set the option with \KOMAoptions,
-(typearea)             you'd have to use `twoside=false' there
-(typearea)             instead of `oneside', too.
 \ta@hblk=\skip43
 \ta@vblk=\skip44
 \ta@temp=\skip45
@@ -86,8 +68,8 @@ Package typearea Info: These are the values describing the layout:
 (typearea)             \paperwidth      = 597.50793pt
 (typearea)              \textwidth      = 448.13095pt
 (typearea)              DIV departure   = -6%
-(typearea)              \evensidemargin = 2.4185pt
-(typearea)              \oddsidemargin  = 2.4185pt
+(typearea)              \evensidemargin = 27.31467pt
+(typearea)              \oddsidemargin  = -22.47766pt
 (typearea)             \paperheight     = 845.04694pt
 (typearea)              \textheight     = 635.5pt
 (typearea)              \topmargin      = -41.72441pt
@@ -121,12 +103,6 @@ LaTeX Info: Redefining \textsubscript on input line 4966.
 Class scrbook Info: Redefining `\numberline' on input line 6142.
 \bibindent=\dimen102
 )
-(/usr/share/texlive/texmf-dist/tex/latex/a4wide/a4wide.sty
-Package: a4wide 1994/08/30
-
-(/usr/share/texlive/texmf-dist/tex/latex/ntgclass/a4.sty
-Package: a4 2004/04/15 v1.2g A4 based page layout
-))
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
@@ -385,7 +361,7 @@ Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS)
 Class scrbook Warning: Usage of package `minitoc' together
 (scrbook)              with a KOMA-Script class is not recommended.
 (scrbook)              Nevertheless, using requested
-(scrbook)              package `minitoc' on input line 19.
+(scrbook)              package `minitoc' on input line 20.
 
 (/usr/share/texlive/texmf-dist/tex/latex/minitoc/minitoc.sty
 Package: minitoc 2015/07/13 v61 Package minitoc
@@ -440,7 +416,7 @@ File: english.mld 2006/01/13
 File: english.mld 2006/01/13
 ))
 Class scrbook Info: Deactivating the `minitoc' workaround for `\@sect',
-(scrbook)           because it is not needed on input line 19.
+(scrbook)           because it is not needed on input line 20.
  (./preamble.tex
 (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
@@ -1523,19 +1499,37 @@ File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
 )
-LaTeX Info: Redefining \HepProcess on input line 42.
+\AM@pagewidth=\dimen294
+\AM@pageheight=\dimen295
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppxetex.def
+File: ppxetex.def 2017/10/31 v0.5l Pdfpages driver for XeTeX (AM)
+)
+\AM@pagebox=\box87
+\AM@global@opts=\toks54
+\AM@toc@title=\toks55
+\c@AM@survey=\count295
+\AM@templatesizebox=\box88
+))
+LaTeX Info: Redefining \HepProcess on input line 43.
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 )
-LaTeX Info: Redefining \HepProcess on input line 42.
-LaTeX Info: Redefining \HepProcess on input line 42.
-LaTeX Info: Redefining \HepProcess on input line 42.
+LaTeX Info: Redefining \HepProcess on input line 43.
+LaTeX Info: Redefining \HepProcess on input line 43.
+LaTeX Info: Redefining \HepProcess on input line 43.
 Package minitoc Info: I0024
 (minitoc)             PREPARING MINITOCS FROM dissertation-base.toc on input li
-ne 45.
+ne 46.
 Package minitoc Info: I0033
 (minitoc)             Writing dissertation-base.mtc1.
 \openout4 = `dissertation-base.mtc1'.
@@ -1587,13 +1581,13 @@ Package minitoc Info: I0033
 
 (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2018/02/11 v5.2c context-sensitive quotations (JAW)
-\csq@reset=\count295
-\csq@gtype=\count296
-\csq@glevel=\count297
-\csq@qlevel=\count298
-\csq@maxlvl=\count299
-\csq@tshold=\count300
-\csq@ltx@everypar=\toks54
+\csq@reset=\count296
+\csq@gtype=\count297
+\csq@glevel=\count298
+\csq@qlevel=\count299
+\csq@maxlvl=\count300
+\csq@tshold=\count301
+\csq@ltx@everypar=\toks56
 
 (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2018/02/11 v5.2c csquotes generic definitions (JAW)
@@ -1606,14 +1600,7 @@ File: csquotes.cfg
 )
 Package csquotes Info: Enabling multilingual quotes.
 )
-
-LaTeX Warning: Unused global option(s):
-    [nobindpdf].
-
 (./dissertation-base.aux
-
-LaTeX Warning: Label `fig:teaser' multiply defined.
-
 
 LaTeX Warning: Label `fig:procedure' multiply defined.
 
@@ -1621,7 +1608,16 @@ LaTeX Warning: Label `fig:procedure' multiply defined.
 LaTeX Warning: Label `sec:tasks' multiply defined.
 
 
+LaTeX Warning: Label `fig:t-junction' multiply defined.
+
+
+LaTeX Warning: Label `sec:conclusion' multiply defined.
+
+
 LaTeX Warning: Label `sec:introduction' multiply defined.
+
+
+LaTeX Warning: Label `sec:challenges' multiply defined.
 
 
 LaTeX Warning: Label `table:searchTable' multiply defined.
@@ -1641,42 +1637,39 @@ LaTeX Warning: Label `table:nMappingExamples' multiply defined.
 
 LaTeX Warning: Label `fig:compare' multiply defined.
 
-
-LaTeX Warning: Label `fig:bar' multiply defined.
-
 )
 \openout1 = `dissertation-base.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 47.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 48.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 47.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 48.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
-LaTeX Info: Redefining \microtypecontext on input line 47.
+LaTeX Info: Redefining \microtypecontext on input line 48.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -1693,12 +1686,12 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@minilofdepth=\count301
-\c@minilotdepth=\count302
-\c@partlofdepth=\count303
-\c@partlotdepth=\count304
-\c@sectlofdepth=\count305
-\c@sectlotdepth=\count306
+\c@minilofdepth=\count302
+\c@minilotdepth=\count303
+\c@partlofdepth=\count304
+\c@partlotdepth=\count305
+\c@sectlofdepth=\count306
+\c@sectlotdepth=\count307
 Package minitoc(hints) Info: I0049
 (minitoc(hints))             ==> You requested the hints option. 
 (minitoc(hints))             Some hints are eventually given below.
@@ -1731,19 +1724,19 @@ Package minitoc(hints) Warning: W0023
 (minitoc(hints))                --- It may be the consequence 
 (minitoc(hints))                of loading the ``hyperref'' package.
 
-\AtBeginShipoutBox=\box87
-Package hyperref Info: Link coloring ON on input line 47.
+\AtBeginShipoutBox=\box89
+Package hyperref Info: Link coloring ON on input line 48.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count307
+\c@section@level=\count308
 )
-LaTeX Info: Redefining \ref on input line 47.
-LaTeX Info: Redefining \pageref on input line 47.
-LaTeX Info: Redefining \nameref on input line 47.
+LaTeX Info: Redefining \ref on input line 48.
+LaTeX Info: Redefining \pageref on input line 48.
+LaTeX Info: Redefining \nameref on input line 48.
 
 (./dissertation-base.out) (./dissertation-base.out)
 \@outlinefile=\write6
@@ -1754,13 +1747,13 @@ ABD: EveryShipout initializing macros
 Option `squaren' provided! 
  Command \squaren defined by SIunits package!
 
-LaTeX Info: Redefining \micro on input line 47.
+LaTeX Info: Redefining \micro on input line 48.
 Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.15} (current compat level: 1.13).
 
-\c@lstlisting=\count308
+\c@lstlisting=\count309
 Processing 'frontmatter' comment.
-\c@iterlist=\count309
+\c@iterlist=\count310
 \openout3 = `comment.cut'.
 
 
@@ -1812,49 +1805,96 @@ LaTeX Info: Redefining \HepProcess on input line 8.
  [1
 
 
+
 ]
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <20.74> not available
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 8.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
 (Font)              scaled to size 12.50409pt on input line 8.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 8.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 8.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 12.50409pt on input line 8.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 17.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 17.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 17.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 17.
+(Font)              scaled to size 9.37807pt on input line 8.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 17.
-LaTeX Info: Redefining \HepProcess on input line 17.
-LaTeX Info: Redefining \HepProcess on input line 17.
+(Font)              scaled to size 7.29405pt on input line 8.
+LaTeX Info: Redefining \HepProcess on input line 8.
+LaTeX Info: Redefining \HepProcess on input line 8.
  [2
 
 ]
-LaTeX Info: Redefining \HepProcess on input line 27.
-LaTeX Info: Redefining \HepProcess on input line 27.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 8.
+LaTeX Info: Redefining \HepProcess on input line 17.
+LaTeX Info: Redefining \HepProcess on input line 17.
  [3]
-LaTeX Info: Redefining \HepProcess on input line 33.
-LaTeX Info: Redefining \HepProcess on input line 33.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 27.
+LaTeX Info: Redefining \HepProcess on input line 27.
  [4]
-LaTeX Info: Redefining \HepProcess on input line 47.
-LaTeX Info: Redefining \HepProcess on input line 47.
+LaTeX Info: Redefining \HepProcess on input line 36.
+LaTeX Info: Redefining \HepProcess on input line 36.
 
-[5
-
-]
-LaTeX Info: Redefining \HepProcess on input line 56.
-LaTeX Info: Redefining \HepProcess on input line 56.
+[5]
+LaTeX Info: Redefining \HepProcess on input line 36.
+LaTeX Info: Redefining \HepProcess on input line 36.
  [6
 
 ]
+LaTeX Info: Redefining \HepProcess on input line 64.
+LaTeX Info: Redefining \HepProcess on input line 64.
+ [7]
+LaTeX Info: Redefining \HepProcess on input line 64.
+LaTeX Info: Redefining \HepProcess on input line 64.
+ [8
+
+]
+LaTeX Info: Redefining \HepProcess on input line 75.
+LaTeX Info: Redefining \HepProcess on input line 75.
+ [9]
+LaTeX Info: Redefining \HepProcess on input line 75.
+LaTeX Info: Redefining \HepProcess on input line 75.
+ [10
+
+]
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 75.
+ (/usr/share/texmf/tex/latex/lm/t1lmss.fd
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmss' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 75.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+)
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 75.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 75.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 11.40997pt on input line 75.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 75.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 75.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 11.40997pt on input line 75.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 75.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 75.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 61.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 61.
- (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 80.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 80.
+
+(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1862,353 +1902,342 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 61.
+(Font)              scaled to size 10.42007pt on input line 80.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 61.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 61.
+(Font)              scaled to size 7.91925pt on input line 80.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 61.
+(Font)              scaled to size 10.42007pt on input line 80.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 61.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 61.
-LaTeX Info: Redefining \HepProcess on input line 73.
-LaTeX Info: Redefining \HepProcess on input line 73.
- [7
+(Font)              scaled to size 7.91925pt on input line 80.
+LaTeX Info: Redefining \HepProcess on input line 92.
+LaTeX Info: Redefining \HepProcess on input line 92.
+ [11]
+LaTeX Info: Redefining \HepProcess on input line 92.
+LaTeX Info: Redefining \HepProcess on input line 92.
+ [12
 
 ]
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 73.
-
-(/usr/share/texmf/tex/latex/lm/t1lmss.fd
-File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `lmss' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for T1+ppl on input line 73.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ppl.fd
-File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
-)
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 73.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 73.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 73.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 73.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 73.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 73.
-Package tocbasic Info: character protrusion at toc deactivated on input line 73
+Package tocbasic Info: character protrusion at toc deactivated on input line 92
 .
-
-(./dissertation-base.toc
+ (./dissertation-base.toc
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 3.
-LaTeX Info: Redefining \HepProcess on input line 51.
-LaTeX Info: Redefining \HepProcess on input line 51.
- [8
+LaTeX Info: Redefining \HepProcess on input line 52.
+LaTeX Info: Redefining \HepProcess on input line 52.
 
-]
+[13]
 Overfull \hbox (1.41573pt too wide) detected at line 67
- []\T1/phv/m/n/12 100
+ []\T1/phv/m/n/12 101
  []
 
 
-Overfull \hbox (1.41573pt too wide) detected at line 69
- []\T1/phv/m/n/12 105
+Overfull \hbox (1.41573pt too wide) detected at line 68
+ []\T1/phv/m/n/12 102
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 70
- []\T1/phv/m/n/12 106
+ []\T1/phv/m/n/12 111
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 71
- []\T1/phv/m/n/12 108
+ []\T1/phv/m/n/12 112
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 72
- []\T1/phv/m/n/12 109
+ []\T1/phv/m/n/12 114
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 73
- []\T1/phv/m/n/12 109
+ []\T1/phv/m/n/12 114
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 74
- []\T1/phv/m/n/12 109
+ []\T1/phv/m/n/12 114
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 75
- []\T1/phv/m/n/12 112
+ []\T1/phv/m/n/12 115
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 76
- []\T1/phv/m/n/12 112
+ []\T1/phv/m/n/12 118
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 77
- []\T1/phv/m/n/12 112
+ []\T1/phv/m/n/12 118
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 78
- []\T1/phv/m/n/12 115
+ []\T1/phv/m/n/12 118
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 79
- []\T1/phv/m/n/12 115
+ []\T1/phv/m/n/12 121
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 80
- []\T1/phv/m/n/12 116
+ []\T1/phv/m/n/12 122
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 81
- []\T1/phv/m/n/12 118
+ []\T1/phv/m/n/12 122
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 82
- []\T1/phv/m/n/12 118
+ []\T1/phv/m/n/12 124
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 83
- []\T1/phv/m/n/12 120
+ []\T1/phv/m/n/12 126
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 84
- []\T1/phv/m/n/12 121
+ []\T1/phv/m/n/12 127
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 85
- []\T1/phv/m/n/12 121
+ []\T1/phv/m/n/12 127
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 87
- []\T1/phv/m/n/12 127
+ []\T1/phv/m/n/12 133
  []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \HepProcess on input line 88.
 LaTeX Info: Redefining \HepProcess on input line 88.
-[9]
+ [14]
 Overfull \hbox (1.41573pt too wide) detected at line 88
- []\T1/phv/m/n/12 128
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 89
- []\T1/phv/m/n/12 131
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 90
- []\T1/phv/m/n/12 131
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 91
- []\T1/phv/m/n/12 132
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 92
- []\T1/phv/m/n/12 133
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 93
- []\T1/phv/m/n/12 133
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 94
  []\T1/phv/m/n/12 134
  []
 
 
-Overfull \hbox (1.41573pt too wide) detected at line 95
- []\T1/phv/m/n/12 136
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 96
- []\T1/phv/m/n/12 136
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 97
- []\T1/phv/m/n/12 136
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 98
- []\T1/phv/m/n/12 136
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 99
+Overfull \hbox (1.41573pt too wide) detected at line 89
  []\T1/phv/m/n/12 137
  []
 
 
-Overfull \hbox (1.41573pt too wide) detected at line 100
- []\T1/phv/m/n/12 138
+Overfull \hbox (1.41573pt too wide) detected at line 90
+ []\T1/phv/m/n/12 139
  []
 
 
-Overfull \hbox (1.41573pt too wide) detected at line 101
- []\T1/phv/m/n/12 138
+Overfull \hbox (1.41573pt too wide) detected at line 91
+ []\T1/phv/m/n/12 139
  []
 
 
-Overfull \hbox (1.41573pt too wide) detected at line 105
+Overfull \hbox (1.41573pt too wide) detected at line 92
+ []\T1/phv/m/n/12 140
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 93
  []\T1/phv/m/n/12 141
  []
 
 
-Overfull \hbox (1.41573pt too wide) detected at line 106
+Overfull \hbox (1.41573pt too wide) detected at line 94
  []\T1/phv/m/n/12 143
  []
 
 
-Overfull \hbox (1.41573pt too wide) detected at line 108
- []\T1/phv/m/n/12 151
+Overfull \hbox (1.41573pt too wide) detected at line 95
+ []\T1/phv/m/n/12 143
  []
 
 
-Overfull \hbox (1.41573pt too wide) detected at line 109
- []\T1/phv/m/n/12 151
+Overfull \hbox (1.41573pt too wide) detected at line 96
+ []\T1/phv/m/n/12 144
  []
 
 
-Overfull \hbox (1.41573pt too wide) detected at line 110
+Overfull \hbox (1.41573pt too wide) detected at line 97
+ []\T1/phv/m/n/12 144
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 98
+ []\T1/phv/m/n/12 144
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 99
+ []\T1/phv/m/n/12 145
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 100
+ []\T1/phv/m/n/12 146
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 101
+ []\T1/phv/m/n/12 146
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 102
+ []\T1/phv/m/n/12 148
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 103
  []\T1/phv/m/n/12 152
  []
 
 
-Overfull \hbox (1.41573pt too wide) detected at line 111
+Overfull \hbox (1.41573pt too wide) detected at line 104
  []\T1/phv/m/n/12 153
  []
 
 
-Overfull \hbox (1.41573pt too wide) detected at line 112
+Overfull \hbox (1.41573pt too wide) detected at line 105
  []\T1/phv/m/n/12 153
  []
 
 
-Overfull \hbox (1.41573pt too wide) detected at line 113
+Overfull \hbox (1.41573pt too wide) detected at line 106
+ []\T1/phv/m/n/12 153
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 107
  []\T1/phv/m/n/12 155
  []
 
 
-Overfull \hbox (1.41573pt too wide) detected at line 114
- []\T1/phv/m/n/12 163
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 115
- []\T1/phv/m/n/12 163
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 116
- []\T1/phv/m/n/12 164
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 117
- []\T1/phv/m/n/12 164
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 118
- []\T1/phv/m/n/12 165
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 119
- []\T1/phv/m/n/12 166
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 120
+Overfull \hbox (1.41573pt too wide) detected at line 109
  []\T1/phv/m/n/12 167
  []
 
 
-Overfull \hbox (1.41573pt too wide) detected at line 121
+Overfull \hbox (1.41573pt too wide) detected at line 110
+ []\T1/phv/m/n/12 167
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 111
  []\T1/phv/m/n/12 168
  []
 
 
+Overfull \hbox (1.41573pt too wide) detected at line 112
+ []\T1/phv/m/n/12 169
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 113
+ []\T1/phv/m/n/12 170
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 114
+ []\T1/phv/m/n/12 176
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 115
+ []\T1/phv/m/n/12 176
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 116
+ []\T1/phv/m/n/12 177
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 117
+ []\T1/phv/m/n/12 177
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 118
+ []\T1/phv/m/n/12 180
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 121
+ []\T1/phv/m/n/12 186
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 122
+ []\T1/phv/m/n/12 186
+ []
+
+
 Overfull \hbox (1.41573pt too wide) detected at line 123
- []\T1/phv/m/n/12 172
+ []\T1/phv/m/n/12 186
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 124
- []\T1/phv/m/n/12 172
+ []\T1/phv/m/n/12 187
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 125
- []\T1/phv/m/n/12 173
+ []\T1/phv/m/n/12 189
  []
 
-LaTeX Info: Redefining \HepProcess on input line 126.
-LaTeX Info: Redefining \HepProcess on input line 126.
-[10]
+
 Overfull \hbox (1.41573pt too wide) detected at line 126
- []\T1/phv/m/n/12 173
+ []\T1/phv/m/n/12 189
  []
 
-
-Overfull \hbox (1.41573pt too wide) detected at line 127
- []\T1/phv/m/n/12 173
- []
-
-
+LaTeX Info: Redefining \HepProcess on input line 127.
+LaTeX Info: Redefining \HepProcess on input line 127.
+[15]
 Overfull \hbox (1.41573pt too wide) detected at line 128
- []\T1/phv/m/n/12 175
+ []\T1/phv/m/n/12 192
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 129
- []\T1/phv/m/n/12 175
+ []\T1/phv/m/n/12 194
  []
 
 )
 \tf@toc=\write7
 \openout7 = `dissertation-base.toc'.
 
-LaTeX Info: Redefining \HepProcess on input line 80.
-LaTeX Info: Redefining \HepProcess on input line 80.
- [11])) Processing 'mainmatter' comment.
+LaTeX Info: Redefining \HepProcess on input line 99.
+LaTeX Info: Redefining \HepProcess on input line 99.
+ [16]
+LaTeX Info: Redefining \HepProcess on input line 99.
+LaTeX Info: Redefining \HepProcess on input line 99.
+ [17
+
+])) Processing 'mainmatter' comment.
+LaTeX Info: Redefining \HepProcess on input line 56.
+LaTeX Info: Redefining \HepProcess on input line 56.
+ [18
+
+]
 \openout3 = `comment.cut'.
 
 
@@ -2216,7 +2245,7 @@ Comment 'mainmatter' writing to comment.cut. Straight input of comment.cut.
 (./comment.cut (./ch1-Introduction.tex
 LaTeX Info: Redefining \HepProcess on input line 1.
 LaTeX Info: Redefining \HepProcess on input line 1.
- [12
+ [19
 
 ]
 chapter 1.
@@ -2236,8 +2265,10 @@ Class scrbook Warning: \float@addtolists detected!
 (scrbook)              a package that still implements the
 (scrbook)              deprecated \float@addtolist interface .
 
-LaTeX Info: Redefining \HepProcess on input line 9.
-LaTeX Info: Redefining \HepProcess on input line 9.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 6.
+LaTeX Info: Redefining \HepProcess on input line 12.
+LaTeX Info: Redefining \HepProcess on input line 12.
 [1
 
 ]
@@ -2246,12 +2277,12 @@ LaTeX Info: Redefining \HepProcess on input line 9.
 \openout4 = `dissertation-base.mtc'.
 
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 11.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 14.
  (./dissertation-base.mtc1)
 File: images/adams1932john.png Graphic file (type bmp)
 <images/adams1932john.png>
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 15.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 18.
 File: images/playfairArea2.jpg Graphic file (type bmp)
 <images/playfairArea2.jpg>
 File: images/playfairLine2.png Graphic file (type bmp)
@@ -2261,10 +2292,8 @@ File: images/playfairBar.jpg Graphic file (type bmp)
 File: images/playfairPie.jpg Graphic file (type bmp)
 <images/playfairPie.jpg>
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 24.
-LaTeX Info: Redefining \HepProcess on input line 24.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 25.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 27.
+LaTeX Info: Redefining \HepProcess on input line 27.
 File: images/ch1/SubjectDefinition2.png Graphic file (type bmp)
 <images/ch1/SubjectDefinition2.png>
 File: images/ch1/SubjectDefinition2.png Graphic file (type bmp)
@@ -2273,58 +2302,85 @@ File: images/ch1/venn1.png Graphic file (type bmp)
 <images/ch1/venn1.png>
 File: images/ch1/venn1.png Graphic file (type bmp)
 <images/ch1/venn1.png>
-LaTeX Info: Redefining \HepProcess on input line 43.
 LaTeX Info: Redefining \HepProcess on input line 46.
-LaTeX Info: Redefining \HepProcess on input line 46.
- [2]
-LaTeX Info: Redefining \HepProcess on input line 46.
-LaTeX Info: Redefining \HepProcess on input line 46.
- [3]
 File: images/ch1/nestedTreemap.png Graphic file (type bmp)
 <images/ch1/nestedTreemap.png>
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 49.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 50.
 File: images/ch1/treemap.png Graphic file (type bmp)
 <images/ch1/treemap.png>
+
+Underfull \vbox (badness 4168) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 56.
+LaTeX Info: Redefining \HepProcess on input line 56.
+ [2]
+LaTeX Info: Redefining \HepProcess on input line 56.
+LaTeX Info: Redefining \HepProcess on input line 56.
+
+[3]
 File: images/ch1/pc2.png Graphic file (type bmp)
 <images/ch1/pc2.png>
-LaTeX Info: Redefining \HepProcess on input line 62.
-LaTeX Info: Redefining \HepProcess on input line 62.
+
+Underfull \vbox (badness 1946) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 64.
+LaTeX Info: Redefining \HepProcess on input line 64.
  [4]
 File: images/ch1/graph.png Graphic file (type bmp)
 <images/ch1/graph.png>
-LaTeX Info: Redefining \HepProcess on input line 73.
 LaTeX Info: Redefining \HepProcess on input line 75.
-LaTeX Info: Redefining \HepProcess on input line 75.
- [5]
+LaTeX Info: Redefining \HepProcess on input line 77.
+LaTeX Info: Redefining \HepProcess on input line 77.
+
+[5]
 File: images/ch1/choropleth.png Graphic file (type bmp)
 <images/ch1/choropleth.png>
 File: images/ch1/minardsymbol.png Graphic file (type bmp)
 <images/ch1/minardsymbol.png>
-LaTeX Info: Redefining \HepProcess on input line 94.
-LaTeX Info: Redefining \HepProcess on input line 94.
- [6]
 LaTeX Info: Redefining \HepProcess on input line 96.
-LaTeX Info: Redefining \HepProcess on input line 99.
+LaTeX Info: Redefining \HepProcess on input line 96.
+ [6]
+LaTeX Info: Redefining \HepProcess on input line 98.
+LaTeX Info: Redefining \HepProcess on input line 101.
 File: images/ch1/TopicBreakdown2.png Graphic file (type bmp)
 <images/ch1/TopicBreakdown2.png>
-LaTeX Info: Redefining \HepProcess on input line 109.
-LaTeX Info: Redefining \HepProcess on input line 109.
- [7]
 LaTeX Info: Redefining \HepProcess on input line 111.
-LaTeX Info: Redefining \HepProcess on input line 121.
-LaTeX Info: Redefining \HepProcess on input line 125.
-LaTeX Info: Redefining \HepProcess on input line 125.
+LaTeX Info: Redefining \HepProcess on input line 111.
+ [7]
+LaTeX Info: Redefining \HepProcess on input line 113.
+LaTeX Info: Redefining \HepProcess on input line 123.
+LaTeX Info: Redefining \HepProcess on input line 123.
  [8]
-LaTeX Info: Redefining \HepProcess on input line 130.
+LaTeX Info: Redefining \HepProcess on input line 124.
+LaTeX Info: Redefining \HepProcess on input line 129.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 135.
+LaTeX Info: Redefining \HepProcess on input line 135.
+ [9]
+
+LaTeX Warning: Citation `mcnabb2019multivariate' on page 10 undefined on input 
+line 135.
+
+LaTeX Info: Redefining \HepProcess on input line 138.
+File: images/ch1/thesisbreakdown.png Graphic file (type bmp)
+<images/ch1/thesisbreakdown.png>
+File: images/ch1/ganttChart.png Graphic file (type bmp)
+<images/ch1/ganttChart.png>
 ) (./ch2-Survey.tex
 LaTeX Info: Redefining \HepProcess on input line 1.
 LaTeX Info: Redefining \HepProcess on input line 1.
-
-[9]
-LaTeX Info: Redefining \HepProcess on input line 1.
-LaTeX Info: Redefining \HepProcess on input line 1.
  [10]
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [11]
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [12
+
+]
 chapter 2.
 LaTeX Info: Redefining \HepProcess on input line 1.
 
@@ -2334,9 +2390,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--6
 
 LaTeX Info: Redefining \HepProcess on input line 8.
 LaTeX Info: Redefining \HepProcess on input line 8.
-[11
-
-]
+[13]
 \openout4 = `dissertation-base.mtc'.
 
 \openout4 = `dissertation-base.mtc'.
@@ -2344,10 +2398,7 @@ LaTeX Info: Redefining \HepProcess on input line 8.
  (./dissertation-base.mtc2)
 LaTeX Info: Redefining \HepProcess on input line 11.
 LaTeX Info: Redefining \HepProcess on input line 11.
- [12]
-LaTeX Info: Redefining \HepProcess on input line 27.
-LaTeX Info: Redefining \HepProcess on input line 27.
- [13]
+ [14]
 LaTeX Info: Redefining \HepProcess on input line 30.
 LaTeX Font Info:    Try loading font information for OMS+phv on input line 40.
 
@@ -2356,201 +2407,262 @@ File: omsphv.fd
 )
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
-LaTeX Info: Redefining \HepProcess on input line 44.
-LaTeX Info: Redefining \HepProcess on input line 44.
- [14]
-LaTeX Info: Redefining \HepProcess on input line 73.
-LaTeX Info: Redefining \HepProcess on input line 82.
-LaTeX Info: Redefining \HepProcess on input line 82.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 42.
+LaTeX Info: Redefining \HepProcess on input line 42.
  [15]
+LaTeX Info: Redefining \HepProcess on input line 73.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 79.
+LaTeX Info: Redefining \HepProcess on input line 79.
+ [16]
 LaTeX Info: Redefining \HepProcess on input line 83.
 LaTeX Info: Redefining \HepProcess on input line 89.
 File: images/customPipeline.png Graphic file (type bmp)
 <images/customPipeline.png>
-LaTeX Info: Redefining \HepProcess on input line 107.
-LaTeX Info: Redefining \HepProcess on input line 107.
- [16]
-LaTeX Info: Redefining \HepProcess on input line 115.
-LaTeX Info: Redefining \HepProcess on input line 115.
+LaTeX Info: Redefining \HepProcess on input line 106.
+LaTeX Info: Redefining \HepProcess on input line 106.
 
 [17]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 113.
+LaTeX Info: Redefining \HepProcess on input line 113.
+ [18]
 File: images/yearbreakdownv2.png Graphic file (type bmp)
 <images/yearbreakdownv2.png>
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 135.
+(Font)              scaled to size 5.21004pt on input line 134.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 135.
+(Font)              scaled to size 5.21004pt on input line 134.
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 137.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 136.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-LaTeX Info: Redefining \HepProcess on input line 163.
-LaTeX Info: Redefining \HepProcess on input line 163.
-[18]
-LaTeX Info: Redefining \HepProcess on input line 208.
-LaTeX Info: Redefining \HepProcess on input line 215.
-LaTeX Info: Redefining \HepProcess on input line 215.
- [19]
+LaTeX Info: Redefining \HepProcess on input line 162.
+LaTeX Info: Redefining \HepProcess on input line 162.
+[19]
+LaTeX Info: Redefining \HepProcess on input line 207.
+LaTeX Info: Redefining \HepProcess on input line 213.
+LaTeX Info: Redefining \HepProcess on input line 213.
+ [20]
 
 Package hhline Warning: the character + ignored in \hhline argument
-(hhline)                 on input line 401.
+(hhline)                 on input line 400.
 
 
-Underfull \hbox (badness 1383) in paragraph at lines 402--402
+Underfull \hbox (badness 1383) in paragraph at lines 401--401
 [][]|\T1/phv/m/n/8 A 3-Dimensional hi-er-ar-chi-cal clas-si-fi-ca-tion ta-ble d
 e-pict-ing the cat-e-go-riza-tion of all the sur-vey pa-pers.
  []
 
 
-LaTeX Warning: Float too large for page by 41.47212pt on input line 403.
+LaTeX Warning: Float too large for page by 41.47212pt on input line 402.
 
-LaTeX Info: Redefining \HepProcess on input line 405.
-LaTeX Info: Redefining \HepProcess on input line 409.
-LaTeX Info: Redefining \HepProcess on input line 409.
-[20]
-LaTeX Info: Redefining \HepProcess on input line 409.
-LaTeX Info: Redefining \HepProcess on input line 409.
+LaTeX Info: Redefining \HepProcess on input line 404.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 406.
+LaTeX Info: Redefining \HepProcess on input line 406.
  [21]
-LaTeX Info: Redefining \HepProcess on input line 410.
-LaTeX Info: Redefining \HepProcess on input line 416.
-LaTeX Info: Redefining \HepProcess on input line 426.
-LaTeX Info: Redefining \HepProcess on input line 426.
- [22]
+LaTeX Info: Redefining \HepProcess on input line 406.
+LaTeX Info: Redefining \HepProcess on input line 406.
+
+[22]
+LaTeX Info: Redefining \HepProcess on input line 409.
+LaTeX Info: Redefining \HepProcess on input line 415.
+
+Underfull \vbox (badness 1668) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 421.
+LaTeX Info: Redefining \HepProcess on input line 421.
+ [23]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 427.
+               Default added (so using `tbp') on input line 426.
 
 
-Overfull \hbox (2.98407pt too wide) in paragraph at lines 503--503
+Overfull \hbox (2.98407pt too wide) in paragraph at lines 502--502
  []|[]\T1/phv/m/n/10 C$[]$[]| 
  []
 
 
-Overfull \hbox (5.82951pt too wide) in paragraph at lines 503--503
- []|[]\T1/phv/m/n/10 C$[]$[]| 
- []
-
-LaTeX Info: Redefining \HepProcess on input line 510.
-LaTeX Info: Redefining \HepProcess on input line 510.
-[23]
-Overfull \hbox (2.98407pt too wide) in paragraph at lines 527--527
+Overfull \hbox (5.82951pt too wide) in paragraph at lines 502--502
  []|[]\T1/phv/m/n/10 C$[]$[]| 
  []
 
 
-Overfull \hbox (5.82951pt too wide) in paragraph at lines 527--527
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 509.
+LaTeX Info: Redefining \HepProcess on input line 509.
+ [24]
+LaTeX Info: Redefining \HepProcess on input line 509.
+LaTeX Info: Redefining \HepProcess on input line 509.
+
+[25]
+Overfull \hbox (2.98407pt too wide) in paragraph at lines 526--526
  []|[]\T1/phv/m/n/10 C$[]$[]| 
  []
 
 
-Overfull \hbox (9.20445pt too wide) in paragraph at lines 533--534
+Overfull \hbox (5.82951pt too wide) in paragraph at lines 526--526
+ []|[]\T1/phv/m/n/10 C$[]$[]| 
+ []
+
+
+Overfull \hbox (9.20445pt too wide) in paragraph at lines 532--533
 []\T1/phv/m/n/10.95 Borgo et al. com-pare dif-fer-ent glyph-based vi-su-al-iza-
 tion tech-niques us-ing a multiple-attribute
  []
 
-LaTeX Info: Redefining \HepProcess on input line 537.
-LaTeX Info: Redefining \HepProcess on input line 537.
-[24]
-LaTeX Info: Redefining \HepProcess on input line 540.
-LaTeX Info: Redefining \HepProcess on input line 542.
-LaTeX Info: Redefining \HepProcess on input line 544.
-LaTeX Info: Redefining \HepProcess on input line 544.
- [25]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 535.
+LaTeX Info: Redefining \HepProcess on input line 535.
+ [26]
+LaTeX Info: Redefining \HepProcess on input line 539.
+LaTeX Info: Redefining \HepProcess on input line 541.
+LaTeX Info: Redefining \HepProcess on input line 555.
+LaTeX Info: Redefining \HepProcess on input line 555.
+
+[27]
 File: images/sedlmair2012taxonomyFull.pdf Graphic file (type pdf)
 <use images/sedlmair2012taxonomyFull.pdf>
-LaTeX Info: Redefining \HepProcess on input line 595.
-LaTeX Info: Redefining \HepProcess on input line 595.
- [26]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 592.
+LaTeX Info: Redefining \HepProcess on input line 592.
+ [28]
 File: images/isaacs2014stateFull.pdf Graphic file (type pdf)
 <use images/isaacs2014stateFull.pdf>
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 625.
+               Default added (so using `tbp') on input line 624.
 
-LaTeX Info: Redefining \HepProcess on input line 656.
-LaTeX Info: Redefining \HepProcess on input line 656.
-[27]
-LaTeX Info: Redefining \HepProcess on input line 656.
-LaTeX Info: Redefining \HepProcess on input line 656.
- [28]
 File: images/zhou2015survey.png Graphic file (type bmp)
 <images/zhou2015survey.png>
-LaTeX Info: Redefining \HepProcess on input line 687.
-LaTeX Info: Redefining \HepProcess on input line 687.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 686.
+LaTeX Info: Redefining \HepProcess on input line 686.
  [29]
-LaTeX Info: Redefining \HepProcess on input line 697.
-LaTeX Info: Redefining \HepProcess on input line 697.
- [30]
+LaTeX Info: Redefining \HepProcess on input line 686.
+LaTeX Info: Redefining \HepProcess on input line 686.
+
+[30]
+LaTeX Info: Redefining \HepProcess on input line 696.
+LaTeX Info: Redefining \HepProcess on input line 696.
+ [31]
 File: images/wanner2014state.png Graphic file (type bmp)
 <images/wanner2014state.png>
-LaTeX Info: Redefining \HepProcess on input line 723.
-LaTeX Info: Redefining \HepProcess on input line 723.
- [31]
+
+Underfull \vbox (badness 1590) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 722.
+LaTeX Info: Redefining \HepProcess on input line 722.
+ [32]
 File: images/janicke2015on.png Graphic file (type bmp)
 <images/janicke2015on.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 758.
+LaTeX Info: Redefining \HepProcess on input line 758.
+ [33]
+LaTeX Info: Redefining \HepProcess on input line 758.
+LaTeX Info: Redefining \HepProcess on input line 758.
+
+[34]
 File: images/kucher2015text.png Graphic file (type bmp)
 <images/kucher2015text.png>
 File: images/federico2016survey.png Graphic file (type bmp)
 <images/federico2016survey.png>
-LaTeX Info: Redefining \HepProcess on input line 824.
-LaTeX Info: Redefining \HepProcess on input line 824.
- [32]
-LaTeX Info: Redefining \HepProcess on input line 824.
-LaTeX Info: Redefining \HepProcess on input line 824.
- [33]
-LaTeX Info: Redefining \HepProcess on input line 827.
-LaTeX Info: Redefining \HepProcess on input line 829.
-LaTeX Info: Redefining \HepProcess on input line 829.
- [34]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 823.
+LaTeX Info: Redefining \HepProcess on input line 823.
+ [35]
+LaTeX Info: Redefining \HepProcess on input line 826.
+LaTeX Info: Redefining \HepProcess on input line 837.
+LaTeX Info: Redefining \HepProcess on input line 837.
+
+[36]
 File: images/elmqvist2010hierarchical.png Graphic file (type bmp)
 <images/elmqvist2010hierarchical.png>
-LaTeX Info: Redefining \HepProcess on input line 870.
-LaTeX Info: Redefining \HepProcess on input line 870.
- [35]
 File: images/schulz2011designFull.pdf Graphic file (type pdf)
 <use images/schulz2011designFull.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 882.
+LaTeX Info: Redefining \HepProcess on input line 882.
+ [37]
 File: images/alsallakh2014visualising.png Graphic file (type bmp)
 <images/alsallakh2014visualising.png>
 
 
-LaTeX Warning: Float too large for page by 10.31006pt on input line 921.
+LaTeX Warning: Float too large for page by 10.31006pt on input line 920.
 
-LaTeX Info: Redefining \HepProcess on input line 938.
-LaTeX Info: Redefining \HepProcess on input line 938.
-[36]
-LaTeX Info: Redefining \HepProcess on input line 938.
-LaTeX Info: Redefining \HepProcess on input line 938.
- [37]
-LaTeX Info: Redefining \HepProcess on input line 938.
-LaTeX Info: Redefining \HepProcess on input line 938.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 944.
+LaTeX Info: Redefining \HepProcess on input line 944.
  [38]
+LaTeX Info: Redefining \HepProcess on input line 944.
+LaTeX Info: Redefining \HepProcess on input line 944.
+
+[39]
+LaTeX Info: Redefining \HepProcess on input line 944.
+LaTeX Info: Redefining \HepProcess on input line 944.
+ [40]
 File: images/bertini2011quality.png Graphic file (type bmp)
 <images/bertini2011quality.png>
-LaTeX Info: Redefining \HepProcess on input line 983.
-LaTeX Info: Redefining \HepProcess on input line 983.
- [39]
-LaTeX Info: Redefining \HepProcess on input line 983.
-LaTeX Info: Redefining \HepProcess on input line 983.
- [40]
 File: images/liu2015visualising.png Graphic file (type bmp)
 <images/liu2015visualising.png>
-LaTeX Info: Redefining \HepProcess on input line 1014.
-LaTeX Info: Redefining \HepProcess on input line 1014.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 1004.
+LaTeX Info: Redefining \HepProcess on input line 1004.
  [41]
+LaTeX Info: Redefining \HepProcess on input line 1004.
+LaTeX Info: Redefining \HepProcess on input line 1004.
+
+[42]
+Underfull \vbox (badness 3428) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 1019.
+LaTeX Info: Redefining \HepProcess on input line 1019.
+ [43]
 File: images/heinrich2013stateFull.pdf Graphic file (type pdf)
 <use images/heinrich2013stateFull.pdf>
-LaTeX Info: Redefining \HepProcess on input line 1055.
-LaTeX Info: Redefining \HepProcess on input line 1055.
- [42]
 File: images/johansson2016evaluation.png Graphic file (type bmp)
 <images/johansson2016evaluation.png>
-LaTeX Info: Redefining \HepProcess on input line 1081.
-LaTeX Info: Redefining \HepProcess on input line 1081.
- [43]
-Overfull \hbox (1.61623pt too wide) in paragraph at lines 1102--1103
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 1080.
+LaTeX Info: Redefining \HepProcess on input line 1080.
+ [44]
+LaTeX Info: Redefining \HepProcess on input line 1085.
+LaTeX Info: Redefining \HepProcess on input line 1085.
+
+[45]
+Overfull \hbox (1.61623pt too wide) in paragraph at lines 1101--1102
 []\T1/phv/m/n/10.95 Borgo et al. cat-e-go-rize the lit-er-a-ture by ex-am-in-in
 g each tech-nique and de-ter-min-ing whether
  []
@@ -2559,128 +2671,166 @@ File: images/borgo2013glyphFull.pdf Graphic file (type pdf)
 <use images/borgo2013glyphFull.pdf>
 File: images/fuchs2016systematic.png Graphic file (type bmp)
 <images/fuchs2016systematic.png>
-LaTeX Info: Redefining \HepProcess on input line 1135.
-LaTeX Info: Redefining \HepProcess on input line 1135.
-[44]
 File: images/citationvis5.png Graphic file (type bmp)
 <images/citationvis5.png>
-LaTeX Info: Redefining \HepProcess on input line 1156.
-LaTeX Info: Redefining \HepProcess on input line 1156.
- [45]
-LaTeX Info: Redefining \HepProcess on input line 1156.
-LaTeX Info: Redefining \HepProcess on input line 1156.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 1155.
+LaTeX Info: Redefining \HepProcess on input line 1155.
  [46]
-LaTeX Info: Redefining \HepProcess on input line 1157.
-LaTeX Info: Redefining \HepProcess on input line 1163.
-LaTeX Info: Redefining \HepProcess on input line 1163.
+LaTeX Info: Redefining \HepProcess on input line 1156.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 1158.
+LaTeX Info: Redefining \HepProcess on input line 1158.
  [47]
+LaTeX Info: Redefining \HepProcess on input line 1158.
+LaTeX Info: Redefining \HepProcess on input line 1158.
+
+[48]
+Underfull \vbox (badness 2269) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 1166.
+LaTeX Info: Redefining \HepProcess on input line 1166.
+ [49]
 File: images/von2011visual.png Graphic file (type bmp)
 <images/von2011visual.png>
-LaTeX Info: Redefining \HepProcess on input line 1206.
-LaTeX Info: Redefining \HepProcess on input line 1206.
- [48]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 1205.
+LaTeX Info: Redefining \HepProcess on input line 1205.
+ [50]
 File: images/kerracher2014designFull.pdf Graphic file (type pdf)
 <use images/kerracher2014designFull.pdf>
 
-Overfull \hbox (7.23915pt too wide) in paragraph at lines 1264--1267
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 1258.
+LaTeX Info: Redefining \HepProcess on input line 1258.
+ [51]
+Overfull \hbox (7.23915pt too wide) in paragraph at lines 1263--1266
 []\T1/phv/m/sl/10.95 `Graphs or net-works are used to model re-la-tion-ships be
 -tween ob-jects of any kind' \T1/phv/m/n/10.95 [[][]VBW15a[][]].
  []
 
-LaTeX Info: Redefining \HepProcess on input line 1269.
-LaTeX Info: Redefining \HepProcess on input line 1269.
-[49]
 File: images/vehlow2015state1.png Graphic file (type bmp)
 <images/vehlow2015state1.png>
-LaTeX Info: Redefining \HepProcess on input line 1332.
-LaTeX Info: Redefining \HepProcess on input line 1332.
- [50]
-LaTeX Info: Redefining \HepProcess on input line 1332.
-LaTeX Info: Redefining \HepProcess on input line 1332.
- [51]
-LaTeX Info: Redefining \HepProcess on input line 1373.
-LaTeX Info: Redefining \HepProcess on input line 1373.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 1334.
+LaTeX Info: Redefining \HepProcess on input line 1334.
  [52]
+LaTeX Info: Redefining \HepProcess on input line 1334.
+LaTeX Info: Redefining \HepProcess on input line 1334.
+
+[53]
+LaTeX Info: Redefining \HepProcess on input line 1373.
+LaTeX Info: Redefining \HepProcess on input line 1373.
+ [54]
 File: images/ahn2014taskFull.pdf Graphic file (type pdf)
 <use images/ahn2014taskFull.pdf>
-LaTeX Info: Redefining \HepProcess on input line 1430.
-LaTeX Info: Redefining \HepProcess on input line 1434.
-LaTeX Info: Redefining \HepProcess on input line 1434.
- [53]
-LaTeX Info: Redefining \HepProcess on input line 1434.
-LaTeX Info: Redefining \HepProcess on input line 1434.
- [54]
-LaTeX Info: Redefining \HepProcess on input line 1479.
-LaTeX Info: Redefining \HepProcess on input line 1479.
+LaTeX Info: Redefining \HepProcess on input line 1429.
+LaTeX Info: Redefining \HepProcess on input line 1437.
+LaTeX Info: Redefining \HepProcess on input line 1437.
  [55]
+LaTeX Info: Redefining \HepProcess on input line 1437.
+LaTeX Info: Redefining \HepProcess on input line 1437.
+ [56]
 File: images/bach2014reviewFull.pdf Graphic file (type pdf)
 <use images/bach2014reviewFull.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 1500.
+LaTeX Info: Redefining \HepProcess on input line 1500.
+ [57]
+LaTeX Info: Redefining \HepProcess on input line 1500.
+LaTeX Info: Redefining \HepProcess on input line 1500.
+
+[58]
 File: images/chen2015survey.png Graphic file (type bmp)
 <images/chen2015survey.png>
-LaTeX Info: Redefining \HepProcess on input line 1542.
-LaTeX Info: Redefining \HepProcess on input line 1542.
- [56]
-LaTeX Info: Redefining \HepProcess on input line 1542.
-LaTeX Info: Redefining \HepProcess on input line 1542.
- [57]
+LaTeX Info: Redefining \HepProcess on input line 1541.
+LaTeX Info: Redefining \HepProcess on input line 1541.
+ [59]
 File: images/nusrat2015taskFullp.png Graphic file (type bmp)
 <images/nusrat2015taskFullp.png>
-LaTeX Info: Redefining \HepProcess on input line 1551.
-LaTeX Info: Redefining \HepProcess on input line 1551.
- [58]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 1579.
+LaTeX Info: Redefining \HepProcess on input line 1579.
+ [60]
 File: images/nusrat2016state.png Graphic file (type bmp)
 <images/nusrat2016state.png>
-LaTeX Info: Redefining \HepProcess on input line 1605.
-LaTeX Info: Redefining \HepProcess on input line 1607.
-LaTeX Info: Redefining \HepProcess on input line 1607.
- [59]
-LaTeX Info: Redefining \HepProcess on input line 1607.
-LaTeX Info: Redefining \HepProcess on input line 1607.
- [60]
+LaTeX Info: Redefining \HepProcess on input line 1604.
+LaTeX Info: Redefining \HepProcess on input line 1610.
+LaTeX Info: Redefining \HepProcess on input line 1610.
+
+[61]
+LaTeX Info: Redefining \HepProcess on input line 1610.
+LaTeX Info: Redefining \HepProcess on input line 1610.
+ [62]
 File: images/javed2012exploring.png Graphic file (type bmp)
 <images/javed2012exploring.png>
-LaTeX Info: Redefining \HepProcess on input line 1650.
-LaTeX Info: Redefining \HepProcess on input line 1650.
- [61]
+
+Underfull \vbox (badness 4832) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 1649.
+LaTeX Info: Redefining \HepProcess on input line 1649.
+ [63]
 File: images/hadlak2015survey.png Graphic file (type bmp)
 <images/hadlak2015survey.png>
-LaTeX Info: Redefining \HepProcess on input line 1673.
-LaTeX Info: Redefining \HepProcess on input line 1675.
-LaTeX Info: Redefining \HepProcess on input line 1675.
- [62]
+LaTeX Info: Redefining \HepProcess on input line 1672.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 1674.
+LaTeX Info: Redefining \HepProcess on input line 1674.
+ [64]
 File: images/ko2016surveyFull.pdf Graphic file (type pdf)
 <use images/ko2016surveyFull.pdf>
-LaTeX Info: Redefining \HepProcess on input line 1713.
-LaTeX Info: Redefining \HepProcess on input line 1713.
- [63]
+LaTeX Info: Redefining \HepProcess on input line 1712.
+LaTeX Info: Redefining \HepProcess on input line 1712.
+
+[65]
 File: images/shiravi2012survey.png Graphic file (type bmp)
 <images/shiravi2012survey.png>
-LaTeX Info: Redefining \HepProcess on input line 1764.
-LaTeX Info: Redefining \HepProcess on input line 1764.
-
-[64]
-LaTeX Info: Redefining \HepProcess on input line 1764.
-LaTeX Info: Redefining \HepProcess on input line 1764.
- [65]
+LaTeX Info: Redefining \HepProcess on input line 1763.
+LaTeX Info: Redefining \HepProcess on input line 1763.
+ [66]
+LaTeX Info: Redefining \HepProcess on input line 1763.
+LaTeX Info: Redefining \HepProcess on input line 1763.
+ [67]
 File: images/wagner2015survey.png Graphic file (type bmp)
 <images/wagner2015survey.png>
-LaTeX Info: Redefining \HepProcess on input line 1796.
-LaTeX Info: Redefining \HepProcess on input line 1796.
- [66]
+LaTeX Info: Redefining \HepProcess on input line 1795.
+LaTeX Info: Redefining \HepProcess on input line 1795.
+ [68]
 File: images/gao2011performance.png Graphic file (type bmp)
 <images/gao2011performance.png>
-LaTeX Info: Redefining \HepProcess on input line 1831.
-LaTeX Info: Redefining \HepProcess on input line 1831.
- [67]
+
+Underfull \vbox (badness 2591) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 1827.
+LaTeX Info: Redefining \HepProcess on input line 1827.
+ [69]
 File: images/caserta2011visualization.png Graphic file (type bmp)
 <images/caserta2011visualization.png>
-LaTeX Info: Redefining \HepProcess on input line 1865.
-LaTeX Info: Redefining \HepProcess on input line 1865.
- [68]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 1864.
+LaTeX Info: Redefining \HepProcess on input line 1864.
+ [70]
 File: images/sun2014five.png Graphic file (type bmp)
 <images/sun2014five.png>
 
-Overfull \hbox (8.55255pt too wide) in paragraph at lines 1906--1907
+Overfull \hbox (8.55255pt too wide) in paragraph at lines 1905--1906
 \T1/phv/m/n/10.95 mag-ni-fi-ca-tion em-pha-sis ef-fects. (2) \T1/phv/m/sl/10.95
  Be-yond mag-ni-fi-ca-tion \T1/phv/m/n/10.95 - pa-pers de-scrib-ing non-magnifi
 cation
@@ -2689,50 +2839,66 @@ cation
 File: images/hall2016formalizingFull.pdf Graphic file (type pdf)
 <use images/hall2016formalizingFull.pdf>
 
-LaTeX Warning: Float too large for page by 8.45824pt on input line 1913.
+LaTeX Warning: Float too large for page by 8.45824pt on input line 1912.
 
-LaTeX Info: Redefining \HepProcess on input line 1930.
-LaTeX Info: Redefining \HepProcess on input line 1930.
-[69]
-LaTeX Info: Redefining \HepProcess on input line 1933.
-LaTeX Info: Redefining \HepProcess on input line 1944.
-LaTeX Info: Redefining \HepProcess on input line 1944.
- [70]
-LaTeX Info: Redefining \HepProcess on input line 1944.
-LaTeX Info: Redefining \HepProcess on input line 1944.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 1929.
+LaTeX Info: Redefining \HepProcess on input line 1929.
  [71]
+LaTeX Info: Redefining \HepProcess on input line 1932.
+LaTeX Info: Redefining \HepProcess on input line 1943.
+LaTeX Info: Redefining \HepProcess on input line 1943.
+
+[72]
+LaTeX Info: Redefining \HepProcess on input line 1943.
+LaTeX Info: Redefining \HepProcess on input line 1943.
+ [73]
 File: images/tominski2014surveyFull.png Graphic file (type bmp)
 <images/tominski2014surveyFull.png>
-LaTeX Info: Redefining \HepProcess on input line 2014.
+LaTeX Info: Redefining \HepProcess on input line 2013.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <8> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 2025.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 2024.
 LaTeX Font Info:    Font shape `T1/phv/bx/sc' in size <8> not available
-(Font)              Font shape `T1/phv/b/sc' tried instead on input line 2025.
-LaTeX Info: Redefining \HepProcess on input line 2074.
-LaTeX Info: Redefining \HepProcess on input line 2074.
- [72]
-LaTeX Info: Redefining \HepProcess on input line 2074.
-LaTeX Info: Redefining \HepProcess on input line 2074.
- [73]
-LaTeX Info: Redefining \HepProcess on input line 2088.
-LaTeX Info: Redefining \HepProcess on input line 2088.
+(Font)              Font shape `T1/phv/b/sc' tried instead on input line 2024.
+
+Underfull \vbox (badness 1655) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 2073.
+LaTeX Info: Redefining \HepProcess on input line 2073.
  [74]
-LaTeX Info: Redefining \HepProcess on input line 2088.
-LaTeX Info: Redefining \HepProcess on input line 2088.
- [75]
+LaTeX Info: Redefining \HepProcess on input line 2073.
+LaTeX Info: Redefining \HepProcess on input line 2073.
+
+[75]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 2087.
+LaTeX Info: Redefining \HepProcess on input line 2087.
+ [76]
+LaTeX Info: Redefining \HepProcess on input line 2087.
+LaTeX Info: Redefining \HepProcess on input line 2087.
+
+[77]
 File: images/open-research2.png Graphic file (type bmp)
 <images/open-research2.png>
-LaTeX Info: Redefining \HepProcess on input line 2100.
+LaTeX Info: Redefining \HepProcess on input line 2099.
+LaTeX Info: Redefining \HepProcess on input line 2101.
+LaTeX Info: Redefining \HepProcess on input line 2101.
+ [78]
 LaTeX Info: Redefining \HepProcess on input line 2102.
-LaTeX Info: Redefining \HepProcess on input line 2102.
- [76]
-LaTeX Info: Redefining \HepProcess on input line 2103.
 File: images/CitedVis.png Graphic file (type bmp)
 <images/CitedVis.png>
 ) (./ch3-ChoroplethZooming.tex
 LaTeX Info: Redefining \HepProcess on input line 1.
 LaTeX Info: Redefining \HepProcess on input line 1.
- [77]
+ [79]
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [80
+
+]
 chapter 3.
 LaTeX Info: Redefining \HepProcess on input line 1.
 
@@ -2742,104 +2908,139 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
 LaTeX Info: Redefining \HepProcess on input line 9.
 LaTeX Info: Redefining \HepProcess on input line 9.
-[78
-
-]
+[81]
 \openout4 = `dissertation-base.mtc'.
 
 \openout4 = `dissertation-base.mtc'.
 
  (./dissertation-base.mtc3)
-LaTeX Info: Redefining \HepProcess on input line 14.
-LaTeX Info: Redefining \HepProcess on input line 14.
- [79]
 LaTeX Info: Redefining \HepProcess on input line 21.
 LaTeX Info: Redefining \HepProcess on input line 21.
- [80]
+ [82]
 LaTeX Info: Redefining \HepProcess on input line 23.
 File: images/newTeaser.png Graphic file (type bmp)
 <images/newTeaser.png>
 LaTeX Info: Redefining \HepProcess on input line 42.
 LaTeX Info: Redefining \HepProcess on input line 42.
- [81]
-
-LaTeX Warning: Reference `cfw' on page 82 undefined on input line 53.
-
+ [83]
 File: images/Zooming3.png Graphic file (type bmp)
 <images/Zooming3.png>
-LaTeX Info: Redefining \HepProcess on input line 61.
 LaTeX Info: Redefining \HepProcess on input line 63.
-LaTeX Info: Redefining \HepProcess on input line 63.
-[82]
-LaTeX Info: Redefining \HepProcess on input line 64.
+Missing character: There is no ‘ in font phvr8t!
+Missing character: There is no ’ in font phvr8t!
+Missing character: There is no ‘ in font phvr8t!
+Missing character: There is no ’ in font phvr8t!
+Missing character: There is no ‘ in font phvr8t!
+Missing character: There is no ’ in font phvr8t!
+Missing character: There is no ‘ in font phvr8t!
+Missing character: There is no ’ in font phvr8t!
 
-Overfull \hbox (13.70726pt too wide) in paragraph at lines 65--67
+Underfull \hbox (badness 4543) in paragraph at lines 77--77
+[]|\T1/phv/m/n/10 "the pro-cess of fus-ing nearby poly-gons" [[][]SMKH09[][]].
+ []
+
+Missing character: There is no ‘ in font phvr8t!
+Missing character: There is no ’ in font phvr8t!
+Missing character: There is no ‘ in font phvr8t!
+Missing character: There is no ’ in font phvr8t!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 80.
+LaTeX Info: Redefining \HepProcess on input line 80.
+ [84]
+LaTeX Info: Redefining \HepProcess on input line 82.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 84.
+LaTeX Info: Redefining \HepProcess on input line 84.
+ [85]
+LaTeX Info: Redefining \HepProcess on input line 85.
+
+Overfull \hbox (13.70726pt too wide) in paragraph at lines 86--88
 \T1/phv/m/n/10.95 Cockburn \T1/phv/m/sl/10.95 et al. \T1/phv/m/n/10.95 re-view 
 pan+zoom used in over 15 re-search pa-pers, and ex-am-ine overview+detail,
  []
 
-LaTeX Info: Redefining \HepProcess on input line 71.
-LaTeX Info: Redefining \HepProcess on input line 71.
-[83]
-LaTeX Info: Redefining \HepProcess on input line 71.
-LaTeX Info: Redefining \HepProcess on input line 77.
-LaTeX Info: Redefining \HepProcess on input line 77.
- [84]
-LaTeX Info: Redefining \HepProcess on input line 83.
-LaTeX Info: Redefining \HepProcess on input line 87.
-LaTeX Info: Redefining \HepProcess on input line 87.
- [85]
 LaTeX Info: Redefining \HepProcess on input line 90.
-LaTeX Info: Redefining \HepProcess on input line 93.
+LaTeX Info: Redefining \HepProcess on input line 90.
+[86]
+LaTeX Info: Redefining \HepProcess on input line 92.
+LaTeX Info: Redefining \HepProcess on input line 98.
+LaTeX Info: Redefining \HepProcess on input line 98.
+ [87]
+LaTeX Info: Redefining \HepProcess on input line 104.
+LaTeX Info: Redefining \HepProcess on input line 108.
+LaTeX Info: Redefining \HepProcess on input line 108.
+ [88]
+LaTeX Info: Redefining \HepProcess on input line 111.
+LaTeX Info: Redefining \HepProcess on input line 114.
 File: images/HorizontalFlow2.pdf Graphic file (type pdf)
 <use images/HorizontalFlow2.pdf>
 
-Overfull \hbox (12.21738pt too wide) in paragraph at lines 101--102
+Overfull \hbox (12.21738pt too wide) in paragraph at lines 122--123
 \T1/phv/m/n/10.95 In or-der to ef-fec-tively en-able smooth and con-tin-u-ous z
 oom-ing at run-time, we use pre-processing.
  []
 
-LaTeX Info: Redefining \HepProcess on input line 102.
-LaTeX Info: Redefining \HepProcess on input line 102.
-[86]
-LaTeX Info: Redefining \HepProcess on input line 111.
-LaTeX Info: Redefining \HepProcess on input line 118.
-LaTeX Info: Redefining \HepProcess on input line 118.
- [87]
-LaTeX Info: Redefining \HepProcess on input line 119.
+
+Underfull \vbox (badness 1038) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 125.
+LaTeX Info: Redefining \HepProcess on input line 125.
+ [89]
+LaTeX Info: Redefining \HepProcess on input line 132.
+LaTeX Info: Redefining \HepProcess on input line 136.
+LaTeX Info: Redefining \HepProcess on input line 136.
+
+[90]
+LaTeX Info: Redefining \HepProcess on input line 140.
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 124.
+put line 145.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7.6> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 195.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 216.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 195.
-LaTeX Info: Redefining \HepProcess on input line 201.
-LaTeX Info: Redefining \HepProcess on input line 201.
- [88]
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 216.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 File: images/Contiguous1.png Graphic file (type bmp)
 <images/Contiguous1.png>
 File: images/Contiguous2.png Graphic file (type bmp)
 <images/Contiguous2.png>
 File: images/Contiguous3.png Graphic file (type bmp)
 <images/Contiguous3.png>
-LaTeX Info: Redefining \HepProcess on input line 217.
-LaTeX Info: Redefining \HepProcess on input line 217.
- [89]
+LaTeX Info: Redefining \HepProcess on input line 238.
+LaTeX Info: Redefining \HepProcess on input line 238.
+[91]
 File: images/ahupuaa.png Graphic file (type bmp)
 <images/ahupuaa.png>
-LaTeX Info: Redefining \HepProcess on input line 226.
-LaTeX Info: Redefining \HepProcess on input line 228.
-LaTeX Info: Redefining \HepProcess on input line 228.
- [90]
-LaTeX Info: Redefining \HepProcess on input line 229.
 
-Overfull \hbox (26.71046pt too wide) in paragraph at lines 243--244
-\T1/phv/m/n/10.95 for-ma-tions to form. To cal-cu-late this we can use ($[]$).
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 244.
+LaTeX Info: Redefining \HepProcess on input line 244.
+ [92]
+LaTeX Info: Redefining \HepProcess on input line 247.
+LaTeX Info: Redefining \HepProcess on input line 250.
+LaTeX Info: Redefining \HepProcess on input line 250.
+
+[93]
+LaTeX Info: Redefining \HepProcess on input line 250.
+
+Overfull \hbox (47.29622pt too wide) in paragraph at lines 264--265
+\T1/phv/m/n/10.95 gon for-ma-tions to form. To cal-cu-late this we can use ($[]
+$).
  []
 
-LaTeX Info: Redefining \HepProcess on input line 246.
-LaTeX Info: Redefining \HepProcess on input line 246.
-[91]
+LaTeX Info: Redefining \HepProcess on input line 265.
+LaTeX Info: Redefining \HepProcess on input line 265.
+[94]
 File: images/caseLegend.png Graphic file (type bmp)
 <images/caseLegend.png>
 File: images/case1v2.png Graphic file (type bmp)
@@ -2852,89 +3053,122 @@ File: images/case3.png Graphic file (type bmp)
 <images/case3.png>
 File: images/case4.png Graphic file (type bmp)
 <images/case4.png>
-LaTeX Info: Redefining \HepProcess on input line 278.
-LaTeX Info: Redefining \HepProcess on input line 362.
-LaTeX Info: Redefining \HepProcess on input line 362.
- [92]
-LaTeX Info: Redefining \HepProcess on input line 362.
-LaTeX Info: Redefining \HepProcess on input line 362.
- [93]
+LaTeX Info: Redefining \HepProcess on input line 299.
+LaTeX Info: Redefining \HepProcess on input line 305.
+LaTeX Info: Redefining \HepProcess on input line 305.
+ [95]
+LaTeX Info: Redefining \HepProcess on input line 305.
+LaTeX Info: Redefining \HepProcess on input line 305.
+ [96]
 File: images/TexasExample.png Graphic file (type bmp)
 <images/TexasExample.png>
-LaTeX Info: Redefining \HepProcess on input line 372.
-LaTeX Info: Redefining \HepProcess on input line 374.
-LaTeX Info: Redefining \HepProcess on input line 374.
- [94]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 390.
+LaTeX Info: Redefining \HepProcess on input line 390.
+ [97]
+LaTeX Info: Redefining \HepProcess on input line 393.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 395.
+LaTeX Info: Redefining \HepProcess on input line 395.
+ [98]
 File: images/displayBoundaries.pdf Graphic file (type pdf)
 <use images/displayBoundaries.pdf>
-LaTeX Info: Redefining \HepProcess on input line 415.
-LaTeX Info: Redefining \HepProcess on input line 417.
-LaTeX Info: Redefining \HepProcess on input line 417.
- [95]
-LaTeX Info: Redefining \HepProcess on input line 417.
-LaTeX Info: Redefining \HepProcess on input line 417.
- [96]
-LaTeX Info: Redefining \HepProcess on input line 418.
+LaTeX Info: Redefining \HepProcess on input line 436.
+LaTeX Info: Redefining \HepProcess on input line 439.
 
 
-LaTeX Warning: Command \l invalid in math mode on input line 419.
+LaTeX Warning: Command \l invalid in math mode on input line 440.
 
 
-LaTeX Warning: Command \l invalid in math mode on input line 419.
+LaTeX Warning: Command \l invalid in math mode on input line 440.
 
 Missing character: There is no ª in font zplmr7m!
 Missing character: There is no ª in font zplmr7m!
 
-LaTeX Warning: Command \l invalid in math mode on input line 419.
+LaTeX Warning: Command \l invalid in math mode on input line 440.
 
 Missing character: There is no ª in font zplmr7m!
-LaTeX Info: Redefining \HepProcess on input line 420.
-LaTeX Info: Redefining \HepProcess on input line 420.
-[97]
+LaTeX Info: Redefining \HepProcess on input line 441.
+LaTeX Info: Redefining \HepProcess on input line 441.
+[99]
 File: images/sum.png Graphic file (type bmp)
 <images/sum.png>
 File: images/frequency.png Graphic file (type bmp)
 <images/frequency.png>
 File: images/average.png Graphic file (type bmp)
 <images/average.png>
-LaTeX Info: Redefining \HepProcess on input line 484.
-LaTeX Info: Redefining \HepProcess on input line 490.
-LaTeX Info: Redefining \HepProcess on input line 490.
- [98]
-Overfull \hbox (0.601pt too wide) in paragraph at lines 524--524
+LaTeX Info: Redefining \HepProcess on input line 505.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 507.
+LaTeX Info: Redefining \HepProcess on input line 507.
+ [100]
+Overfull \hbox (0.601pt too wide) in paragraph at lines 539--539
  []|\T1/phv/b/n/10 Number 
  []
 
 
-Overfull \hbox (4.84131pt too wide) in paragraph at lines 524--524
+Overfull \hbox (4.84131pt too wide) in paragraph at lines 539--539
  \T1/phv/m/n/10 269.744|
  []
 
 
-Overfull \hbox (4.56131pt too wide) in paragraph at lines 524--524
+Overfull \hbox (4.56131pt too wide) in paragraph at lines 539--539
  \T1/phv/m/n/10 108.004|
  []
 
 
-Overfull \hbox (4.56131pt too wide) in paragraph at lines 524--524
+Overfull \hbox (4.56131pt too wide) in paragraph at lines 539--539
  \T1/phv/m/n/10 155.779|
  []
 
-LaTeX Info: Redefining \HepProcess on input line 538.
-LaTeX Info: Redefining \HepProcess on input line 540.
-LaTeX Info: Redefining \HepProcess on input line 540.
-[99]
-LaTeX Info: Redefining \HepProcess on input line 544.
-LaTeX Info: Redefining \HepProcess on input line 544.
- [100]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 548.
+LaTeX Info: Redefining \HepProcess on input line 548.
+ [101]
+LaTeX Info: Redefining \HepProcess on input line 560.
 File: images/zoomOutExample.png Graphic file (type bmp)
 <images/zoomOutExample.png>
+LaTeX Info: Redefining \HepProcess on input line 569.
+LaTeX Info: Redefining \HepProcess on input line 569.
+
+[102]
 File: images/zoomOutExample2.png Graphic file (type bmp)
 <images/zoomOutExample2.png>
+File: images/ch3/compareA.png Graphic file (type bmp)
+<images/ch3/compareA.png>
+File: images/ch3/compareB.png Graphic file (type bmp)
+<images/ch3/compareB.png>
+File: images/ch3/compareC.png Graphic file (type bmp)
+<images/ch3/compareC.png>
+File: images/ch3/compareD.png Graphic file (type bmp)
+<images/ch3/compareD.png>
 ) (./ch4-UserStudy.tex
 LaTeX Info: Redefining \HepProcess on input line 1.
 LaTeX Info: Redefining \HepProcess on input line 1.
- [101]
+ [103]
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [104]
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [105]
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [106]
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [107]
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [108]
 chapter 4.
 LaTeX Info: Redefining \HepProcess on input line 1.
 
@@ -2944,7 +3178,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
 LaTeX Info: Redefining \HepProcess on input line 9.
 LaTeX Info: Redefining \HepProcess on input line 9.
-[102
+[109
 
 ]
 \openout4 = `dissertation-base.mtc'.
@@ -2952,25 +3186,28 @@ LaTeX Info: Redefining \HepProcess on input line 9.
 \openout4 = `dissertation-base.mtc'.
 
  (./dissertation-base.mtc4)
-LaTeX Info: Redefining \HepProcess on input line 14.
-LaTeX Info: Redefining \HepProcess on input line 14.
- [103]
 LaTeX Info: Redefining \HepProcess on input line 21.
 LaTeX Info: Redefining \HepProcess on input line 21.
- [104]
+ [110]
 LaTeX Info: Redefining \HepProcess on input line 23.
 File: images/CypressView2.jpg Graphic file (type bmp)
 <images/CypressView2.jpg>
-LaTeX Info: Redefining \HepProcess on input line 47.
-LaTeX Info: Redefining \HepProcess on input line 47.
- [105]
+
+Underfull \vbox (badness 1147) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 46.
+LaTeX Info: Redefining \HepProcess on input line 46.
+ [111]
 LaTeX Info: Redefining \HepProcess on input line 51.
-LaTeX Info: Redefining \HepProcess on input line 59.
-LaTeX Info: Redefining \HepProcess on input line 59.
- [106]
+LaTeX Info: Redefining \HepProcess on input line 57.
+LaTeX Info: Redefining \HepProcess on input line 57.
+
+[112]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 LaTeX Info: Redefining \HepProcess on input line 64.
 LaTeX Info: Redefining \HepProcess on input line 64.
- [107]
+ [113]
 LaTeX Info: Redefining \HepProcess on input line 66.
 File: images/boundaryBlack2.png Graphic file (type bmp)
 <images/boundaryBlack2.png>
@@ -2988,32 +3225,35 @@ File: images/pixelSize.png Graphic file (type bmp)
 <images/pixelSize.png>
 LaTeX Info: Redefining \HepProcess on input line 96.
 LaTeX Info: Redefining \HepProcess on input line 99.
-LaTeX Info: Redefining \HepProcess on input line 99.
- [108]
-LaTeX Info: Redefining \HepProcess on input line 99.
 LaTeX Info: Redefining \HepProcess on input line 102.
-LaTeX Info: Redefining \HepProcess on input line 108.
-LaTeX Info: Redefining \HepProcess on input line 108.
- [109]
+LaTeX Info: Redefining \HepProcess on input line 102.
+
+[114]
+LaTeX Info: Redefining \HepProcess on input line 102.
+LaTeX Info: Redefining \HepProcess on input line 106.
+LaTeX Info: Redefining \HepProcess on input line 106.
+ [115]
 File: images/highlightExample2.png Graphic file (type bmp)
 <images/highlightExample2.png>
 File: images/highlightExample.png Graphic file (type bmp)
 <images/highlightExample.png>
 File: images/highlightExample1.png Graphic file (type bmp)
 <images/highlightExample1.png>
-LaTeX Info: Redefining \HepProcess on input line 122.
-LaTeX Info: Redefining \HepProcess on input line 122.
-
-[110]
+LaTeX Info: Redefining \HepProcess on input line 121.
+LaTeX Info: Redefining \HepProcess on input line 121.
+ [116]
 File: images/clbrwr1.png Graphic file (type bmp)
 <images/clbrwr1.png>
 File: images/clbrwr2.png Graphic file (type bmp)
 <images/clbrwr2.png>
 File: images/tableau2.png Graphic file (type bmp)
 <images/tableau2.png>
-LaTeX Info: Redefining \HepProcess on input line 140.
-LaTeX Info: Redefining \HepProcess on input line 140.
- [111]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 142.
+LaTeX Info: Redefining \HepProcess on input line 142.
+ [117]
 File: images/sample.png Graphic file (type bmp)
 <images/sample.png>
 File: images/samplet2.png Graphic file (type bmp)
@@ -3039,37 +3279,34 @@ LaTeX Info: Redefining \HepProcess on input line 159.
 LaTeX Info: Redefining \HepProcess on input line 161.
 LaTeX Info: Redefining \HepProcess on input line 163.
 LaTeX Info: Redefining \HepProcess on input line 163.
-[112]
+[118]
 LaTeX Info: Redefining \HepProcess on input line 163.
 LaTeX Info: Redefining \HepProcess on input line 163.
- [113]
+ [119]
+LaTeX Info: Redefining \HepProcess on input line 167.
+LaTeX Info: Redefining \HepProcess on input line 167.
+ [120]
 LaTeX Info: Redefining \HepProcess on input line 168.
-LaTeX Info: Redefining \HepProcess on input line 192.
-LaTeX Info: Redefining \HepProcess on input line 192.
- [114]
 LaTeX Info: Redefining \HepProcess on input line 198.
 LaTeX Info: Redefining \HepProcess on input line 200.
 LaTeX Info: Redefining \HepProcess on input line 200.
- [115]
+ [121]
 LaTeX Info: Redefining \HepProcess on input line 200.
 File: images/T1Scatter.png Graphic file (type bmp)
 <images/T1Scatter.png>
 File: images/T1Accuracy.png Graphic file (type bmp)
 <images/T1Accuracy.png>
 
-
-LaTeX Warning: Reference `sec:limit' on page 116 undefined on input line 207.
+Underfull \vbox (badness 3568) has occurred while \output is active []
 
 LaTeX Info: Redefining \HepProcess on input line 212.
+LaTeX Info: Redefining \HepProcess on input line 212.
+ [122]
+LaTeX Info: Redefining \HepProcess on input line 212.
+LaTeX Info: Redefining \HepProcess on input line 212.
 
-LaTeX Warning: Reference `sec:limit' on page 116 undefined on input line 213.
-
-LaTeX Info: Redefining \HepProcess on input line 214.
-LaTeX Info: Redefining \HepProcess on input line 214.
-[116]
-LaTeX Info: Redefining \HepProcess on input line 214.
-LaTeX Info: Redefining \HepProcess on input line 214.
- [117]
+[123]
+LaTeX Info: Redefining \HepProcess on input line 212.
 File: images/T2Scatter.png Graphic file (type bmp)
 <images/T2Scatter.png>
 File: images/T2Accuracy.png Graphic file (type bmp)
@@ -3077,32 +3314,44 @@ File: images/T2Accuracy.png Graphic file (type bmp)
 LaTeX Info: Redefining \HepProcess on input line 226.
 File: images/T3.png Graphic file (type bmp)
 <images/T3.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 LaTeX Info: Redefining \HepProcess on input line 233.
 LaTeX Info: Redefining \HepProcess on input line 233.
- [118]
+ [124]
 LaTeX Info: Redefining \HepProcess on input line 233.
 LaTeX Info: Redefining \HepProcess on input line 233.
- [119]
+
+[125]
 LaTeX Info: Redefining \HepProcess on input line 234.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 LaTeX Info: Redefining \HepProcess on input line 236.
 LaTeX Info: Redefining \HepProcess on input line 236.
- [120]
-LaTeX Info: Redefining \HepProcess on input line 237.
+ [126]
 LaTeX Info: Redefining \HepProcess on input line 243.
 File: images/T1.png Graphic file (type bmp)
 <images/T1.png>
 File: images/T2.png Graphic file (type bmp)
 <images/T2.png>
-) (./ch5-MultivariateMaps.tex
+)
+(./ch5-MultivariateMaps.tex
 LaTeX Info: Redefining \HepProcess on input line 1.
 LaTeX Info: Redefining \HepProcess on input line 1.
- [121]
+ [127]
 LaTeX Info: Redefining \HepProcess on input line 1.
 LaTeX Info: Redefining \HepProcess on input line 1.
- [122]
+ [128]
 LaTeX Info: Redefining \HepProcess on input line 1.
 LaTeX Info: Redefining \HepProcess on input line 1.
- [123]
+ [129]
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [130
+
+]
 chapter 5.
 LaTeX Info: Redefining \HepProcess on input line 1.
 
@@ -3112,53 +3361,61 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
 LaTeX Info: Redefining \HepProcess on input line 9.
 LaTeX Info: Redefining \HepProcess on input line 9.
-[124
-
-]
+[131]
 \openout4 = `dissertation-base.mtc'.
 
 \openout4 = `dissertation-base.mtc'.
 
  (./dissertation-base.mtc5)
-LaTeX Info: Redefining \HepProcess on input line 15.
-LaTeX Info: Redefining \HepProcess on input line 15.
- [125]
 LaTeX Info: Redefining \HepProcess on input line 21.
 LaTeX Info: Redefining \HepProcess on input line 21.
- [126]
+ [132]
 LaTeX Info: Redefining \HepProcess on input line 23.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 26.
 File: images/ch5/ccgsetPie2.png Graphic file (type bmp)
 <images/ch5/ccgsetPie2.png>
-LaTeX Info: Redefining \HepProcess on input line 37.
-LaTeX Info: Redefining \HepProcess on input line 37.
- [127
+LaTeX Info: Redefining \HepProcess on input line 44.
+LaTeX Info: Redefining \HepProcess on input line 44.
+ [133
 
 ]
-LaTeX Info: Redefining \HepProcess on input line 46.
-LaTeX Info: Redefining \HepProcess on input line 49.
-LaTeX Info: Redefining \HepProcess on input line 49.
- [128]
-File: images/ch5/HorizontalFlow2.png Graphic file (type bmp)
-<images/ch5/HorizontalFlow2.png>
-LaTeX Info: Redefining \HepProcess on input line 73.
-LaTeX Info: Redefining \HepProcess on input line 73.
- [129]
-LaTeX Info: Redefining \HepProcess on input line 81.
-LaTeX Info: Redefining \HepProcess on input line 85.
-LaTeX Info: Redefining \HepProcess on input line 85.
- [130]
-LaTeX Info: Redefining \HepProcess on input line 92.
-LaTeX Info: Redefining \HepProcess on input line 96.
-LaTeX Info: Redefining \HepProcess on input line 100.
-LaTeX Info: Redefining \HepProcess on input line 100.
- [131]
-LaTeX Info: Redefining \HepProcess on input line 105.
-LaTeX Info: Redefining \HepProcess on input line 107.
-LaTeX Info: Redefining \HepProcess on input line 107.
+LaTeX Info: Redefining \HepProcess on input line 47.
+LaTeX Info: Redefining \HepProcess on input line 51.
+LaTeX Info: Redefining \HepProcess on input line 51.
+ [134]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[132]
+LaTeX Info: Redefining \HepProcess on input line 65.
+LaTeX Info: Redefining \HepProcess on input line 65.
+ [135]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 84.
+LaTeX Info: Redefining \HepProcess on input line 84.
+ [136]
+File: images/ch5/HorizontalFlowv4.png Graphic file (type bmp)
+<images/ch5/HorizontalFlowv4.png>
+LaTeX Info: Redefining \HepProcess on input line 130.
+LaTeX Info: Redefining \HepProcess on input line 138.
+LaTeX Info: Redefining \HepProcess on input line 138.
+
+[137]
+Underfull \vbox (badness 4013) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 138.
+LaTeX Info: Redefining \HepProcess on input line 138.
+ [138]
+LaTeX Info: Redefining \HepProcess on input line 138.
+LaTeX Info: Redefining \HepProcess on input line 142.
+LaTeX Info: Redefining \HepProcess on input line 151.
+LaTeX Info: Redefining \HepProcess on input line 151.
+
+[139]
+LaTeX Info: Redefining \HepProcess on input line 151.
+LaTeX Info: Redefining \HepProcess on input line 155.
+LaTeX Info: Redefining \HepProcess on input line 155.
+ [140]
 File: images/ch5/transition/11.png Graphic file (type bmp)
 <images/ch5/transition/11.png>
 File: images/ch5/transition/12.png Graphic file (type bmp)
@@ -3171,78 +3428,98 @@ File: images/ch5/transition/15.png Graphic file (type bmp)
 <images/ch5/transition/15.png>
 File: images/ch5/transition/16.png Graphic file (type bmp)
 <images/ch5/transition/16.png>
-File: images/ch5/transition/17.png Graphic file (type bmp)
-<images/ch5/transition/17.png>
-File: images/ch5/GlyphLegend2.png Graphic file (type bmp)
-<images/ch5/GlyphLegend2.png>
-File: images/ch5/glyphs/pie1.png Graphic file (type bmp)
-<images/ch5/glyphs/pie1.png>
-File: images/ch5/glyphs/pie2.png Graphic file (type bmp)
-<images/ch5/glyphs/pie2.png>
-File: images/ch5/glyphs/pie3.png Graphic file (type bmp)
-<images/ch5/glyphs/pie3.png>
-File: images/ch5/glyphs/pie4.png Graphic file (type bmp)
-<images/ch5/glyphs/pie4.png>
-File: images/ch5/glyphs/wheel1.png Graphic file (type bmp)
-<images/ch5/glyphs/wheel1.png>
-File: images/ch5/glyphs/wheel2.png Graphic file (type bmp)
-<images/ch5/glyphs/wheel2.png>
-File: images/ch5/glyphs/wheel3.png Graphic file (type bmp)
-<images/ch5/glyphs/wheel3.png>
-File: images/ch5/glyphs/wheel4.png Graphic file (type bmp)
-<images/ch5/glyphs/wheel4.png>
-File: images/ch5/glyphs/bar1.png Graphic file (type bmp)
-<images/ch5/glyphs/bar1.png>
-File: images/ch5/glyphs/bar2.png Graphic file (type bmp)
-<images/ch5/glyphs/bar2.png>
-File: images/ch5/glyphs/bar3.png Graphic file (type bmp)
-<images/ch5/glyphs/bar3.png>
-File: images/ch5/glyphs/bar4.png Graphic file (type bmp)
-<images/ch5/glyphs/bar4.png>
-File: images/ch5/glyphs/star1.png Graphic file (type bmp)
-<images/ch5/glyphs/star1.png>
-File: images/ch5/glyphs/star2.png Graphic file (type bmp)
-<images/ch5/glyphs/star2.png>
-File: images/ch5/glyphs/star3.png Graphic file (type bmp)
-<images/ch5/glyphs/star3.png>
-File: images/ch5/glyphs/star4.png Graphic file (type bmp)
-<images/ch5/glyphs/star4.png>
-LaTeX Info: Redefining \HepProcess on input line 164.
-LaTeX Info: Redefining \HepProcess on input line 172.
-LaTeX Info: Redefining \HepProcess on input line 172.
- [133]
-LaTeX Info: Redefining \HepProcess on input line 173.
-File: images/ch5/f+cv2.png Graphic file (type bmp)
-<images/ch5/f+cv2.png>
-LaTeX Info: Redefining \HepProcess on input line 180.
-LaTeX Info: Redefining \HepProcess on input line 180.
- [134]
-LaTeX Info: Redefining \HepProcess on input line 182.
-LaTeX Info: Redefining \HepProcess on input line 184.
-LaTeX Info: Redefining \HepProcess on input line 184.
- [135]
-LaTeX Info: Redefining \HepProcess on input line 185.
-LaTeX Info: Redefining \HepProcess on input line 189.
-LaTeX Info: Redefining \HepProcess on input line 192.
-LaTeX Info: Redefining \HepProcess on input line 200.
-LaTeX Info: Redefining \HepProcess on input line 200.
- [136]
-LaTeX Info: Redefining \HepProcess on input line 201.
-LaTeX Info: Redefining \HepProcess on input line 209.
-LaTeX Info: Redefining \HepProcess on input line 209.
- [137]
-LaTeX Info: Redefining \HepProcess on input line 210.
-LaTeX Info: Redefining \HepProcess on input line 213.
-LaTeX Info: Redefining \HepProcess on input line 222.
-LaTeX Info: Redefining \HepProcess on input line 222.
- [138]
+File: images/transition/17.png Graphic file (type bmp)
+<images/transition/17.png>
+File: images/GlyphLegend2.png Graphic file (type bmp)
+<images/GlyphLegend2.png>
+File: images/ch5/glyphs/2/pie0.png Graphic file (type bmp)
+<images/ch5/glyphs/2/pie0.png>
+File: images/ch5/glyphs/2/pie1.png Graphic file (type bmp)
+<images/ch5/glyphs/2/pie1.png>
+File: images/ch5/glyphs/2/pie2.png Graphic file (type bmp)
+<images/ch5/glyphs/2/pie2.png>
+File: images/ch5/glyphs/2/pie3.png Graphic file (type bmp)
+<images/ch5/glyphs/2/pie3.png>
+File: images/ch5/glyphs/2/pie4.png Graphic file (type bmp)
+<images/ch5/glyphs/2/pie4.png>
+File: images/ch5/glyphs/2/wheel0.png Graphic file (type bmp)
+<images/ch5/glyphs/2/wheel0.png>
+File: images/ch5/glyphs/2/wheel1.png Graphic file (type bmp)
+<images/ch5/glyphs/2/wheel1.png>
+File: images/ch5/glyphs/2/wheel2.png Graphic file (type bmp)
+<images/ch5/glyphs/2/wheel2.png>
+File: images/ch5/glyphs/2/wheel3.png Graphic file (type bmp)
+<images/ch5/glyphs/2/wheel3.png>
+File: images/ch5/glyphs/2/wheel4.png Graphic file (type bmp)
+<images/ch5/glyphs/2/wheel4.png>
+File: images/ch5/glyphs/2/bar0.png Graphic file (type bmp)
+<images/ch5/glyphs/2/bar0.png>
+File: images/ch5/glyphs/2/bar1.png Graphic file (type bmp)
+<images/ch5/glyphs/2/bar1.png>
+File: images/ch5/glyphs/2/bar2.png Graphic file (type bmp)
+<images/ch5/glyphs/2/bar2.png>
+File: images/ch5/glyphs/2/bar3.png Graphic file (type bmp)
+<images/ch5/glyphs/2/bar3.png>
+File: images/ch5/glyphs/2/bar4.png Graphic file (type bmp)
+<images/ch5/glyphs/2/bar4.png>
+File: images/ch5/glyphs/2/star0.png Graphic file (type bmp)
+<images/ch5/glyphs/2/star0.png>
+File: images/ch5/glyphs/2/star1.png Graphic file (type bmp)
+<images/ch5/glyphs/2/star1.png>
+File: images/ch5/glyphs/2/star2.png Graphic file (type bmp)
+<images/ch5/glyphs/2/star2.png>
+File: images/ch5/glyphs/2/star3.png Graphic file (type bmp)
+<images/ch5/glyphs/2/star3.png>
+File: images/ch5/glyphs/2/star4.png Graphic file (type bmp)
+<images/ch5/glyphs/2/star4.png>
+LaTeX Info: Redefining \HepProcess on input line 218.
+LaTeX Info: Redefining \HepProcess on input line 224.
+LaTeX Info: Redefining \HepProcess on input line 224.
+ [141]
+LaTeX Info: Redefining \HepProcess on input line 225.
+
+Underfull \vbox (badness 4543) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 227.
+LaTeX Info: Redefining \HepProcess on input line 227.
+ [142]
+File: images/f+cv2.png Graphic file (type bmp)
+<images/f+cv2.png>
+LaTeX Info: Redefining \HepProcess on input line 233.
+LaTeX Info: Redefining \HepProcess on input line 237.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 239.
+LaTeX Info: Redefining \HepProcess on input line 239.
+ [143]
+LaTeX Info: Redefining \HepProcess on input line 241.
+LaTeX Info: Redefining \HepProcess on input line 244.
+LaTeX Info: Redefining \HepProcess on input line 252.
+LaTeX Info: Redefining \HepProcess on input line 252.
+
+[144]
+File: images/ch5/onMouseOver.png Graphic file (type bmp)
+<images/ch5/onMouseOver.png>
+LaTeX Info: Redefining \HepProcess on input line 259.
+LaTeX Info: Redefining \HepProcess on input line 268.
+LaTeX Info: Redefining \HepProcess on input line 268.
+ [145]
+LaTeX Info: Redefining \HepProcess on input line 269.
+LaTeX Info: Redefining \HepProcess on input line 272.
+LaTeX Info: Redefining \HepProcess on input line 281.
+LaTeX Info: Redefining \HepProcess on input line 281.
+ [146]
 File: images/ch5/london01.png Graphic file (type bmp)
 <images/ch5/london01.png>
 File: images/ch5/london02-1.png Graphic file (type bmp)
 <images/ch5/london02-1.png>
-LaTeX Info: Redefining \HepProcess on input line 234.
-LaTeX Info: Redefining \HepProcess on input line 234.
- [139]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 296.
+LaTeX Info: Redefining \HepProcess on input line 296.
+ [147]
 File: images/ch5/us01.png Graphic file (type bmp)
 <images/ch5/us01.png>
 File: images/ch5/us02-1.png Graphic file (type bmp)
@@ -3251,34 +3528,69 @@ File: images/ch5/ireland01.png Graphic file (type bmp)
 <images/ch5/ireland01.png>
 File: images/ch5/ireland02.png Graphic file (type bmp)
 <images/ch5/ireland02.png>
-LaTeX Info: Redefining \HepProcess on input line 251.
-LaTeX Info: Redefining \HepProcess on input line 251.
- [140]
+LaTeX Info: Redefining \HepProcess on input line 312.
+LaTeX Info: Redefining \HepProcess on input line 315.
+LaTeX Info: Redefining \HepProcess on input line 315.
+
+[148]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 316.
+LaTeX Info: Redefining \HepProcess on input line 316.
+ [149]
 File: images/ch5/CCGgridAFull2.png Graphic file (type bmp)
 <images/ch5/CCGgridAFull2.png>
 File: images/ch5/USgridAFull2.png Graphic file (type bmp)
 <images/ch5/USgridAFull2.png>
 File: images/ch5/irelandgridAFull2.png Graphic file (type bmp)
 <images/ch5/irelandgridAFull2.png>
-File: images/ch5/CCGgridBFull.png Graphic file (type bmp)
-<images/ch5/CCGgridBFull.png>
-File: images/ch5/USgridBFull.png Graphic file (type bmp)
-<images/ch5/USgridBFull.png>
-File: images/ch5/irelandgridBFull.png Graphic file (type bmp)
-<images/ch5/irelandgridBFull.png>
-LaTeX Info: Redefining \HepProcess on input line 268.
-LaTeX Info: Redefining \HepProcess on input line 270.
-LaTeX Info: Redefining \HepProcess on input line 270.
- [141]
-LaTeX Info: Redefining \HepProcess on input line 270.
-LaTeX Info: Redefining \HepProcess on input line 270.
- [142]
-LaTeX Info: Redefining \HepProcess on input line 277.
+File: images/ch5/CCGgridBFullAZ.png Graphic file (type bmp)
+<images/ch5/CCGgridBFullAZ.png>
+File: images/ch5/USgridBFullAZ.png Graphic file (type bmp)
+<images/ch5/USgridBFullAZ.png>
+File: images/ch5/irelandgridBFullAZ.png Graphic file (type bmp)
+<images/ch5/irelandgridBFullAZ.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 351.
+LaTeX Info: Redefining \HepProcess on input line 351.
+ [150]
+LaTeX Info: Redefining \HepProcess on input line 351.
+LaTeX Info: Redefining \HepProcess on input line 351.
+
+[151]
+LaTeX Info: Redefining \HepProcess on input line 351.
+LaTeX Info: Redefining \HepProcess on input line 359.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 362.
+LaTeX Info: Redefining \HepProcess on input line 362.
+ [152]
+LaTeX Info: Redefining \HepProcess on input line 363.
+LaTeX Info: Redefining \HepProcess on input line 368.
+File: images/ch7/visualchannels.png Graphic file (type bmp)
+<images/ch7/visualchannels.png>
+LaTeX Info: Redefining \HepProcess on input line 376.
+LaTeX Info: Redefining \HepProcess on input line 376.
+
+[153]
+File: images/ch7/trivariateH.png Graphic file (type bmp)
+<images/ch7/trivariateH.png>
+LaTeX Info: Redefining \HepProcess on input line 389.
+LaTeX Info: Redefining \HepProcess on input line 389.
+ [154]
+LaTeX Info: Redefining \HepProcess on input line 390.
+File: images/ch5/ccgsetPie2.png Graphic file (type bmp)
+<images/ch5/ccgsetPie2.png>
+LaTeX Info: Redefining \HepProcess on input line 400.
+LaTeX Info: Redefining \HepProcess on input line 400.
+ [155]
+File: images/ch7/treemap.png Graphic file (type bmp)
+<images/ch7/treemap.png>
 File: images/ch5/CCGgridAFull.png Graphic file (type bmp)
 <images/ch5/CCGgridAFull.png>
-LaTeX Info: Redefining \HepProcess on input line 298.
-LaTeX Info: Redefining \HepProcess on input line 298.
- [143]
 File: images/ch5/CCGgridBFull.png Graphic file (type bmp)
 <images/ch5/CCGgridBFull.png>
 File: images/ch5/USgridAFull.png Graphic file (type bmp)
@@ -3289,50 +3601,65 @@ File: images/ch5/irelandgridAFull.png Graphic file (type bmp)
 <images/ch5/irelandgridAFull.png>
 File: images/ch5/irelandgridBFull.png Graphic file (type bmp)
 <images/ch5/irelandgridBFull.png>
-)
-(./ch6-SoftwareDevelopment.tex
+) (./ch6-SoftwareDevelopment.tex
 LaTeX Info: Redefining \HepProcess on input line 1.
 LaTeX Info: Redefining \HepProcess on input line 1.
- [144]
+ [156]
 LaTeX Info: Redefining \HepProcess on input line 1.
 LaTeX Info: Redefining \HepProcess on input line 1.
- [145]
+ [157]
 LaTeX Info: Redefining \HepProcess on input line 1.
 LaTeX Info: Redefining \HepProcess on input line 1.
- [146]
+ [158]
 LaTeX Info: Redefining \HepProcess on input line 1.
 LaTeX Info: Redefining \HepProcess on input line 1.
- [147]
+ [159]
 LaTeX Info: Redefining \HepProcess on input line 1.
 LaTeX Info: Redefining \HepProcess on input line 1.
- [148]
+
+[160]
 LaTeX Info: Redefining \HepProcess on input line 1.
 LaTeX Info: Redefining \HepProcess on input line 1.
- [149]
+ [161]
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [162]
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [163]
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [164
+
+]
 chapter 6.
 LaTeX Info: Redefining \HepProcess on input line 1.
 LaTeX Info: Redefining \HepProcess on input line 7.
 LaTeX Info: Redefining \HepProcess on input line 7.
-[150
-
-]
+[165]
 \openout4 = `dissertation-base.mtc'.
 
 \openout4 = `dissertation-base.mtc'.
 
  (./dissertation-base.mtc6)
+LaTeX Info: Redefining \HepProcess on input line 9.
+LaTeX Info: Redefining \HepProcess on input line 9.
+ [166]
 LaTeX Info: Redefining \HepProcess on input line 11.
-LaTeX Info: Redefining \HepProcess on input line 13.
-LaTeX Info: Redefining \HepProcess on input line 16.
-LaTeX Info: Redefining \HepProcess on input line 16.
- [151]
-LaTeX Info: Redefining \HepProcess on input line 16.
-LaTeX Info: Redefining \HepProcess on input line 24.
-LaTeX Info: Redefining \HepProcess on input line 27.
-LaTeX Info: Redefining \HepProcess on input line 27.
- [152]
-File: images/ch6/innerRings.png Graphic file (type bmp)
-<images/ch6/innerRings.png>
+LaTeX Info: Redefining \HepProcess on input line 18.
+LaTeX Info: Redefining \HepProcess on input line 32.
+LaTeX Info: Redefining \HepProcess on input line 32.
+ [167]
+LaTeX Info: Redefining \HepProcess on input line 35.
+LaTeX Info: Redefining \HepProcess on input line 42.
+LaTeX Info: Redefining \HepProcess on input line 42.
+ [168]
+LaTeX Info: Redefining \HepProcess on input line 43.
+File: images/HorizontalFlow2.pdf Graphic file (type pdf)
+<use images/HorizontalFlow2.pdf>
+LaTeX Info: Redefining \HepProcess on input line 54.
+LaTeX Info: Redefining \HepProcess on input line 54.
+ [169]
 File: images/ch6/loading/01.png Graphic file (type bmp)
 <images/ch6/loading/01.png>
 File: images/ch6/loading/02.png Graphic file (type bmp)
@@ -3373,25 +3700,6 @@ File: images/ch6/loading/19.png Graphic file (type bmp)
 <images/ch6/loading/19.png>
 File: images/ch6/loading/20.png Graphic file (type bmp)
 <images/ch6/loading/20.png>
-File: images/ch6/loading/21.png Graphic file (type bmp)
-<images/ch6/loading/21.png>
-File: images/ch6/loading/22.png Graphic file (type bmp)
-<images/ch6/loading/22.png>
-File: images/ch6/loading/23.png Graphic file (type bmp)
-<images/ch6/loading/23.png>
-File: images/ch6/loading/24.png Graphic file (type bmp)
-<images/ch6/loading/24.png>
-
-
-LaTeX Warning: Float too large for page by 4.81203pt on input line 62.
-
-LaTeX Info: Redefining \HepProcess on input line 66.
-LaTeX Info: Redefining \HepProcess on input line 68.
-LaTeX Info: Redefining \HepProcess on input line 68.
-[153]
-LaTeX Info: Redefining \HepProcess on input line 68.
-LaTeX Info: Redefining \HepProcess on input line 68.
- [154]
 File: images/ch6/contig/01.png Graphic file (type bmp)
 <images/ch6/contig/01.png>
 File: images/ch6/contig/02.png Graphic file (type bmp)
@@ -3432,34 +3740,6 @@ File: images/ch6/contig/19.png Graphic file (type bmp)
 <images/ch6/contig/19.png>
 File: images/ch6/contig/20.png Graphic file (type bmp)
 <images/ch6/contig/20.png>
-File: images/ch6/contig/21.png Graphic file (type bmp)
-<images/ch6/contig/21.png>
-File: images/ch6/contig/22.png Graphic file (type bmp)
-<images/ch6/contig/22.png>
-File: images/ch6/contig/23.png Graphic file (type bmp)
-<images/ch6/contig/23.png>
-File: images/ch6/contig/24.png Graphic file (type bmp)
-<images/ch6/contig/24.png>
-
-
-LaTeX Warning: Float too large for page by 32.01204pt on input line 97.
-
-File: images/ch6/WeirdBoundary3.png Graphic file (type bmp)
-<images/ch6/WeirdBoundary3.png>
-File: images/ch6/currentProblem.png Graphic file (type bmp)
-<images/ch6/currentProblem.png>
-File: images/ch6/multipleVoids3.png Graphic file (type bmp)
-<images/ch6/multipleVoids3.png>
-File: images/ch6/BoundarySplit2.png Graphic file (type bmp)
-<images/ch6/BoundarySplit2.png>
-File: images/ch6/mergeoverall/01.png Graphic file (type bmp)
-<images/ch6/mergeoverall/01.png>
-File: images/ch6/mergeoverall/02.png Graphic file (type bmp)
-<images/ch6/mergeoverall/02.png>
-File: images/ch6/mergeoverall/03.png Graphic file (type bmp)
-<images/ch6/mergeoverall/03.png>
-File: images/ch6/mergeoverall/04.png Graphic file (type bmp)
-<images/ch6/mergeoverall/04.png>
 File: images/ch6/mergeoverall/05.png Graphic file (type bmp)
 <images/ch6/mergeoverall/05.png>
 File: images/ch6/mergeoverall/06.png Graphic file (type bmp)
@@ -3500,17 +3780,6 @@ File: images/ch6/mergeoverall/23.png Graphic file (type bmp)
 <images/ch6/mergeoverall/23.png>
 File: images/ch6/mergeoverall/24.png Graphic file (type bmp)
 <images/ch6/mergeoverall/24.png>
-
-LaTeX Warning: Float too large for page by 45.61205pt on input line 147.
-
-File: images/ch6/mergefocus/01.png Graphic file (type bmp)
-<images/ch6/mergefocus/01.png>
-File: images/ch6/mergefocus/02.png Graphic file (type bmp)
-<images/ch6/mergefocus/02.png>
-File: images/ch6/mergefocus/03.png Graphic file (type bmp)
-<images/ch6/mergefocus/03.png>
-File: images/ch6/mergefocus/04.png Graphic file (type bmp)
-<images/ch6/mergefocus/04.png>
 File: images/ch6/mergefocus/05.png Graphic file (type bmp)
 <images/ch6/mergefocus/05.png>
 File: images/ch6/mergefocus/06.png Graphic file (type bmp)
@@ -3551,43 +3820,147 @@ File: images/ch6/mergefocus/22.png Graphic file (type bmp)
 <images/ch6/mergefocus/22.png>
 File: images/ch6/mergefocus/23.png Graphic file (type bmp)
 <images/ch6/mergefocus/23.png>
+LaTeX Info: Redefining \HepProcess on input line 175.
+File: images/case-1.png Graphic file (type bmp)
+<images/case-1.png>
+File: images/case-2.png Graphic file (type bmp)
+<images/case-2.png>
+File: images/case-3.png Graphic file (type bmp)
+<images/case-3.png>
+File: images/case-4.png Graphic file (type bmp)
+<images/case-4.png>
+File: images/ch6/AABB-AABB.png Graphic file (type bmp)
+<images/ch6/AABB-AABB.png>
+File: images/case1v3.png Graphic file (type bmp)
+<images/case1v3.png>
+File: images/case-7.png Graphic file (type bmp)
+<images/case-7.png>
+File: images/ch6/point-line.png Graphic file (type bmp)
+<images/ch6/point-line.png>
+File: images/case-5.png Graphic file (type bmp)
+<images/case-5.png>
+File: images/case-6.png Graphic file (type bmp)
+<images/case-6.png>
+File: images/case1v3.png Graphic file (type bmp)
+<images/case1v3.png>
+File: images/case-8.png Graphic file (type bmp)
+<images/case-8.png>
+LaTeX Info: Redefining \HepProcess on input line 195.
 
-LaTeX Warning: Float too large for page by 45.61205pt on input line 177.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \HepProcess on input line 179.
-LaTeX Info: Redefining \HepProcess on input line 188.
-LaTeX Info: Redefining \HepProcess on input line 188.
-[155]
-LaTeX Info: Redefining \HepProcess on input line 188.
-LaTeX Info: Redefining \HepProcess on input line 188.
- [156]
-LaTeX Info: Redefining \HepProcess on input line 188.
-LaTeX Info: Redefining \HepProcess on input line 188.
- [157]
-LaTeX Info: Redefining \HepProcess on input line 188.
-LaTeX Info: Redefining \HepProcess on input line 188.
- [158]
-LaTeX Info: Redefining \HepProcess on input line 188.
-LaTeX Info: Redefining \HepProcess on input line 188.
- [159]
-LaTeX Info: Redefining \HepProcess on input line 188.
-LaTeX Info: Redefining \HepProcess on input line 188.
- [160]
-LaTeX Info: Redefining \HepProcess on input line 188.
-LaTeX Info: Redefining \HepProcess on input line 188.
- [161]
-LaTeX Info: Redefining \HepProcess on input line 188.
-LaTeX Info: Redefining \HepProcess on input line 188.
- [162]
-LaTeX Info: Redefining \HepProcess on input line 188.
-Missing character: There is no — in font phvr8t!
-LaTeX Info: Redefining \HepProcess on input line 200.
-LaTeX Info: Redefining \HepProcess on input line 224.
-LaTeX Info: Redefining \HepProcess on input line 226.
-LaTeX Info: Redefining \HepProcess on input line 226.
- [163]
-LaTeX Info: Redefining \HepProcess on input line 227.
+LaTeX Info: Redefining \HepProcess on input line 197.
+LaTeX Info: Redefining \HepProcess on input line 197.
+ [170]
+LaTeX Info: Redefining \HepProcess on input line 197.
+LaTeX Info: Redefining \HepProcess on input line 197.
 
+[171]
+LaTeX Info: Redefining \HepProcess on input line 197.
+LaTeX Info: Redefining \HepProcess on input line 197.
+ [172]
+LaTeX Info: Redefining \HepProcess on input line 197.
+LaTeX Info: Redefining \HepProcess on input line 197.
+ [173]
+LaTeX Info: Redefining \HepProcess on input line 197.
+LaTeX Info: Redefining \HepProcess on input line 197.
+ [174]
+LaTeX Info: Redefining \HepProcess on input line 197.
+LaTeX Info: Redefining \HepProcess on input line 197.
+ [175]
+File: images/ch6/innerRings.png Graphic file (type bmp)
+<images/ch6/innerRings.png>
+LaTeX Info: Redefining \HepProcess on input line 206.
+LaTeX Info: Redefining \HepProcess on input line 208.
+LaTeX Info: Redefining \HepProcess on input line 208.
+ [176]
+LaTeX Info: Redefining \HepProcess on input line 209.
+File: images/ch6/t-junctoZoom2.png Graphic file (type bmp)
+<images/ch6/t-junctoZoom2.png>
+LaTeX Info: Redefining \HepProcess on input line 218.
+LaTeX Info: Redefining \HepProcess on input line 220.
+LaTeX Info: Redefining \HepProcess on input line 220.
+ [177]
+File: images/ch6/currentProblem.png Graphic file (type bmp)
+<images/ch6/currentProblem.png>
+File: images/ch6/WeirdBoundary3.png Graphic file (type bmp)
+<images/ch6/WeirdBoundary3.png>
+LaTeX Info: Redefining \HepProcess on input line 230.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 232.
+LaTeX Info: Redefining \HepProcess on input line 232.
+ [178]
+LaTeX Info: Redefining \HepProcess on input line 232.
+LaTeX Info: Redefining \HepProcess on input line 232.
+
+[179]
+File: images/ch6/attemptA.png Graphic file (type bmp)
+<images/ch6/attemptA.png>
+File: images/ch6/attemptB.png Graphic file (type bmp)
+<images/ch6/attemptB.png>
+
+Underfull \vbox (badness 1275) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 250.
+LaTeX Info: Redefining \HepProcess on input line 250.
+ [180]
+File: images/ch6/caseA.png Graphic file (type bmp)
+<images/ch6/caseA.png>
+
+Overfull \hbox (8.19934pt too wide) in paragraph at lines 257--258
+[]\T1/phv/m/n/10.95 In or-der to rec-tify these er-rors, we mod-i-fied our ex-t
+rac-tion al-go-rithm to in-clude a bi-directional
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 261.
+LaTeX Info: Redefining \HepProcess on input line 261.
+ [181]
+File: images/ch6/caseB.png Graphic file (type bmp)
+<images/ch6/caseB.png>
+
+Underfull \vbox (badness 3049) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 274.
+LaTeX Info: Redefining \HepProcess on input line 274.
+ [182]
+File: images/ch6/length.png Graphic file (type bmp)
+<images/ch6/length.png>
+File: images/ch6/multipleVoids3.png Graphic file (type bmp)
+<images/ch6/multipleVoids3.png>
+File: images/ch6/BoundarySplit2.png Graphic file (type bmp)
+<images/ch6/BoundarySplit2.png>
+LaTeX Info: Redefining \HepProcess on input line 296.
+
+Underfull \vbox (badness 1817) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 299.
+LaTeX Info: Redefining \HepProcess on input line 299.
+ [183]
+LaTeX Info: Redefining \HepProcess on input line 299.
+LaTeX Info: Redefining \HepProcess on input line 299.
+
+[184]
+LaTeX Info: Redefining \HepProcess on input line 299.
+LaTeX Info: Redefining \HepProcess on input line 299.
+ [185]
+LaTeX Info: Redefining \HepProcess on input line 308.
+LaTeX Info: Redefining \HepProcess on input line 333.
+File: images/ch6/noInter.png Graphic file (type bmp)
+<images/ch6/noInter.png>
+File: images/ch6/inter.png Graphic file (type bmp)
+<images/ch6/inter.png>
+LaTeX Info: Redefining \HepProcess on input line 342.
+LaTeX Info: Redefining \HepProcess on input line 342.
+ [186]
+LaTeX Info: Redefining \HepProcess on input line 343.
+LaTeX Info: Redefining \HepProcess on input line 345.
+LaTeX Info: Redefining \HepProcess on input line 345.
+ [187]
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
@@ -3597,88 +3970,60 @@ File: lstlang1.sty 2015/06/04 1.6 listings language file
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 )
-LaTeX Info: Redefining \HepProcess on input line 229.
-LaTeX Info: Redefining \HepProcess on input line 229.
- [164]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 229.
+nput line 346.
 
 (./src/simpleTest.cpp) (./src/closestPoint.cpp
+LaTeX Info: Redefining \HepProcess on input line 7.
+LaTeX Info: Redefining \HepProcess on input line 7.
+ [188]
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
 )
-LaTeX Info: Redefining \HepProcess on input line 235.
-File: images/ch6/noInter.png Graphic file (type bmp)
-<images/ch6/noInter.png>
-File: images/ch6/inter.png Graphic file (type bmp)
-<images/ch6/inter.png>
-LaTeX Info: Redefining \HepProcess on input line 244.
-LaTeX Info: Redefining \HepProcess on input line 244.
- [165]
-LaTeX Info: Redefining \HepProcess on input line 247.
-LaTeX Info: Redefining \HepProcess on input line 252.
-File: images/ch6/attempt1p.pdf Graphic file (type pdf)
-<use images/ch6/attempt1p.pdf>
-File: images/ch6/attempt2p.pdf Graphic file (type pdf)
-<use images/ch6/attempt2p.pdf>
-LaTeX Info: Redefining \HepProcess on input line 261.
-LaTeX Info: Redefining \HepProcess on input line 261.
- [166]
-LaTeX Info: Redefining \HepProcess on input line 265.
-LaTeX Info: Redefining \HepProcess on input line 267.
-LaTeX Info: Redefining \HepProcess on input line 267.
- [167]
-File: images/ch6/search.pdf Graphic file (type pdf)
-<use images/ch6/search.pdf>
-LaTeX Info: Redefining \HepProcess on input line 276.
-LaTeX Info: Redefining \HepProcess on input line 276.
- [168]
-File: images/ch6/search2.pdf Graphic file (type pdf)
-<use images/ch6/search2.pdf>
-)
-(./ch7-Conclusion.tex
+LaTeX Info: Redefining \HepProcess on input line 351.
+LaTeX Info: Redefining \HepProcess on input line 354.
+) (./ch7-Conclusion.tex
 LaTeX Info: Redefining \HepProcess on input line 1.
 LaTeX Info: Redefining \HepProcess on input line 1.
- [169]
+
+[189]
 LaTeX Info: Redefining \HepProcess on input line 1.
 LaTeX Info: Redefining \HepProcess on input line 1.
- [170]
-chapter 7.
-LaTeX Info: Redefining \HepProcess on input line 1.
-LaTeX Info: Redefining \HepProcess on input line 4.
-LaTeX Info: Redefining \HepProcess on input line 4.
-[171
+ [190
 
 ]
+chapter 7.
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 7.
+LaTeX Info: Redefining \HepProcess on input line 7.
+[191]
 \openout4 = `dissertation-base.mtc'.
 
 \openout4 = `dissertation-base.mtc'.
 
  (./dissertation-base.mtc7)
-LaTeX Info: Redefining \HepProcess on input line 8.
-LaTeX Info: Redefining \HepProcess on input line 9.
-LaTeX Info: Redefining \HepProcess on input line 14.
-LaTeX Info: Redefining \HepProcess on input line 14.
- [172]
-LaTeX Info: Redefining \HepProcess on input line 18.
-LaTeX Info: Redefining \HepProcess on input line 20.
-LaTeX Info: Redefining \HepProcess on input line 22.
-LaTeX Info: Redefining \HepProcess on input line 24.
-LaTeX Info: Redefining \HepProcess on input line 24.
- [173]
-File: images/ch7/visualchannels.png Graphic file (type bmp)
-<images/ch7/visualchannels.png>
+LaTeX Info: Redefining \HepProcess on input line 11.
+LaTeX Info: Redefining \HepProcess on input line 19.
+LaTeX Info: Redefining \HepProcess on input line 19.
+ [192]
+File: images/ch7/nonmanifold.png Graphic file (type bmp)
+<images/ch7/nonmanifold.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 32.
+LaTeX Info: Redefining \HepProcess on input line 32.
+ [193]
 LaTeX Info: Redefining \HepProcess on input line 35.
-LaTeX Info: Redefining \HepProcess on input line 37.
-LaTeX Info: Redefining \HepProcess on input line 37.
- [174]
-LaTeX Info: Redefining \HepProcess on input line 37.
-LaTeX Info: Redefining \HepProcess on input line 43.
-LaTeX Info: Redefining \HepProcess on input line 43.
- [175]))
-LaTeX Info: Redefining \HepProcess on input line 67.
-LaTeX Info: Redefining \HepProcess on input line 67.
- [176]
+LaTeX Info: Redefining \HepProcess on input line 41.
+LaTeX Info: Redefining \HepProcess on input line 41.
+
+[194]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 50.
+LaTeX Info: Redefining \HepProcess on input line 50.
+ [195]))
 Processing 'appendices' comment.
 \openout3 = `comment.cut'.
 
@@ -3687,7 +4032,7 @@ Straight input of comment.cut. (./comment.cut
 (./AppA-HowToWriteASurveyPaper.tex
 LaTeX Info: Redefining \HepProcess on input line 1.
 LaTeX Info: Redefining \HepProcess on input line 1.
- [177]
+ [196]
 chapter A.
 LaTeX Info: Redefining \HepProcess on input line 1.
 
@@ -3695,208 +4040,271 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--6
 
  []
 
-LaTeX Info: Redefining \HepProcess on input line 8.
-LaTeX Info: Redefining \HepProcess on input line 8.
+LaTeX Info: Redefining \HepProcess on input line 11.
+LaTeX Info: Redefining \HepProcess on input line 11.
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
+LaTeX Info: Redefining \HepProcess on input line 11.
+LaTeX Info: Redefining \HepProcess on input line 11.
+ [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
-LaTeX Info: Redefining \HepProcess on input line 11.
-LaTeX Info: Redefining \HepProcess on input line 11.
-[2
+LaTeX Info: Redefining \HepProcess on input line 14.
+LaTeX Info: Redefining \HepProcess on input line 14.
+[3]
+LaTeX Info: Redefining \HepProcess on input line 16.
+LaTeX Info: Redefining \HepProcess on input line 27.
 
-]
-LaTeX Info: Redefining \HepProcess on input line 13.
-LaTeX Info: Redefining \HepProcess on input line 24.
-LaTeX Info: Redefining \HepProcess on input line 27.
-LaTeX Info: Redefining \HepProcess on input line 27.
- [3]
-LaTeX Info: Redefining \HepProcess on input line 46.
-LaTeX Info: Redefining \HepProcess on input line 50.
-LaTeX Info: Redefining \HepProcess on input line 50.
+Underfull \vbox (badness 1072) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 31.
+LaTeX Info: Redefining \HepProcess on input line 31.
  [4]
-LaTeX Info: Redefining \HepProcess on input line 60.
+LaTeX Info: Redefining \HepProcess on input line 50.
+LaTeX Info: Redefining \HepProcess on input line 55.
+LaTeX Info: Redefining \HepProcess on input line 55.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 60.
-
-LaTeX Info: Redefining \HepProcess on input line 95.
-LaTeX Info: Redefining \HepProcess on input line 98.
-LaTeX Info: Redefining \HepProcess on input line 98.
 [5]
-LaTeX Info: Redefining \HepProcess on input line 103.
-LaTeX Info: Redefining \HepProcess on input line 103.
+LaTeX Info: Redefining \HepProcess on input line 64.
+LaTeX Info: Redefining \HepProcess on input line 99.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 102.
+LaTeX Info: Redefining \HepProcess on input line 102.
  [6]
-LaTeX Info: Redefining \HepProcess on input line 103.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 103.
-
-File: pictures/sto.png Graphic file (type bmp)
-<pictures/sto.png>
+LaTeX Info: Redefining \HepProcess on input line 107.
+LaTeX Info: Redefining \HepProcess on input line 107.
+ [7]
+LaTeX Info: Redefining \HepProcess on input line 107.
 LaTeX Info: Redefining \HepProcess on input line 117.
 LaTeX Info: Redefining \HepProcess on input line 117.
-[7]
-LaTeX Info: Redefining \HepProcess on input line 119.
-LaTeX Info: Redefining \HepProcess on input line 122.
+
+[8]
+LaTeX Info: Redefining \HepProcess on input line 117.
+LaTeX Info: Redefining \HepProcess on input line 120.
 LaTeX Info: Redefining \HepProcess on input line 126.
-LaTeX Info: Redefining \HepProcess on input line 126.
- [8]
+
+Underfull \vbox (badness 2197) has occurred while \output is active []
+
 LaTeX Info: Redefining \HepProcess on input line 128.
-LaTeX Info: Redefining \HepProcess on input line 132.
-LaTeX Info: Redefining \HepProcess on input line 134.
-LaTeX Info: Redefining \HepProcess on input line 141.
-LaTeX Info: Redefining \HepProcess on input line 141.
+LaTeX Info: Redefining \HepProcess on input line 128.
  [9]
-Underfull \hbox (badness 10000) in paragraph at lines 167--168
+LaTeX Info: Redefining \HepProcess on input line 130.
+LaTeX Info: Redefining \HepProcess on input line 132.
+LaTeX Info: Redefining \HepProcess on input line 146.
+LaTeX Info: Redefining \HepProcess on input line 146.
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
 
  []
 
 File: pictures/techniquetaxonomy.png Graphic file (type bmp)
 <pictures/techniquetaxonomy.png>
-LaTeX Info: Redefining \HepProcess on input line 184.
-LaTeX Info: Redefining \HepProcess on input line 184.
-[10]
-LaTeX Info: Redefining \HepProcess on input line 187.
+LaTeX Info: Redefining \HepProcess on input line 185.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 187.
+LaTeX Info: Redefining \HepProcess on input line 191.
+LaTeX Info: Redefining \HepProcess on input line 191.
+ [11]
+LaTeX Info: Redefining \HepProcess on input line 191.
+LaTeX Info: Redefining \HepProcess on input line 197.
+LaTeX Info: Redefining \HepProcess on input line 197.
 
-LaTeX Info: Redefining \HepProcess on input line 193.
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 193.
-
-LaTeX Info: Redefining \HepProcess on input line 196.
-LaTeX Info: Redefining \HepProcess on input line 196.
-[11]
-LaTeX Info: Redefining \HepProcess on input line 201.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 201.
-
-
-Overfull \hbox (2.98407pt too wide) in paragraph at lines 216--216
- []|[]\T1/phv/m/n/10 D$[]$[]| 
- []
-
-
-Overfull \hbox (5.82951pt too wide) in paragraph at lines 216--216
- []|[]\T1/phv/m/n/10 D$[]$[]| 
- []
-
-
-Overfull \hbox (2.98407pt too wide) in paragraph at lines 232--232
- []|[]\T1/phv/m/n/10 D$[]$[]| 
- []
-
-
-Overfull \hbox (5.82951pt too wide) in paragraph at lines 232--232
- []|[]\T1/phv/m/n/10 D$[]$[]| 
- []
-
-LaTeX Info: Redefining \HepProcess on input line 244.
-LaTeX Info: Redefining \HepProcess on input line 244.
 [12]
-LaTeX Info: Redefining \HepProcess on input line 248.
-LaTeX Info: Redefining \HepProcess on input line 248.
+LaTeX Info: Redefining \HepProcess on input line 199.
+
+Overfull \hbox (2.98407pt too wide) in paragraph at lines 214--214
+ []|[]\T1/phv/m/n/10 D$[]$[]| 
+ []
+
+
+Overfull \hbox (5.82951pt too wide) in paragraph at lines 214--214
+ []|[]\T1/phv/m/n/10 D$[]$[]| 
+ []
+
+
+Overfull \hbox (2.98407pt too wide) in paragraph at lines 230--230
+ []|[]\T1/phv/m/n/10 D$[]$[]| 
+ []
+
+
+Overfull \hbox (5.82951pt too wide) in paragraph at lines 230--230
+ []|[]\T1/phv/m/n/10 D$[]$[]| 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 239.
+LaTeX Info: Redefining \HepProcess on input line 239.
  [13]
 LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 252.
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 250.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 252.
-LaTeX Info: Redefining \HepProcess on input line 280.
-LaTeX Info: Redefining \HepProcess on input line 282.
-LaTeX Info: Redefining \HepProcess on input line 282.
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 250.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 251.
+LaTeX Info: Redefining \HepProcess on input line 251.
  [14]
+LaTeX Info: Redefining \HepProcess on input line 278.
+LaTeX Info: Redefining \HepProcess on input line 281.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 283.
+LaTeX Info: Redefining \HepProcess on input line 283.
+ [15]
+File: pictures/sto.png Graphic file (type bmp)
+<pictures/sto.png>
+LaTeX Info: Redefining \HepProcess on input line 302.
+LaTeX Info: Redefining \HepProcess on input line 307.
+LaTeX Info: Redefining \HepProcess on input line 307.
+
+[16]
 File: pictures/5473227-fig-2-source-hires.png Graphic file (type bmp)
 <pictures/5473227-fig-2-source-hires.png>
-LaTeX Info: Redefining \HepProcess on input line 289.
-LaTeX Info: Redefining \HepProcess on input line 291.
-LaTeX Info: Redefining \HepProcess on input line 291.
- [15]
+LaTeX Info: Redefining \HepProcess on input line 315.
 File: pictures/collectiveMetaDataExample.png Graphic file (type bmp)
 <pictures/collectiveMetaDataExample.png>
-
-Underfull \hbox (badness 7362) in paragraph at lines 339--339
+LaTeX Info: Redefining \HepProcess on input line 324.
+LaTeX Info: Redefining \HepProcess on input line 324.
+ [17]
+Underfull \hbox (badness 7362) in paragraph at lines 361--361
 []|\T1/phv/m/n/10 Beck et al. [[][]BBDW14b[][]], Fed-erico et al.
  []
 
 
-Underfull \hbox (badness 3471) in paragraph at lines 339--339
+Underfull \hbox (badness 3471) in paragraph at lines 361--361
 []|\T1/phv/m/n/10 Edmunds et al. [[][]ELC$[]$12[][]], Laramee et al.
  []
 
-LaTeX Info: Redefining \HepProcess on input line 342.
-LaTeX Info: Redefining \HepProcess on input line 345.
-LaTeX Info: Redefining \HepProcess on input line 345.
-[16]
-LaTeX Info: Redefining \HepProcess on input line 348.
-LaTeX Info: Redefining \HepProcess on input line 350.
-LaTeX Info: Redefining \HepProcess on input line 350.
- [17]
-LaTeX Info: Redefining \HepProcess on input line 363.
-LaTeX Info: Redefining \HepProcess on input line 363.
+
+Underfull \vbox (badness 2970) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 366.
+LaTeX Info: Redefining \HepProcess on input line 366.
  [18]
-LaTeX Info: Redefining \HepProcess on input line 371.
+LaTeX Info: Redefining \HepProcess on input line 374.
+LaTeX Info: Redefining \HepProcess on input line 374.
+
+[19]
+LaTeX Info: Redefining \HepProcess on input line 374.
 File: pictures/kucherkerren.png Graphic file (type bmp)
 <pictures/kucherkerren.png>
-LaTeX Info: Redefining \HepProcess on input line 384.
-LaTeX Info: Redefining \HepProcess on input line 386.
-LaTeX Info: Redefining \HepProcess on input line 386.
- [19]
-LaTeX Info: Redefining \HepProcess on input line 389.
-) (./appendices.tex
-LaTeX Info: Redefining \HepProcess on input line 3.
-LaTeX Info: Redefining \HepProcess on input line 3.
+LaTeX Info: Redefining \HepProcess on input line 388.
+
+Underfull \vbox (badness 6125) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 390.
+LaTeX Info: Redefining \HepProcess on input line 390.
  [20]
+LaTeX Info: Redefining \HepProcess on input line 393.
+LaTeX Info: Redefining \HepProcess on input line 396.
+)
+(./appendices.tex
 LaTeX Info: Redefining \HepProcess on input line 3.
 LaTeX Info: Redefining \HepProcess on input line 3.
  [21]
+LaTeX Info: Redefining \HepProcess on input line 3.
+LaTeX Info: Redefining \HepProcess on input line 3.
+ [22]
 chapter B.
 LaTeX Info: Redefining \HepProcess on input line 3.
 LaTeX Info: Redefining \HepProcess on input line 4.
 File: images/softwareDevelopment.png Graphic file (type bmp)
 <images/softwareDevelopment.png>
-LaTeX Info: Redefining \HepProcess on input line 12.
-LaTeX Info: Redefining \HepProcess on input line 12.
-[22
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 8.
+LaTeX Info: Redefining \HepProcess on input line 8.
+ [23
 
 ]
-LaTeX Info: Redefining \HepProcess on input line 12.
-LaTeX Info: Redefining \HepProcess on input line 12.
- [23]
-LaTeX Info: Redefining \HepProcess on input line 18.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 18.00587pt on input line 22.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 18.00587pt on input line 22.
-LaTeX Info: Redefining \HepProcess on input line 22.
+LaTeX Info: Redefining \HepProcess on input line 8.
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[][]$\T1/lmtt/m/n/8 https : / / www . census . gov / library / publications / 2
+011 / compendia /
+ []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 22.
+Underfull \hbox (badness 10000) in paragraph at lines 9--31
+
+ []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@Oldalpha' on input line 22.
+Underfull \hbox (badness 10000) in paragraph at lines 9--31
+
+ []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 22.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 31.
+LaTeX Info: Redefining \HepProcess on input line 31.
+ [24]
+LaTeX Info: Redefining \HepProcess on input line 32.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 22.
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
 
-)) Processing 'backmatter' comment.
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf>
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf>
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf>
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf>
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf, page 1>
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf, page 1>
+LaTeX Info: Redefining \HepProcess on input line 34.
+LaTeX Info: Redefining \HepProcess on input line 34.
+[25]
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf, page 1>
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf, page 1>
+LaTeX Info: Redefining \HepProcess on input line 34.
+LaTeX Info: Redefining \HepProcess on input line 34.
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf, page 1>
+ [26]
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf, page 2>
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf, page 2>
+LaTeX Info: Redefining \HepProcess on input line 34.
+LaTeX Info: Redefining \HepProcess on input line 34.
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf, page 2>
+ [27]
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf, page 3>
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf, page 3>
+LaTeX Info: Redefining \HepProcess on input line 34.
+LaTeX Info: Redefining \HepProcess on input line 34.
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf, page 3>
+ [28])) Processing 'backmatter' comment.
 \openout3 = `comment.cut'.
 
 
@@ -3904,14 +4312,21 @@ Comment 'backmatter' writing to comment.cut. Straight input of comment.cut.
 (./comment.cut (./backmatter.tex
 LaTeX Info: Redefining \HepProcess on input line 1.
 LaTeX Info: Redefining \HepProcess on input line 1.
- [24]
+ [29]
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [30
 
-LaTeX Warning: Citation `hepthesis' on page 25 undefined on input line 2.
-
-(./dissertation-base.bbl
+]
+Missing character: There is no ’ in font phvr8t!
+ (./dissertation-base.bbl
 LaTeX Info: Redefining \HepProcess on input line 2.
 LaTeX Info: Redefining \HepProcess on input line 2.
- [25
+ [31]
+LaTeX Info: Redefining \HepProcess on input line 2.
+LaTeX Info: Redefining \HepProcess on input line 2.
+
+[32
 
 ]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <8> not available
@@ -3919,146 +4334,206 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <8> not available
 LaTeX Info: Redefining \HepProcess on input line 2.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 7.
-LaTeX Info: Redefining \HepProcess on input line 116.
-LaTeX Info: Redefining \HepProcess on input line 116.
- [26
 
-]
-Missing character: There is no • in font phvr8t!
-LaTeX Info: Redefining \HepProcess on input line 243.
-LaTeX Info: Redefining \HepProcess on input line 243.
- [27]
-LaTeX Info: Redefining \HepProcess on input line 368.
-LaTeX Info: Redefining \HepProcess on input line 368.
- [28]
-Missing character: There is no • in font phvr8t!
-LaTeX Info: Redefining \HepProcess on input line 495.
-LaTeX Info: Redefining \HepProcess on input line 495.
- [29]
-LaTeX Info: Redefining \HepProcess on input line 624.
-LaTeX Info: Redefining \HepProcess on input line 624.
- [30]
-LaTeX Info: Redefining \HepProcess on input line 751.
-LaTeX Info: Redefining \HepProcess on input line 751.
- [31]
-LaTeX Info: Redefining \HepProcess on input line 872.
-LaTeX Info: Redefining \HepProcess on input line 872.
- [32]
-LaTeX Info: Redefining \HepProcess on input line 998.
-LaTeX Info: Redefining \HepProcess on input line 998.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 113.
+LaTeX Info: Redefining \HepProcess on input line 113.
  [33]
-LaTeX Info: Redefining \HepProcess on input line 1115.
-LaTeX Info: Redefining \HepProcess on input line 1115.
- [34]
-LaTeX Info: Redefining \HepProcess on input line 1242.
-LaTeX Info: Redefining \HepProcess on input line 1242.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[35]
-Underfull \hbox (badness 2922) in paragraph at lines 1273--1277
+LaTeX Info: Redefining \HepProcess on input line 235.
+LaTeX Info: Redefining \HepProcess on input line 235.
+ [34]
+Missing character: There is no • in font phvr8t!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 370.
+LaTeX Info: Redefining \HepProcess on input line 370.
+ [35]
+Missing character: There is no • in font phvr8t!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 499.
+LaTeX Info: Redefining \HepProcess on input line 499.
+ [36]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 624.
+LaTeX Info: Redefining \HepProcess on input line 624.
+ [37]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 750.
+LaTeX Info: Redefining \HepProcess on input line 750.
+ [38]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 880.
+LaTeX Info: Redefining \HepProcess on input line 880.
+ [39]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 1005.
+LaTeX Info: Redefining \HepProcess on input line 1005.
+ [40]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 1131.
+LaTeX Info: Redefining \HepProcess on input line 1131.
+ [41]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 1254.
+LaTeX Info: Redefining \HepProcess on input line 1254.
+ [42]
+Underfull \hbox (badness 2302) in paragraph at lines 1297--1301
+[]\T1/phv/m/sc/8 McConchie A.\T1/phv/m/n/8 :  Pop vs soda trivari-ate choro-ple
+th, 2018.  URL: [][]$\T1/lmtt/m/n/8 https : / / bl . ocks . org / almccon /
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 1376.
+LaTeX Info: Redefining \HepProcess on input line 1376.
+ [43]
+Underfull \hbox (badness 2922) in paragraph at lines 1460--1464
 []\T1/phv/m/sc/8 Nusrat S., Kobourov S.\T1/phv/m/n/8 :  Car-togram in-ter-ac-ti
 ve browser.  [][]$\T1/lmtt/m/n/8 http : / / cartogram . cs . arizona . edu /
  []
 
-LaTeX Info: Redefining \HepProcess on input line 1365.
-LaTeX Info: Redefining \HepProcess on input line 1365.
-[36]
-LaTeX Info: Redefining \HepProcess on input line 1486.
-LaTeX Info: Redefining \HepProcess on input line 1486.
- [37]
-LaTeX Info: Redefining \HepProcess on input line 1609.
-LaTeX Info: Redefining \HepProcess on input line 1609.
- [38]
-Underfull \hbox (badness 1642) in paragraph at lines 1622--1627
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 1501.
+LaTeX Info: Redefining \HepProcess on input line 1501.
+ [44]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 1619.
+LaTeX Info: Redefining \HepProcess on input line 1619.
+ [45]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 1749.
+LaTeX Info: Redefining \HepProcess on input line 1749.
+ [46]
+Underfull \hbox (badness 1642) in paragraph at lines 1835--1840
 \T1/phv/m/n/8 2018-03-21.  URL: [][]$\T1/lmtt/m/n/8 https : / / www . ons . gov
  . uk / peoplepopulationandcommunity / populationandmigration /
  []
 
-LaTeX Info: Redefining \HepProcess on input line 1739.
-LaTeX Info: Redefining \HepProcess on input line 1739.
-[39]
-LaTeX Info: Redefining \HepProcess on input line 1865.
-LaTeX Info: Redefining \HepProcess on input line 1865.
- [40])
-LaTeX Info: Redefining \HepProcess on input line 17.
-LaTeX Info: Redefining \HepProcess on input line 17.
- [41]
-LaTeX Info: Redefining \HepProcess on input line 17.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 1872.
+LaTeX Info: Redefining \HepProcess on input line 1872.
+ [47]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 2003.
+LaTeX Info: Redefining \HepProcess on input line 2003.
+ [48]
+Missing character: There is no … in font phvr8t!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 2133.
+LaTeX Info: Redefining \HepProcess on input line 2133.
+ [49])
+LaTeX Info: Redefining \HepProcess on input line 21.
+LaTeX Info: Redefining \HepProcess on input line 21.
+
+[50]
+LaTeX Info: Redefining \HepProcess on input line 21.
  (./dissertation-base.lof
-LaTeX Info: Redefining \HepProcess on input line 24.
-LaTeX Info: Redefining \HepProcess on input line 24.
- [42
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 25.
+LaTeX Info: Redefining \HepProcess on input line 25.
+ [51
 
 ]
-LaTeX Info: Redefining \HepProcess on input line 42.
-LaTeX Info: Redefining \HepProcess on input line 42.
- [43]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 41.
+LaTeX Info: Redefining \HepProcess on input line 41.
+ [52]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 LaTeX Info: Redefining \HepProcess on input line 65.
 LaTeX Info: Redefining \HepProcess on input line 65.
- [44]
-Overfull \hbox (0.94383pt too wide) detected at line 74
+ [53]
+Overfull \hbox (0.94383pt too wide) detected at line 71
  []\T1/phv/m/n/8 101
  []
 
 
-Overfull \hbox (0.94383pt too wide) detected at line 75
- []\T1/phv/m/n/8 101
+Overfull \hbox (0.94383pt too wide) detected at line 72
+ []\T1/phv/m/n/8 104
  []
 
 
-Overfull \hbox (0.94383pt too wide) detected at line 78
+Overfull \hbox (0.94383pt too wide) detected at line 76
  []\T1/phv/m/n/8 105
  []
 
 
-Overfull \hbox (0.94383pt too wide) detected at line 79
+Overfull \hbox (0.94383pt too wide) detected at line 77
+ []\T1/phv/m/n/8 106
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 78
+ []\T1/phv/m/n/8 107
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 81
  []\T1/phv/m/n/8 108
  []
 
 
-Overfull \hbox (0.94383pt too wide) detected at line 83
- []\T1/phv/m/n/8 109
- []
-
-
-Overfull \hbox (0.94383pt too wide) detected at line 84
- []\T1/phv/m/n/8 110
- []
-
-
-Overfull \hbox (0.94383pt too wide) detected at line 88
+Overfull \hbox (0.94383pt too wide) detected at line 86
  []\T1/phv/m/n/8 111
  []
 
 
+Overfull \hbox (0.94383pt too wide) detected at line 87
+ []\T1/phv/m/n/8 115
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 91
+ []\T1/phv/m/n/8 115
+ []
+
+
 Overfull \hbox (0.94383pt too wide) detected at line 92
- []\T1/phv/m/n/8 113
+ []\T1/phv/m/n/8 116
  []
 
 
-Overfull \hbox (0.94383pt too wide) detected at line 95
- []\T1/phv/m/n/8 114
+Overfull \hbox (0.94383pt too wide) detected at line 96
+ []\T1/phv/m/n/8 118
  []
 
 
-Overfull \hbox (0.94383pt too wide) detected at line 99
- []\T1/phv/m/n/8 117
- []
+Underfull \vbox (badness 1859) has occurred while \output is active []
 
-
-Overfull \hbox (0.94383pt too wide) detected at line 102
+LaTeX Info: Redefining \HepProcess on input line 100.
+LaTeX Info: Redefining \HepProcess on input line 100.
+ [54]
+Overfull \hbox (0.94383pt too wide) detected at line 100
  []\T1/phv/m/n/8 119
  []
 
-LaTeX Info: Redefining \HepProcess on input line 105.
-LaTeX Info: Redefining \HepProcess on input line 105.
-[45]
-Overfull \hbox (0.94383pt too wide) detected at line 105
+
+Overfull \hbox (0.94383pt too wide) detected at line 103
  []\T1/phv/m/n/8 120
- []
-
-
-Overfull \hbox (0.94383pt too wide) detected at line 106
- []\T1/phv/m/n/8 122
  []
 
 
@@ -4068,52 +4543,47 @@ Overfull \hbox (0.94383pt too wide) detected at line 107
 
 
 Overfull \hbox (0.94383pt too wide) detected at line 110
- []\T1/phv/m/n/8 128
- []
-
-
-Overfull \hbox (0.94383pt too wide) detected at line 111
- []\T1/phv/m/n/8 130
- []
-
-
-Overfull \hbox (0.94383pt too wide) detected at line 112
- []\T1/phv/m/n/8 133
+ []\T1/phv/m/n/8 125
  []
 
 
 Overfull \hbox (0.94383pt too wide) detected at line 113
- []\T1/phv/m/n/8 134
+ []\T1/phv/m/n/8 126
  []
 
 
 Overfull \hbox (0.94383pt too wide) detected at line 114
- []\T1/phv/m/n/8 135
+ []\T1/phv/m/n/8 128
  []
 
 
 Overfull \hbox (0.94383pt too wide) detected at line 115
- []\T1/phv/m/n/8 139
- []
-
-
-Overfull \hbox (0.94383pt too wide) detected at line 116
- []\T1/phv/m/n/8 140
- []
-
-
-Overfull \hbox (0.94383pt too wide) detected at line 117
- []\T1/phv/m/n/8 141
+ []\T1/phv/m/n/8 129
  []
 
 
 Overfull \hbox (0.94383pt too wide) detected at line 118
- []\T1/phv/m/n/8 142
+ []\T1/phv/m/n/8 134
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 119
+ []\T1/phv/m/n/8 137
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 120
+ []\T1/phv/m/n/8 141
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 121
+ []\T1/phv/m/n/8 141
  []
 
 
 Overfull \hbox (0.94383pt too wide) detected at line 122
- []\T1/phv/m/n/8 144
+ []\T1/phv/m/n/8 143
  []
 
 
@@ -4123,34 +4593,32 @@ Overfull \hbox (0.94383pt too wide) detected at line 123
 
 
 Overfull \hbox (0.94383pt too wide) detected at line 124
- []\T1/phv/m/n/8 146
- []
-
-LaTeX Info: Redefining \HepProcess on input line 125.
-LaTeX Info: Redefining \HepProcess on input line 125.
-[46]
-Overfull \hbox (0.94383pt too wide) detected at line 125
- []\T1/phv/m/n/8 147
- []
-
-
-Overfull \hbox (0.94383pt too wide) detected at line 126
  []\T1/phv/m/n/8 148
  []
 
 
-Overfull \hbox (0.94383pt too wide) detected at line 127
+Overfull \hbox (0.94383pt too wide) detected at line 125
  []\T1/phv/m/n/8 149
  []
 
 
-Overfull \hbox (0.94383pt too wide) detected at line 130
- []\T1/phv/m/n/8 153
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 126.
+LaTeX Info: Redefining \HepProcess on input line 126.
+ [55]
+Overfull \hbox (0.94383pt too wide) detected at line 126
+ []\T1/phv/m/n/8 149
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 127
+ []\T1/phv/m/n/8 151
  []
 
 
 Overfull \hbox (0.94383pt too wide) detected at line 131
- []\T1/phv/m/n/8 154
+ []\T1/phv/m/n/8 155
  []
 
 
@@ -4188,41 +4656,114 @@ Overfull \hbox (0.94383pt too wide) detected at line 138
  []\T1/phv/m/n/8 162
  []
 
-LaTeX Info: Redefining \HepProcess on input line 139.
-LaTeX Info: Redefining \HepProcess on input line 139.
-[47]
+
 Overfull \hbox (0.94383pt too wide) detected at line 139
- []\T1/phv/m/n/8 166
+ []\T1/phv/m/n/8 163
  []
 
 
 Overfull \hbox (0.94383pt too wide) detected at line 142
- []\T1/phv/m/n/8 167
+ []\T1/phv/m/n/8 169
  []
 
 
 Overfull \hbox (0.94383pt too wide) detected at line 143
- []\T1/phv/m/n/8 167
+ []\T1/phv/m/n/8 171
  []
 
 
 Overfull \hbox (0.94383pt too wide) detected at line 144
- []\T1/phv/m/n/8 168
+ []\T1/phv/m/n/8 172
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 145.
+LaTeX Info: Redefining \HepProcess on input line 145.
+ [56]
 Overfull \hbox (0.94383pt too wide) detected at line 145
- []\T1/phv/m/n/8 169
+ []\T1/phv/m/n/8 173
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 146
+ []\T1/phv/m/n/8 174
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 147
+ []\T1/phv/m/n/8 176
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 148
+ []\T1/phv/m/n/8 177
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 149
+ []\T1/phv/m/n/8 178
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 150
+ []\T1/phv/m/n/8 179
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 151
+ []\T1/phv/m/n/8 181
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 152
+ []\T1/phv/m/n/8 182
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 153
+ []\T1/phv/m/n/8 183
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 154
+ []\T1/phv/m/n/8 183
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 155
+ []\T1/phv/m/n/8 184
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 156.
+LaTeX Info: Redefining \HepProcess on input line 156.
+ [57]
+Overfull \hbox (0.94383pt too wide) detected at line 156
+ []\T1/phv/m/n/8 185
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 157
+ []\T1/phv/m/n/8 188
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 162
+ []\T1/phv/m/n/8 194
  []
 
 )
 \tf@lof=\write8
 \openout8 = `dissertation-base.lof'.
 
-LaTeX Info: Redefining \HepProcess on input line 18.
-LaTeX Info: Redefining \HepProcess on input line 18.
- [48]
-LaTeX Info: Redefining \HepProcess on input line 18.
+LaTeX Info: Redefining \HepProcess on input line 22.
+LaTeX Info: Redefining \HepProcess on input line 22.
+ [58]
+LaTeX Info: Redefining \HepProcess on input line 22.
  (./dissertation-base.lot
 Overfull \hbox (26.54536pt too wide) in paragraph at lines 9--9
  [][] [][][]\T1/phv/m/n/8 A 3-Dimensional hi-er-ar-chi-cal clas-si-fi-ca-tion t
@@ -4231,18 +4772,28 @@ a-ble de-pict-ing the cat-e-go-riza-tion of all the sur-vey pa-pers. [][][][][]
  []
 
 
-Overfull \hbox (0.94383pt too wide) detected at line 18
- []\T1/phv/m/n/8 115
+Overfull \hbox (0.94383pt too wide) detected at line 16
+ []\T1/phv/m/n/8 102
  []
 
 
-Overfull \hbox (0.94383pt too wide) detected at line 21
- []\T1/phv/m/n/8 135
+Overfull \hbox (0.94383pt too wide) detected at line 19
+ []\T1/phv/m/n/8 121
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 22
+ []\T1/phv/m/n/8 138
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 23
+ []\T1/phv/m/n/8 142
  []
 
 
 Overfull \hbox (0.94383pt too wide) detected at line 24
- []\T1/phv/m/n/8 164
+ []\T1/phv/m/n/8 154
  []
 
 
@@ -4250,7 +4801,19 @@ Overfull \hbox (0.94383pt too wide) detected at line 27
  []\T1/phv/m/n/8 175
  []
 
-)
+
+Overfull \hbox (0.94383pt too wide) detected at line 28
+ []\T1/phv/m/n/8 187
+ []
+
+
+Underfull \vbox (badness 3525) has occurred while \output is active []
+
+LaTeX Info: Redefining \HepProcess on input line 33.
+LaTeX Info: Redefining \HepProcess on input line 33.
+ [59
+
+])
 \tf@lot=\write9
 \openout9 = `dissertation-base.lot'.
 
@@ -4271,19 +4834,14 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the dissertation-base.log file.
 
-LaTeX Info: Redefining \HepProcess on input line 82.
-LaTeX Info: Redefining \HepProcess on input line 82.
-[49
-
-]
-LaTeX Info: Redefining \HepProcess on input line 82.
-LaTeX Info: Redefining \HepProcess on input line 82.
- [50]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 82.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
+LaTeX Info: Redefining \HepProcess on input line 83.
+LaTeX Info: Redefining \HepProcess on input line 83.
+[60]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 83.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
  (./dissertation-base.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 82.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 82.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 83.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 83.
 
 
 LaTeX Warning: There were undefined references.
@@ -4293,12 +4851,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 47943 strings out of 493007
- 987424 string characters out of 6136718
- 1592894 words of memory out of 5000000
- 50547 multiletter control sequences out of 15000+600000
- 147278 words of font info for 247 fonts, out of 8000000 for 9000
+ 48678 strings out of 493007
+ 999630 string characters out of 6136718
+ 1620726 words of memory out of 5000000
+ 51244 multiletter control sequences out of 15000+600000
+ 146150 words of font info for 238 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 67i,19n,103p,8829b,1554s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,19n,103p,8829b,2291s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on dissertation-base.pdf (239 pages).
+Output written on dissertation-base.pdf (275 pages).

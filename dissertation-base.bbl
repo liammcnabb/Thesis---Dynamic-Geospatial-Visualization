@@ -45,6 +45,11 @@
 \newblock \href {http://dx.doi.org/10.2312/cgvc.20181219}
   {\path{doi:10.2312/cgvc.20181219}}.
 
+\bibitem[AL19]{alharbi2019sos}
+\textsc{Alharbi M., Laramee R.~S.}:
+\newblock Sos textvis: An extended survey of surveys on text visualization.
+\newblock \emph{Computers 8}, 1 (2019), 17.
+
 \bibitem[AMA{\etalchar{*}}14a]{setVis}
 \textsc{Alsallakh B., Micallef L., Aigner W., Hauser H., Miksch S., Rodgers
   P.}:
@@ -79,12 +84,25 @@
 \newblock Geoda: an introduction to spatial data analysis.
 \newblock \emph{Geographical analysis 38}, 1 (2006), 5--22.
 
+\bibitem[Aut19]{autodesk_2019}
+\textsc{Autodesk}:
+\newblock Two-manifold and non-manifold polygonal geometry | maya 2016 |
+  autodesk knowledge network, 2019.
+\newblock URL:
+  \url{https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Maya/files/GUID-8E97CEF7-1CFE-4838-B4B7-59F526E21AB2-htm.html}.
+
+\bibitem[Bae98]{baecker1998sorting}
+\textsc{Baecker R.}:
+\newblock Sorting out sorting: A case study of software visualization for
+  teaching computer science.
+\newblock \emph{Software visualization: Programming as a multimedia experience
+  1} (1998), 369--381.
+
 \bibitem[BAOL12]{brodlie2012}
 \textsc{Brodlie K., Allendes~Osorio R., Lopes A.}:
 \newblock \emph{A Review of Uncertainty in Data Visualization}.
 \newblock Springer London, London, 2012, pp.~81--109.
-\newblock URL: \url{http://dx.doi.org/10.1007/978-1-4471-2804-5_6}, \href
-  {http://dx.doi.org/10.1007/978-1-4471-2804-5_6}
+\newblock \href {http://dx.doi.org/10.1007/978-1-4471-2804-5_6}
   {\path{doi:10.1007/978-1-4471-2804-5_6}}.
 
 \bibitem[BBDW14a]{dynamicVis}
@@ -160,6 +178,12 @@
 \newblock \emph{Semiology of graphics: diagrams, networks, maps}.
 \newblock University of Wisconsin press, 1983.
 
+\bibitem[BGB{\etalchar{*}}14]{beck2014regviz}
+\textsc{Beck F., Gulan S., Biegel B., Baltes S., Weiskopf D.}:
+\newblock Regviz: Visual debugging of regular expressions.
+\newblock In \emph{Companion Proceedings of the 36th International Conference
+  on Software Engineering} (2014), ACM, pp.~504--507.
+
 \bibitem[BHVW00]{bruls2000squarified}
 \textsc{Bruls M., Huizing K., Van~Wijk J.~J.}:
 \newblock Squarified treemaps.
@@ -180,8 +204,7 @@
 \newblock State-of-the-art of visualization for eye tracking data.
 \newblock In \emph{EuroVis - State of the Art Reports} (2014), The Eurographics
   Association, pp.~63--82.
-\newblock URL: \url{http://dx.doi.org/10.2312/eurovisstar.20141173}, \href
-  {http://dx.doi.org/10.2312/eurovisstar.20141173}
+\newblock \href {http://dx.doi.org/10.2312/eurovisstar.20141173}
   {\path{doi:10.2312/eurovisstar.20141173}}.
 
 \bibitem[BKW16]{beck2016visual}
@@ -229,6 +252,13 @@
 \newblock •.
 \newblock URL: \url{https://github.com/topojson/}.
 
+\bibitem[BNN19]{bekos2019external}
+\textsc{Bekos M.~A., Niedermann B., N{\"{o}}llenburg M.}:
+\newblock External labeling techniques: {A} taxonomy and survey.
+\newblock \emph{CoRR abs/1902.01454} (2019).
+\newblock URL: \url{http://arxiv.org/abs/1902.01454}, \href
+  {http://arxiv.org/abs/1902.01454} {\path{arXiv:1902.01454}}.
+
 \bibitem[BNW{\etalchar{*}}16a]{blumensteinevaluating}
 \textsc{Blumenstein K., Niederer C., Wagner M., Schmiedl G., Rind A., Aigner
   W.}:
@@ -237,8 +267,7 @@
 \newblock In \emph{Proceedings of the Sixth Workshop on Beyond Time and Errors
   on Novel Evaluation Methods for Visualization} (New York, NY, USA, 2016),
   BELIV '16, ACM, pp.~125--132.
-\newblock URL: \url{http://doi.acm.org/10.1145/2993901.2993906}, \href
-  {http://dx.doi.org/10.1145/2993901.2993906}
+\newblock \href {http://dx.doi.org/10.1145/2993901.2993906}
   {\path{doi:10.1145/2993901.2993906}}.
 
 \bibitem[BNW{\etalchar{*}}16b]{blumenstein2016evaluating}
@@ -288,6 +317,20 @@
 \newblock accessed 2017/08/10.
 \newblock URL: \url{http://colorbrewer2.org/}.
 
+\bibitem[BS81]{baecker1981sorting}
+\textsc{Baecker R., Sherman D.}:
+\newblock Sorting out sorting. 30 minute color sound film.
+\newblock \emph{Dynamic Graphic Project, University of Toronto} (1981).
+
+\bibitem[BS84]{brown1984system}
+\textsc{Brown M.~H., Sedgewick R.}:
+\newblock A system for algorithm animation.
+\newblock In \emph{Proceedings of the 11th Annual Conference on Computer
+  Graphics and Interactive Techniques} (New York, NY, USA, 1984), SIGGRAPH '84,
+  ACM, pp.~177--186.
+\newblock \href {http://dx.doi.org/10.1145/800031.808596}
+  {\path{doi:10.1145/800031.808596}}.
+
 \bibitem[BSB18]{beecham2018locally}
 \textsc{Beecham R., Slingsby A., Brunsdon C.}:
 \newblock Locally-varying explanations behind the united kingdom's vote to
@@ -308,26 +351,35 @@
 \newblock \emph{IEEE Transactions on Visualization and Computer Graphics 17},
   12 (2011), 2203--2212.
 
-\bibitem[Bur18a]{USCB}
+\bibitem[Buc]{hepthesis}
+\textsc{Buckley A.}:
+\newblock The hepthesis {\LaTeX} class.
+
+\bibitem[Bur18]{USCB}
 \textsc{Bureau U.~C.}:
 \newblock Cartographic boundary shapefiles - us counties, 2018.
 \newblock Date Accessed: 2018-03-21.
 \newblock URL:
   \url{http://www.census.gov/geo/maps-data/data/cbf/cbf_counties.html}.
 
-\bibitem[Bur18b]{USCB2}
-\textsc{Bureau U.~C.}:
-\newblock Cartographic boundary shapefiles - us counties, 2018.
-\newblock Date Accessed: 2018-03-21.
-\newblock URL: \url{https://www.census.gov/support/USACdataDownloads.html}.
+\bibitem[BY98]{boissonnat1998algorithmic}
+\textsc{Boissonnat J.-D., Yvinec M.}:
+\newblock \emph{Algorithmic geometry}.
+\newblock Cambridge university press, 1998.
+
+\bibitem[CA99]{crossno1999visual}
+\textsc{Crossno P., Angel E.}:
+\newblock Visual debugging of visualization software: a case study for particle
+  systems.
+\newblock In \emph{Proceedings Visualization'99 (Cat. No. 99CB37067)} (1999),
+  IEEE, pp.~417--554.
 
 \bibitem[CGW15]{chen2015survey}
 \textsc{Chen W., Guo F., Wang F.-Y.}:
 \newblock A survey of traffic data visualization.
 \newblock \emph{IEEE Trans. Intelligent Transportation Systems 16}, 6 (2015),
   2970--2984.
-\newblock URL: \url{http://dx.doi.org/10.1109/TITS.2015.2436897}, \href
-  {http://dx.doi.org/10.1109/TITS.2015.2436897}
+\newblock \href {http://dx.doi.org/10.1109/TITS.2015.2436897}
   {\path{doi:10.1109/TITS.2015.2436897}}.
 
 \bibitem[Chi00]{chi2000taxonomy}
@@ -347,7 +399,8 @@
 \bibitem[CKB08]{cockburn2008review}
 \textsc{Cockburn A., Karlson A.~K., Bederson B.~B.}:
 \newblock A review of overview+ detail, zooming, and focus+ context interfaces.
-\newblock \emph{ACM Comput. Surv. 41}, 1 (2008), 2--1.
+\newblock \emph{ACM Computing Surveys 41}, 1 (2008).
+\newblock Paper 2.
 
 \bibitem[CLK{\etalchar{*}}11]{chavent2011gpu}
 \textsc{Chavent M., L{\'e}vy B., Krone M., Bidmon K., Nomin{\'e} J.-P., Ertl
@@ -388,8 +441,26 @@
 \textsc{Carrion B., Onorati T., Diaz P.}:
 \newblock Designing a semi-automatic taxonomy generation tool.
 \newblock In \emph{The 22nd International Conference on Information
-  Visualization (IV)} (Salerno, Italy, July 2018).
+  Visualization (IV)} (Salerno, Italy, July 2018), pp.~266--271.
 \newblock •.
+
+\bibitem[CR02]{crossno2002visual}
+\textsc{Crossno P., Rogers D.~H.}:
+\newblock Visual debugging.
+\newblock \emph{IEEE Computer Graphics and Applications 22}, 6 (2002), 6--10.
+
+\bibitem[CRPA12]{campos2012gzoltar}
+\textsc{Campos J., Riboira A., Perez A., Abreu R.}:
+\newblock Gzoltar: an eclipse plug-in for testing and debugging.
+\newblock In \emph{Proceedings of the 27th IEEE/ACM International Conference on
+  Automated Software Engineering} (2012), ACM, pp.~378--381.
+
+\bibitem[CXM19]{cheng2019colormap}
+\textsc{Cheng S., Xu W., Mueller K.}:
+\newblock Colormap nd: A data-driven approach and tool for mapping multivariate
+  data to color.
+\newblock \emph{IEEE transactions on visualization and computer graphics 25}, 2
+  (2019), 1361--1377.
 
 \bibitem[CZ11]{caserta2011visualization}
 \textsc{Caserta P., Zendra O.}:
@@ -432,6 +503,12 @@
   and evolution of software}.
 \newblock Springer Science \& Business Media, 2007.
 
+\bibitem[{Dig}19]{papers2019papers}
+\textsc{{Digital Science Research \& Solutions Inc}}:
+\newblock Papers, 2019.
+\newblock date accessed: 2019-02-28.
+\newblock URL: \url{https://www.papersapp.com}.
+
 \bibitem[DLR09]{draper2009survey}
 \textsc{Draper G.~M., Livnat Y., Riesenfeld R.~F.}:
 \newblock A survey of radial methods for information visualization.
@@ -446,6 +523,11 @@
   search theory.
 \newblock \emph{Perception \& Psychophysics 51}, 1 (1992), 79--85.
 
+\bibitem[DMK05]{dykes2005exploring}
+\textsc{Dykes J., MacEachren A.~M., Kraak M.-J.}:
+\newblock \emph{Exploring geovisualization}.
+\newblock Elsevier, 2005, ch.~Introduction.
+
 \bibitem[DML14a]{dumas2014financevis}
 \textsc{Dumas M., McGuffin M.~J., Lemieux V.~L.}:
 \newblock Financevis. net-a visual survey of financial data visualizations.
@@ -457,6 +539,12 @@
 \newblock Financevis.net: A visual survey of financial data visualizations.
 \newblock \url{http://financevis.net/}, 2014.
 \newblock [Online: accessed 05-January-2016].
+
+\bibitem[DMS05]{dwyer2005fast}
+\textsc{Dwyer T., Marriott K., Stuckey P.~J.}:
+\newblock Fast node overlap removal.
+\newblock In \emph{International Symposium on Graph Drawing} (2005), Springer,
+  pp.~153--164.
 
 \bibitem[DNS01]{dang2001dynamic}
 \textsc{Dang G., North C., Shneiderman B.}:
@@ -497,6 +585,12 @@
 \newblock Towards a taxonomy of movement patterns.
 \newblock \emph{Information visualization 7}, 3-4 (2008), 240--252.
 
+\bibitem[EB88]{eisenstadt1988transparent}
+\textsc{Eisenstadt M., Brayshaw M.}:
+\newblock The transparent prolog machine (tpm): an execution model and
+  graphical debugger for logic programming.
+\newblock \emph{The Journal of Logic Programming 5}, 4 (1988), 277--342.
+
 \bibitem[ED07]{ellis2007taxonomy}
 \textsc{Ellis G., Dix A.}:
 \newblock A taxonomy of clutter reduction for information visualisation.
@@ -511,6 +605,11 @@
   (May 2010), 439--454.
 \newblock \href {http://dx.doi.org/10.1109/TVCG.2009.84}
   {\path{doi:10.1109/TVCG.2009.84}}.
+
+\bibitem[EJL{\etalchar{*}}15]{ribarsky2015solved}
+\textsc{Ertl T., Johnson C., Laramee R.~S., Moorhead R., Rheingans P., Ribarsky
+  W.}:, 2015.
+\newblock Panel at IEEE VIS 2015.
 
 \bibitem[EK02]{eick2002visual}
 \textsc{Eick S.~G., Karr A.~F.}:
@@ -533,6 +632,16 @@
 \newblock \emph{Real-time collision detection}.
 \newblock CRC Press, 2004.
 
+\bibitem[Eve06]{everitt2006cambridge}
+\textsc{Everitt B.~S.}:
+\newblock \emph{The Cambridge dictionary of statistics}.
+\newblock Cambridge University Press, 2006.
+
+\bibitem[Eve11]{everitt_2011}
+\textsc{Everitt B.}:
+\newblock \emph{Cluster analysis}.
+\newblock Wiley, 2011.
+
 \bibitem[FAA{\etalchar{*}}01]{fairbairn2001representation}
 \textsc{Fairbairn D., Andrienko G., Andrienko N., Buziek G., Dykes J.}:
 \newblock Representation and its relationship with cartographic visualization.
@@ -550,7 +659,7 @@
 \newblock A survey on visual approaches for analyzing scientific literature and
   patents.
 \newblock \emph{IEEE Transactions on Visualization and Computer Graphics}
-  (2016).
+  (2016), 3167--3176.
 \newblock \href {http://dx.doi.org/10.1109/TVCG.2016.2610422}
   {\path{doi:10.1109/TVCG.2016.2610422}}.
 
@@ -564,9 +673,8 @@
 \bibitem[FIBK16]{fuchs2016systematic}
 \textsc{Fuchs J., Isenberg P., Bezerianos A., Keim D.}:
 \newblock A systematic review of experimental studies on data glyphs.
-\newblock \emph{IEEE Transactions on Visualization and Computer Graphics}
-  (2016).
-\newblock forthcoming.
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics 23}, 7
+  (2016), 1863--1879.
 \newblock \href {http://dx.doi.org/10.1109/TVCG.2016.2549018}
   {\path{doi:10.1109/TVCG.2016.2549018}}.
 
@@ -584,6 +692,12 @@
 \newblock The application of visual analytics to financial stability
   monitoring.
 \newblock \emph{Journal of Financial Stability 27} (2016), 180--197.
+
+\bibitem[FP02]{fekete2002interactive}
+\textsc{Fekete J.-D., Plaisant C.}:
+\newblock Interactive information visualization of a million items.
+\newblock In \emph{IEEE Symposium on Information Visualization, 2002. INFOVIS
+  2002.} (2002), IEEE, pp.~117--124.
 
 \bibitem[fra17]{frameworkdictionary}
 \emph{English Oxford Living Dictionaries}.
@@ -622,11 +736,24 @@
   {http://dx.doi.org/10.2312/PE.EuroVisShort.EuroVisShort2013.019-023}
   {\path{doi:10.2312/PE.EuroVisShort.EuroVisShort2013.019-023}}.
 
+\bibitem[GCA13]{gouveia2013using}
+\textsc{Gouveia C., Campos J., Abreu R.}:
+\newblock Using html5 visualizations in software fault localization.
+\newblock In \emph{2013 First IEEE Working Conference on Software Visualization
+  (VISSOFT)} (2013), IEEE, pp.~1--10.
+
+\bibitem[GFE{\etalchar{*}}12]{gribble2012ray}
+\textsc{Gribble C., Fisher J., Eby D., Quigley E., Ludwig G.}:
+\newblock Ray tracing visualization toolkit.
+\newblock In \emph{Proceedings of the ACM SIGGRAPH Symposium on Interactive 3D
+  Graphics and Games} (2012), ACM, pp.~71--78.
+
 \bibitem[GG13]{ghosh2013unsolved}
 \textsc{Ghosh S.~K., Goswami P.~P.}:
 \newblock Unsolved problems in visibility graphs of points, segments, and
   polygons.
-\newblock \emph{ACM Computing Surveys (CSUR) 46}, 2 (2013), 22.
+\newblock \emph{ACM Computing Surveys (CSUR) 46}, 2 (2013).
+\newblock Paper 22.
 
 \bibitem[GLS17]{gramazio2017colorgorical}
 \textsc{Gramazio C.~C., Laidlaw D.~H., Schloss K.~B.}:
@@ -646,7 +773,8 @@
   M.~A., Kitano H., Kohlbacher O., Neuweger H., Schneider R., Tenenbaum D.,
   et~al.}:
 \newblock Visualization of omics data for systems biology.
-\newblock \emph{Nature methods 7}, 3s (2010), S56.
+\newblock \emph{Nature methods 7}, 3s (2010).
+\newblock Paper S56.
 
 \bibitem[Goo17]{googleMaps}
 \textsc{Google}:
@@ -659,6 +787,15 @@
   performance.
 \newblock \emph{IEEE transactions on visualization and computer graphics 20},
   12 (2014), 1953--1962.
+
+\bibitem[Guo08]{guo2008regionalization}
+\textsc{Guo D.}:
+\newblock Regionalization with dynamically constrained agglomerative clustering
+  and partitioning (redcap).
+\newblock \emph{International Journal of Geographical Information Science 22},
+  7 (2008), 801--823.
+\newblock \href {http://dx.doi.org/10.1080/13658810701674970}
+  {\path{doi:10.1080/13658810701674970}}.
 
 \bibitem[GZ09]{gotz2009characterizing}
 \textsc{Gotz D., Zhou M.~X.}:
@@ -745,8 +882,7 @@
 \newblock On the limits of resolution and visual angle in visualization.
 \newblock \emph{ACM Transactions on Applied Perception (TAP) 9}, 4 (Oct. 2012),
   20--41.
-\newblock URL: \url{http://doi.acm.org/10.1145/2355598.2355603}, \href
-  {http://dx.doi.org/10.1145/2355598.2355603}
+\newblock \href {http://dx.doi.org/10.1145/2355598.2355603}
   {\path{doi:10.1145/2355598.2355603}}.
 
 \bibitem[HS12b]{heer2012color}
@@ -780,7 +916,9 @@
 \textsc{Isaacs K.~E., Gim{\'e}nez A., Jusufi I., Gamblin T., Bhatele A., Schulz
   M., Hamann B., Bremer P.-T.}:
 \newblock State of the art of performance visualization.
-\newblock \emph{EuroVis - State of the Art Reports} (2014).
+\newblock In \emph{EuroVis - State of the Art Reports} (2014).
+\newblock \href {http://dx.doi.org/10.2312/eurovisstar.20141177}
+  {\path{doi:10.2312/eurovisstar.20141177}}.
 
 \bibitem[IGJ{\etalchar{*}}14b]{performanceVis}
 \textsc{Isaacs K.~E., Giménez A., Jusufi I., Gamblin T., Bhatele A., Schulz
@@ -795,10 +933,8 @@
 \newblock {vispubdata.org: A Metadata Collection about IEEE Visualization (VIS)
   Publications}.
 \newblock \emph{{IEEE Transactions on Visualization and Computer Graphics} 23}
-  (2017).
-\newblock To appear.
-\newblock URL: \url{https://hal.inria.fr/hal-01376597}, \href
-  {http://dx.doi.org/http://dx.doi.org/10.1109/TVCG.2016.2615308}
+  (2017), 2199--2206.
+\newblock \href {http://dx.doi.org/http://dx.doi.org/10.1109/TVCG.2016.2615308}
   {\path{doi:http://dx.doi.org/10.1109/TVCG.2016.2615308}}.
 
 \bibitem[IIC{\etalchar{*}}13]{isenberg2013systematic}
@@ -816,6 +952,11 @@
 \textsc{Inselberg A.}:
 \newblock The plane with parallel coordinates.
 \newblock \emph{The visual computer 1}, 2 (1985), 69--91.
+
+\bibitem[jab18]{jabref2019jabref}
+Jabref, 2018.
+\newblock date accessed: 2019-02-28.
+\newblock URL: \url{http://www.jabref.org}.
 
 \bibitem[JE12]{javed2012exploring}
 \textsc{Javed W., Elmqvist N.}:
@@ -842,7 +983,7 @@
 \bibitem[JFCS16]{janicke2016visual}
 \textsc{J{\"a}nicke S., Franzini G., Cheema M., Scheuermann G.}:
 \newblock Visual text analysis in digital humanities.
-\newblock In \emph{Computer Graphics Forum} (2016), Wiley Online Library.
+\newblock 226--250.
 
 \bibitem[JGE12]{javed2012polyzoom}
 \textsc{Javed W., Ghani S., Elmqvist N.}:
@@ -855,6 +996,11 @@
 \newblock A psychophysical investigation of size as a physical variable.
 \newblock \emph{IEEE Transactions on Visualization and Computer Graphics 22}, 1
   (2016), 479--488.
+
+\bibitem[JHSS12]{janicke2012comparative}
+\textsc{J{\"a}nicke S., Heine C., Stockmann R., Scheuermann G.}:
+\newblock Comparative visualization of geospatial-temporal data.
+\newblock In \emph{GRAPP/IVAPP} (2012), pp.~613--625.
 
 \bibitem[JOG{\etalchar{*}}17]{johansson2017visadapt}
 \textsc{Johansson J., Opach T., Glaas E., Neset T.-S., Navarra C., Linn{\'e}r
@@ -881,12 +1027,18 @@
 \newblock Starfield visualization with interactive smooth zooming.
 \newblock In \emph{Visual Database Systems 3}. Springer, 1995, pp.~3--14.
 
+\bibitem[JVDF19]{jo2019declarative}
+\textsc{Jo J., Vernier F., Dragicevic P., Fekete J.-D.}:
+\newblock A declarative rendering model for multiclass density maps.
+\newblock \emph{IEEE transactions on visualization and computer graphics 25}, 1
+  (2019), 470--480.
+
 \bibitem[KARC17]{kijmongkolchai2017empirically}
 \textsc{Kijmongkolchai N., Abdul-Rahman A., Chen M.}:
 \newblock Empirically measuring soft knowledge in visualization.
 \newblock \emph{Computer Graphics Forum 36}, 3 (2017), 73--85.
-\newblock URL: \url{http://dx.doi.org/10.1111/cgf.13169}, \href
-  {http://dx.doi.org/10.1111/cgf.13169} {\path{doi:10.1111/cgf.13169}}.
+\newblock \href {http://dx.doi.org/10.1111/cgf.13169}
+  {\path{doi:10.1111/cgf.13169}}.
 
 \bibitem[KBB{\etalchar{*}}78]{kahrl1978california}
 \textsc{Kahrl W.~L., Bowen W.~A., Brand S., Shelton M.~L., Fuller D.~L., Ryan
@@ -916,8 +1068,8 @@
 \bibitem[KFF11]{kaspar2011empirical}
 \textsc{Kaspar S., Fabrikant S., Freckmann P.}:
 \newblock Empirical study of cartograms.
-\newblock In \emph{25th International Cartographic Conference} (2011), vol.~3,
-  p.~5.
+\newblock In \emph{25th International Cartographic Conference} (2011), vol.~3.
+\newblock Paper 5.
 
 \bibitem[KHA10]{kong2010perceptual}
 \textsc{Kong N., Heer J., Agrawala M.}:
@@ -1025,6 +1177,13 @@
   essentials.
 \newblock \emph{IEEE computer graphics and applications 31}, 3 (2011), 78--82.
 
+\bibitem[Lar16]{laramee2017how}
+\textsc{Laramee R.~S.}:
+\newblock How to conduct a scientific literature survey: A starting point,
+  2016.
+\newblock date accessed: 2019-02-28.
+\newblock URL: \url{https://www.youtube.com/watch?v=frYooEN360Q}.
+
 \bibitem[LBI{\etalchar{*}}12]{lam2012empirical}
 \textsc{Lam H., Bertini E., Isenberg P., Plaisant C., Carpendale S.}:
 \newblock Empirical studies in information visualization: Seven scenarios.
@@ -1105,6 +1264,13 @@
 \newblock \emph{IEEE Transactions on Visualization and Computer Graphics}, 3
   (2017), 1249--1268.
 
+\bibitem[LSC08]{luboschik2008particle}
+\textsc{Luboschik M., Schumann H., Cords H.}:
+\newblock Particle-based labeling: Fast point-feature labeling without
+  obscuring other visual features.
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics 14}, 6
+  (2008), 1237--1244.
+
 \bibitem[LSS13]{lee2013perceptually}
 \textsc{Lee S., Sips M., Seidel H.-P.}:
 \newblock Perceptually driven visibility optimization for categorical data
@@ -1112,17 +1278,26 @@
 \newblock \emph{IEEE Transactions on visualization and computer graphics 19},
   10 (2013), 1746--1757.
 
+\bibitem[LSV{\etalchar{*}}89]{lehr1989visualizing}
+\textsc{Lehr T., Segall Z., Vrsalovic D.~F., Caplan E., Chung A.~L., Fineman
+  C.~E.}:
+\newblock Visualizing performance debugging.
+\newblock \emph{Computer 22}, 10 (1989), 38--51.
+
 \bibitem[LYAC04]{li2004automated}
 \textsc{Li Z., Yan H., Ai T., Chen J.}:
 \newblock Automated building generalization based on urban morphology and
   gestalt theory.
 \newblock \emph{International Journal of Geographical Information Science 18},
   5 (2004), 513--534.
-\newblock URL: \url{https://doi.org/10.1080/13658810410001702021}, \href
-  {http://arxiv.org/abs/https://doi.org/10.1080/13658810410001702021}
-  {\path{arXiv:https://doi.org/10.1080/13658810410001702021}}, \href
-  {http://dx.doi.org/10.1080/13658810410001702021}
+\newblock \href {http://dx.doi.org/10.1080/13658810410001702021}
   {\path{doi:10.1080/13658810410001702021}}.
+
+\bibitem[McC18]{mcconchie2018pop}
+\textsc{McConchie A.}:
+\newblock Pop vs soda trivariate choropleth, 2018.
+\newblock URL:
+  \url{https://bl.ocks.org/almccon/12bef71ab27b32472e40f74500cb42b7}.
 
 \bibitem[McN17]{surVis}
 \textsc{McNabb L.}:
@@ -1136,12 +1311,23 @@
   theories, and best practices behind effective information visualizations}.
 \newblock Rockport publishers, 2013.
 
+\bibitem[men18]{mendely2018mendely}
+Mendely, 2018.
+\newblock date accessed: 2019-02-28.
+\newblock URL: \url{https://www.mendeley.com/}.
+
 \bibitem[MFS{\etalchar{*}}10]{murthy2010automatically}
 \textsc{Murthy K., Faruquie T.~A., Subramaniam L.~V., Prasad K.~H., Mohania
   M.}:
 \newblock Automatically generating term-frequency-induced taxonomies.
 \newblock In \emph{Proceedings of the ACL 2010 Conference Short Papers} (2010),
   Association for Computational Linguistics, pp.~126--131.
+
+\bibitem[MG95]{marcheix1995topological}
+\textsc{Marcheix D., Gueorguieva S.}:
+\newblock Topological operators for non-manifold modeling.
+\newblock \emph{Journal of WSCG 3}, 1 (1995), 173--186.
+\newblock URL: \url{http://hdl.handle.net/11025/16034}.
 
 \bibitem[MGAN18]{merino2018systematic}
 \textsc{Merino L., Ghafari M., Anslow C., Nierstrasz O.}:
@@ -1159,8 +1345,7 @@
 \newblock In \emph{Proceedings of the 20th International Academic Mindtrek
   Conference} (New York, NY, USA, 2016), AcademicMindtrek '16, ACM,
   pp.~262--271.
-\newblock URL: \url{http://doi.acm.org/10.1145/2994310.2994327}, \href
-  {http://dx.doi.org/10.1145/2994310.2994327}
+\newblock \href {http://dx.doi.org/10.1145/2994310.2994327}
   {\path{doi:10.1145/2994310.2994327}}.
 
 \bibitem[Min58]{minard1858carte}
@@ -1182,16 +1367,18 @@
 
 \bibitem[ML19a]{mcnabb2019how}
 \textsc{McNabb L., Laramee R.~S.}:
-\newblock How to write a survey paper: A starting point.
-\newblock In \emph{Eurographics 2019, Education Papers} (2019).
-\newblock -forthcoming.
+\newblock {How to Write a Visualization Survey Paper: A Starting Point}.
+\newblock In \emph{Eurographics 2019 - Education Papers} (2019), Tarini M.,
+  Galin E., (Eds.), The Eurographics Association, pp.~29--39.
+\newblock \href {http://dx.doi.org/10.2312/eged.20191026}
+  {\path{doi:10.2312/eged.20191026}}.
 
-\bibitem[ML19b]{mcnabb2019multivariate}
+\bibitem[ML19b]{mcnabb2019multivariateT}
 \textsc{McNabb L., Laramee R.~S.}:
-\newblock Multivariate maps: A glyph-placement algorithm to support
-  multivariate geospatial visualization.
-\newblock \emph{Computer Graphics Forum} (2019).
-\newblock -forthcoming.
+\newblock \emph{Multivariate Maps: A Glyph-Placement Algorithm to Support
+  Multivariate Geospatial Visualization}.
+\newblock Tech. rep., Swansea University, 2019.
+\newblock Under Review for IV Journal, 2019.
 
 \bibitem[MLF18]{mcnabb2018dynamic}
 \textsc{McNabb L., Laramee R.~S., Fry R.}:
@@ -1292,7 +1479,8 @@
 \textsc{Ottens K., Gleizes M.-P., Glize P.}:
 \newblock A multi-agent system for building dynamic ontologies.
 \newblock In \emph{Proceedings of the 6th international joint conference on
-  Autonomous agents and multiagent systems} (2007), ACM, p.~227.
+  Autonomous agents and multiagent systems} (2007), ACM.
+\newblock Paper 227.
 
 \bibitem[Ols81]{olson1981spectrally}
 \textsc{Olson J.~M.}:
@@ -1310,6 +1498,11 @@
 \newblock Open data for census 2016 ireland.
 \newblock Accessed: 2018-11-20.
 \newblock URL: \url{https://bit.ly/2Dyg7Ac}.
+
+\bibitem[{Oxf}19]{abstract}
+\textsc{{Oxford Dictionary}}:.
+\newblock https://en.oxforddictionaries.com/definition/abstract, 2019.
+\newblock Accessed: 2019-01-20.
 
 \bibitem[PBB02]{park2002automatic}
 \textsc{Park Y., Byrd R.~J., Boguraev B.~K.}:
@@ -1394,6 +1587,13 @@
 \newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
   Computing Systems} (1994), ACM, pp.~318--322.
 
+\bibitem[ref18]{refnwrite2018academic}
+\textsc{refnwrite}:
+\newblock Academic writing tools and research software - a comprehensive guide,
+  2018.
+\newblock date accessed: 2019-02-28.
+\newblock URL: \url{https://bit.ly/2NPqXoF}.
+
 \bibitem[RJH11]{ronne2011sizing}
 \textsc{R{\o}nne~Jakobsen M., Hornb{\ae}k K.}:
 \newblock Sizing up visualizations: effects of display size in focus+ context,
@@ -1406,21 +1606,30 @@
 \newblock Learning and remembering from thematic maps of familiar regions.
 \newblock \emph{Educational Technology Research and Development 46}, 1 (Mar
   1998), 19--38.
-\newblock URL: \url{https://doi.org/10.1007/BF02299827}, \href
-  {http://dx.doi.org/10.1007/BF02299827} {\path{doi:10.1007/BF02299827}}.
+\newblock \href {http://dx.doi.org/10.1007/BF02299827}
+  {\path{doi:10.1007/BF02299827}}.
+
+\bibitem[RKEAK12]{rohrdantz2012s}
+\textsc{Rohrdantz C., Krstajic M., El~Assady M., Keim D.}:
+\newblock What is going on? how twitter and online news can work in synergy to
+  increase situational awareness.
+\newblock In \emph{2nd IEEE Workshop on Interactive Visual Text Analytics
+  Task-Driven Analysis of Social Media} (2012).
 
 \bibitem[RL18]{roberts2018visualising}
 \textsc{Roberts R., Laramee R.~S.}:
 \newblock Visualising business data: A survey.
 \newblock \emph{Information 9}, 11 (November 2018).
+\newblock Paper 285.
 \newblock \href {http://dx.doi.org/10.3390/info9110285}
   {\path{doi:10.3390/info9110285}}.
 
 \bibitem[RL19]{rees2019survey}
 \textsc{Rees D., Laramee R.~S.}:
 \newblock A survey of information visualization books.
-\newblock \emph{Computer Graphics Forum} (2019).
-\newblock -forthcoming.
+\newblock \emph{Computer Graphics Forum} (2019), 610--646.
+\newblock \href {http://dx.doi.org/10.1111/cgf.13595}
+  {\path{doi:10.1111/cgf.13595}}.
 
 \bibitem[RLS{\etalchar{*}}18]{roberts2018smart}
 \textsc{Roberts R., Laramee R.~S., Smith G.~A., Brookes P., D'Cruze T.}:
@@ -1453,10 +1662,7 @@
 \newblock Automatic amalgamation of buildings for producing ordnance survey®
   1:50 000 scale maps.
 \newblock \emph{The Cartographic Journal 44}, 3 (2007), 239--250.
-\newblock URL: \url{https://doi.org/10.1179/000870407X241782}, \href
-  {http://arxiv.org/abs/https://doi.org/10.1179/000870407X241782}
-  {\path{arXiv:https://doi.org/10.1179/000870407X241782}}, \href
-  {http://dx.doi.org/10.1179/000870407X241782}
+\newblock \href {http://dx.doi.org/10.1179/000870407X241782}
   {\path{doi:10.1179/000870407X241782}}.
 
 \bibitem[RSM78]{robinson1978elements}
@@ -1495,8 +1701,7 @@
   S., Edwards S.~H.}:
 \newblock Algorithm visualization: The state of the field.
 \newblock \emph{Trans. Comput. Educ. 10}, 3 (Aug. 2010), 9:1--9:22.
-\newblock URL: \url{http://doi.acm.org/10.1145/1821996.1821997}, \href
-  {http://dx.doi.org/10.1145/1821996.1821997}
+\newblock \href {http://dx.doi.org/10.1145/1821996.1821997}
   {\path{doi:10.1145/1821996.1821997}}.
 
 \bibitem[sch16]{scholar}
@@ -1532,7 +1737,8 @@ Google scholar.
 \bibitem[SG57]{stevens1957ratio}
 \textsc{Stevens S.~S., Galanter E.~H.}:
 \newblock Ratio scales and category scales for a dozen perceptual continua.
-\newblock \emph{Journal of experimental psychology 54}, 6 (1957), 377.
+\newblock \emph{Journal of experimental psychology 54}, 6 (1957).
+\newblock Paper 377.
 
 \bibitem[Shn96]{shneiderman1996eyes}
 \textsc{Shneiderman B.}:
@@ -1551,6 +1757,13 @@ Google scholar.
 \textsc{Simons D.~J.}:
 \newblock Current approaches to change blindness.
 \newblock \emph{Visual cognition 7}, 1-3 (2000), 1--15.
+
+\bibitem[SJL15]{spencer2015visualization}
+\textsc{Spencer B., Jones M.~W., Lim I.~S.}:
+\newblock A visualization tool used to develop new photon mapping techniques.
+\newblock \emph{Computer Graphics Forum 34}, 1 (2015), 127--140.
+\newblock \href {http://dx.doi.org/10.1111/cgf.12464}
+  {\path{doi:10.1111/cgf.12464}}.
 
 \bibitem[SL10]{sun2010effectiveness}
 \textsc{Sun H., Li Z.}:
@@ -1640,7 +1853,8 @@ Google scholar.
 \bibitem[SW01]{shneiderman2001ordered}
 \textsc{Shneiderman B., Wattenberg M.}:
 \newblock Ordered treemap layouts.
-\newblock In \emph{infovis} (2001), IEEE, p.~73.
+\newblock In \emph{IEEE Symposium on Information Visualization, 2001. INFOVIS
+  2001.} (2001), IEEE, pp.~73--78.
 
 \bibitem[SWD10]{slingsby2010treemap}
 \textsc{Slingsby A., Wood J., Dykes J.}:
@@ -1674,6 +1888,12 @@ Google scholar.
 \newblock accessed 2018/01/31.
 \newblock URL: \url{https://www.tableau.com/}.
 
+\bibitem[TD95]{tal1995visualization}
+\textsc{Tal A., Dobkin D.}:
+\newblock Visualization of geometric algorithms.
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics 1}, 2
+  (1995), 194--204.
+
 \bibitem[Tea17]{GDAL}
 \textsc{Team G.~D.}:
 \newblock \emph{GDAL - Geospatial Data Abstraction Library, Version 2.2.2}.
@@ -1687,13 +1907,17 @@ Google scholar.
 
 \bibitem[TGK{\etalchar{*}}14]{tominski2014survey}
 \textsc{Tominski C., Gladisch S., Kister U., Dachselt R., Schumann H.}:
-\newblock A survey on interactive lenses in visualization.
-\newblock vol.~3, Citeseer.
+\newblock {A Survey on Interactive Lenses in Visualization}.
+\newblock In \emph{EuroVis State-of-the-Art Reports} (2014), Eurographics
+  Association, pp.~43--62.
+\newblock \href {http://dx.doi.org/10.2312/eurovisstar.20141172}
+  {\path{doi:10.2312/eurovisstar.20141172}}.
 
 \bibitem[TGK{\etalchar{*}}16]{tominski2016interactive}
 \textsc{Tominski C., Gladisch S., Kister U., Dachselt R., Schumann H.}:
 \newblock Interactive lenses for visualization: An extended survey.
-\newblock In \emph{Computer Graphics Forum} (2016), Wiley Online Library.
+\newblock In \emph{Computer Graphics Forum} (2016), Wiley Online Library,
+  pp.~173--200.
 
 \bibitem[{The}18]{Qt}
 \textsc{{The Qt Company}}:
@@ -1723,11 +1947,19 @@ Google scholar.
 \newblock \href {http://dx.doi.org/10.1111/j.1467-8306.2004.09401004.x}
   {\path{doi:10.1111/j.1467-8306.2004.09401004.x}}.
 
+\bibitem[Tom15]{tominski2015interaction}
+\textsc{Tominski C.}:
+\newblock \emph{Interaction for Visualization}.
+\newblock Synthesis Lectures on Visualization. Morgan \& Claypool Publishers,
+  2015.
+\newblock URL: \url{https://books.google.co.uk/books?id=Qpr8CQAAQBAJ}.
+
 \bibitem[TRB{\etalchar{*}}18]{tong2018storytelling}
 \textsc{Tong C., Roberts R., Borgo R., Walton S., Laramee R.~S., Wegba K., Lu
   A., Wang Y., Qu H., Luo Q., et~al.}:
 \newblock Storytelling and visualization: An extended survey.
-\newblock \emph{Information 9}, 3 (2018), 65.
+\newblock \emph{Information 9}, 3 (2018).
+\newblock Paper 65.
 
 \bibitem[TRL{\etalchar{*}}17]{tong2017cartographic}
 \textsc{Tong C., Roberts R., Laramee R.~S., Berridge D., Thayer D.}:
@@ -1741,7 +1973,7 @@ Google scholar.
 \textsc{Tsorlini A., Sieber R., Hurni L., Klauser H., Gloor T.}:
 \newblock Designing a rule-based wizard for visualizing statistical data on
   thematic maps.
-\newblock \emph{Cartographic Perspectives 0}, 86 (2017).
+\newblock \emph{Cartographic Perspectives}, 86 (2017), 5--23.
 \newblock URL:
   \url{http://cartographicperspectives.org/index.php/journal/article/view/cp86-tsorlini-et-al}.
 
@@ -1760,6 +1992,14 @@ Google scholar.
 \bibitem[us170]{us1970use}
 \emph{Use of Address Coding Guides in Geographic Coding}.
 \newblock United States Department of Commerce, November 1970.
+
+\bibitem[{U.S}18]{USCB2}
+\textsc{{U.S. Census Bureau}}:
+\newblock Cartographic boundary shapefiles - us counties, 2018.
+\newblock Last Accessed: 2019-02-02, Originally Accessed: 2018-03-21 at
+  https://www.census.gov/support/USACdataDownloads.html.
+\newblock URL:
+  \url{https://www.census.gov/library/publications/2011/compendia/usa-counties-2011.html}.
 
 \bibitem[UT]{Texas}
 \textsc{US-Texas}:
@@ -1787,7 +2027,12 @@ Google scholar.
 \newblock A taxonomy learning method and its application to characterize a
   scientific web community.
 \newblock \emph{IEEE Transactions on Knowledge and Data Engineering 19}, 2
-  (2007).
+  (2007), 180--191.
+
+\bibitem[VH08]{van2008doxygen}
+\textsc{Van~Heesch D.}:
+\newblock Doxygen: Source code documentation generator tool.
+\newblock \emph{URL: http://www. doxygen. org} (2008).
 
 \bibitem[VLKS{\etalchar{*}}11]{von2011visual}
 \textsc{Von~Landesberger T., Kuijper A., Schreck T., Kohlhammer J., van Wijk
@@ -1849,19 +2094,13 @@ Google scholar.
   applications}.
 \newblock CRC Press, 2010.
 
-\bibitem[WGK15]{ward2015interactive}
-\textsc{Ward M.~O., Grinstein G., Keim D.}:
-\newblock \emph{Interactive data visualization: foundations, techniques, and
-  applications}.
-\newblock AK Peters/CRC Press, 2015.
-
 \bibitem[WL00]{ward2000visualization}
 \textsc{Ward M.~O., Lipchak B.~N.}:
 \newblock A visualization tool for exploratory analysis of cyclic multivariate
   data.
 \newblock \emph{Metrika 51}, 1 (Jul 2000), 27--37.
-\newblock URL: \url{https://doi.org/10.1007/s001840000042}, \href
-  {http://dx.doi.org/10.1007/s001840000042} {\path{doi:10.1007/s001840000042}}.
+\newblock \href {http://dx.doi.org/10.1007/s001840000042}
+  {\path{doi:10.1007/s001840000042}}.
 
 \bibitem[WN04]{van2004model}
 \textsc{Wijk J. J.~V., Nuij W.~A.}:
@@ -1870,13 +2109,19 @@ Google scholar.
 \newblock \emph{IEEE Transactions on Visualization and Computer Graphics 10}, 4
   (2004), 447--458.
 
+\bibitem[Won97]{wong1997adaptive}
+\textsc{Wong P.~C.}:
+\newblock \emph{Adaptive multiresolution representation of large
+  multidimensional multivariate scientific datasets}.
+\newblock PhD thesis, PhD thesis, Department of Computer Science, University of
+  New Hampshire~…, 1997.
+
 \bibitem[WSJ{\etalchar{*}}14]{wanner2014state}
 \textsc{Wanner F., Stoffel A., J{\"a}ckle D., Kwon B.~C., Weiler A., Keim
   D.~A., Isaacs K.~E., Gim{\'e}nez A., Jusufi I., Gamblin T.}:
 \newblock State-of-the-art report of visual analysis for event detection in
   text data streams.
-\newblock In \emph{Computer Graphics Forum} (2014), vol.~33 of \emph{EG},
-  Citeseer, The Eurographics Association.
+\newblock \emph{EuroVis - STARs 33}, 3 (2014), 125--139.
 \newblock \href {http://dx.doi.org/10.2312/eurovisstar.20141176}
   {\path{doi:10.2312/eurovisstar.20141176}}.
 
@@ -1890,7 +2135,7 @@ Google scholar.
 \textsc{Zhou L., Hansen C.}:
 \newblock A survey of colormaps in visualization.
 \newblock \emph{IEEE Transactions on Visualization and Computer Graphics 22}, 8
-  (2015).
+  (2015), 2051--2069.
 
 \bibitem[ZM17]{zhang2017quantifying}
 \textsc{Zhang Y., Maciejewski R.}:

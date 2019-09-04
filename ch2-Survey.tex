@@ -18,17 +18,17 @@ But nowadays there's lots of other journals and it takes more and more effort to
 %   \label{fig:CKMFitter}
 % \end{figure}
 
-\topskip0pt
-\vspace*{4cm}
-\section*{Chapter Abstract}
-%\begin{abstract}
-Information visualization as a field is growing rapidly in popularity since the first information visualization conference in 1995. However, as a consequence of its growth, it is increasingly difficult to follow the growing body of literature within the field. Survey papers and literature reviews are valuable tools for managing the great volume of previously published research papers, and the quantity of survey papers in visualization  has reached a critical mass.  To this end, this survey paper takes a quantum step forward by surveying and  classifying literature survey papers in order to help researchers understand the current landscape of Information Visualization. It is, to our knowledge, the first survey of survey papers (SoS) in Information Visualization. This paper classifies survey papers into natural topic clusters which enables readers to find relevant literature and develops the first classification of classifications. The paper also enables researchers to identify both mature and less developed research directions as well as identify future directions. It is a valuable resource for both newcomers and experienced researchers in and outside the field of Information Visualization and Visual Analytics.
-%\end{abstract}
-\newpage
+%\topskip0pt
+%\vspace*{4cm}
+%\section*{Chapter Abstract}
+%%\begin{abstract}
+%Information visualization as a field is growing rapidly in popularity since the first information visualization conference in 1995. However, as a consequence of its growth, it is increasingly difficult to follow the growing body of literature within the field. Survey papers and literature reviews are valuable tools for managing the great volume of previously published research papers, and the quantity of survey papers in visualization  has reached a critical mass.  To this end, this survey chapter takes a quantum step forward by surveying and  classifying literature survey papers in order to help researchers understand the current landscape of Information Visualization. It is, to our knowledge, the first survey of surveys (SoS) in Information Visualization. This chapter classifies survey papers into natural topic clusters which enables readers to find relevant literature and develops the first classification of classifications. The chapter also enables researchers to identify both mature and less developed research directions as well as identify future directions. It is a valuable resource for both newcomers and experienced researchers in and outside the field of Information Visualization and Visual Analytics.
+%%\end{abstract}
+%\newpage
 
 %-------------------------------------------------------------------------
 \section{Introduction and Motivation}
-When we first reviewed potential survey papers, we looked at Smart City Visualization. After a small search, we found a book that fit our decided niche \cite{ciuccarelli2014depicting}. Due to this, we changed our views on writing a survey on car movement and found a paper by Chen et al.\ \cite{chen2015survey}. At this point, we tried two different avenues including geospatial and human movement, where we found papers for each \cite{nusrat2016state,gavrila1999visual}. At this point, we decided that a survey of surveys would be a good avenue forward. We looked at the benefits of surveying different survey papers which would allow us to gain a good understanding of unsolved problems found across the whole landscape, specifically for scale and zooming problems which we discuss throughout the paper.
+When we first discussed potential survey papers in 2016 for the thesis, we considered Smart City Visualization. After an initial search, we found a book already published with a survey on this topic by Ciuccarelli et al.\ \cite{ciuccarelli2014depicting}. As a result, we decided to narrow the scope of the literature review to public transport and found a survey paper on the topic by Chen et al.\ \cite{chen2015survey}. After this, we discussed two different potential survey topics including geospatial visualization and human movement visualization. Subsequently we found survey papers for each by Nusrat and Kobourov, and Gavrila \cite{nusrat2016state,gavrila1999visual}. At this point of surprise, we decided that a survey of surveys would be a logical direction forward. We looked at the benefits of surveying different survey papers which would allow us to gain a good understanding of unsolved problems across the whole landscape of information visualization, specifically for scale and zooming problems which we discuss throughout the thesis.
 
 
 \textit{"It used to be that SIGGRAPH was the only place that would publish computer graphics papers, and so all you had to do was read the SIGGRAPH Conference Proceedings and you knew you were up to date. But nowadays there's lots of other journals and it takes more and more effort to make sure that you know what's happening."} This quote is taken from Jim Blinn's renowned keynote speech at SIGGRAPH 98 \cite{blinn1998ten}. Decades later this theme is still considered one of the most important challenges for research in any field.
@@ -37,7 +37,7 @@ When we first reviewed potential survey papers, we looked at Smart City Visualiz
 
 In this first undertaking of a survey of surveys (SoS), we aim to present the landscape of rapidly evolving research within Information Visualization. In order to emphasize open directions for future work, we present literature reviews of papers that survey research topics, and extract essential information from them systematically as a guide for both newcomers and experts in the field and beyond. We then classify over 80 survey papers to examine trends and themes that have recently been published. Our contributions to the field include:
 \begin{itemize}
-\item  A quantum step in literature review papers presenting the first meta-survey, i.e. a `Survey of Surveys' (SoS).
+\item  A quantum step in visualization literature reviews presenting the first meta-survey, i.e. a `Survey of Surveys' (SoS).
 \item A novel classification of survey literature in the field of Information Visualization, which can be used as a guide for new researchers or a tool for field experts.
 \item The first classification of literature classification schemes.
 \item A structured overview of both mature and less developed future research directions that cover the domain of Information Visualization.
@@ -78,12 +78,12 @@ There are at least three major difficult challenges within this field:
 \item \textit{Making sure your discoveries are not ignored}: Papers are published to present discoveries in their field. However, due to the volume of published material, papers can be missed, forgotten, or reinvented. This challenge is also highlighted by Jim Blinn \cite{blinn1998ten}.
 \end{enumerate}
 
-The SoS aims to address these challenges by surveying a collection of over 80 survey papers to enable a quick overview of the scope of research directions, what has already been done, and which directions are more open for research. We provide systematic summaries of these survey papers for those with interest in the field. This serves as a valuable starting point for young researchers and a practical reference guide for field experts. We also believe this survey of surveys will reach audiences beyond the field of information visualization and visual analytics, and entice more researches towards the area.
+The SoS aims to address these challenges by surveying a collection of over 80 survey papers to enable a quick overview of the scope of research directions, what has already been done, and which directions are more open for research. We provide systematic summaries of these survey papers for those with interest in the field. This serves as a valuable starting point for new researchers and a practical reference guide for field experts. We also believe this survey of surveys will reach audiences beyond the field of information visualization and visual analytics, and entice more researches towards the area.
 
 \subsection{Literature Search Methodology}
 Our survey search methodology includes a combination of linear-search and relation-search. Our starting point includes reviewing previous EuroVis State-of-the-Art (STAR) papers. The linear search focuses on looking at each journal or conference and checking each paper that includes keywords such as 'Survey', 'Taxonomy', or 'State-of-the-Art'. The relation-search includes searching the references of each survey paper for related survey papers. 
 
-Sources that are searched within our SoS following this methodology are summarized in Table \ref{table:searchTable}. Our survey paper search lasted over a year.
+Sources that are searched within our SoS following this methodology are summarized in Table \ref{table:searchTable}. Our survey chapter search lasted over a year.
 
 
 \subsection{Classification Overview}
@@ -92,7 +92,6 @@ In order to classify each survey, we develop categorical dimensions. The dimensi
 \item An adapted Information Visualization pipeline model originally presented by Card et al.\ \cite{card1999readings}. A visual aid to this pipeline can be found in Figure \ref{fig: originalPipeline}.
 \item Subject-based clusters guided by SurVis \cite{beck2016visual} and the survey paper topics themselves.
 \end{enumerate}
-Both of these dimensions are explained in greater detail in Sections \ref{sec:infovispip} and \ref{sec:subbasedclusters}.
 \subsubsection{The Information Visualization Pipeline} \label{sec:infovispip}
 The Information Visualization pipeline model we use to classify the surveys is based on that presented by Card et al.\ in their classic book \textit{'Readings in Information Visualization'} \cite{card1999readings} (See Figure \ref{fig: originalPipeline}). The pipeline describes the transition of raw data into a visualization which is visible to a user. This consists of (1) raw data transformed into data tables via the use of data transformations. (2) Data tables transformed into visual structures via the use of visual mappings. (3) Visual structures transformed into views via the use of view transformations. The final step is (4) User input manipulating the data in order to feed back into the pipeline.
 \begin{figure}
@@ -212,7 +211,7 @@ Firstly, only survey papers with a focus on Information Visualization and Visual
 
 "Data that describes a physical phenomenon is defined as scientific data. Examples of this are fluid flow, living organisms, and data from the natural world."  For the purpose of this survey, Euclidean space-time coordinate data is considered Scientific Visualization. Lipsa et al.\ survey visualization in physical sciences, this does not meet the criteria of our survey \cite{lipsa2012visualization}. Edmunds et al.\ present a framework for flow visualization \cite{edmunds2012surface}. Flow visualization is considered SciVis. Blascheck et al.\ 's survey on Eye-Tracking data is a review of literature focused on data from a physical phenomenon and can therefore be classed as SciVis\cite{blascheck2014state}.
 
-Papers that focus on Computer Vision are not considered within scope. Datondji et al.\ present a survey focused on vision based traffic monitoring of road intersections. This is considered a computer vision topic and therefore does not meet the scope of the paper \cite{datondji2016survey}.
+Papers that focus on Computer Vision are not considered within scope. Datondji et al.\ present a survey focused on vision based traffic monitoring of road intersections. This is considered a computer vision topic and therefore does not meet the scope of this review \cite{datondji2016survey}.
 
 Computer graphics and Graph theory literature surveys are not considered in the scope of the SoS. Ghosh and Goswami present a paper reviewing unsolved problems in visibility graphs \cite{ghosh2013unsolved}. Although the paper works on graphs, the review focuses on the mathematics of graph theory and not visualization. Biomedical and computational biology are beyond the scope of this SoS. They are covered in an affiliated SoS called the SoS-MDV \cite{alharbi2017molecular}. 
 
@@ -399,16 +398,16 @@ Finally, the SoS emphasizes literature reviews, as opposed to comparison-oriente
 
 
 \end{tabularx}
-\caption{\scriptsize A 3-Dimensional hierarchical classification table depicting the categorization of all the survey papers. \colorbox{lime}{Green Highlighting} represents survey's summarised within the SoS. \colorbox{yellow}{Yellow Highlighting} represents surveys that were not summarised in detail due to prioritization of journals or size constraints. \colorbox{pink}{Pink Highlighting} represents survey's not reviewed in detail within the paper due to year constraints discussed in the Scope (Section \ref{sec:scope}). }\label{table: classificationTableClusters}
+\caption{\scriptsize A 3-Dimensional hierarchical classification table depicting the categorization of all the survey papers. \colorbox{lime}{Green Highlighting} represents survey's summarised within the SoS. \colorbox{yellow}{Yellow Highlighting} represents surveys that were not summarised in detail due to prioritization of journals or size constraints. \colorbox{pink}{Pink Highlighting} represents survey's not reviewed in detail within the literature review due to year constraints discussed in the Scope (Section \ref{sec:scope}). }\label{table: classificationTableClusters}
 \end{table*}
 
 \subsection{Background}
-To the best of our knowledge, there are no previous papers that attempt to review literature in this way. Other papers use alternative methods to address the literature explosion challenge. Laramee et al.\ provide an in depth review of unsolved problems in human-centered visualization \cite{laramee2007challenges}. The review provides an in-depth understanding of challenges identified for each paper which differs from the solution our paper uses, that appropriates important research challenges by looking at the frequency of each challenge across papers. Henry et al.\ review 20 years of conference publications from CHI, UIST, AVI and InfoVis \cite{henry200720}.
+To the best of our knowledge, there are no previous papers that attempt to review literature in this way. Other papers use alternative methods to address the literature explosion challenge. Laramee et al.\ provide an in depth review of unsolved problems in human-centered visualization \cite{laramee2007challenges}. The review provides an in-depth understanding of challenges identified for each paper which differs from the solution our chapter uses, that appropriates important research challenges by looking at the frequency of each challenge across papers. Henry et al.\ review 20 years of conference publications from CHI, UIST, AVI and InfoVis \cite{henry200720}.
 
-Isenberg et al.\ present a novel visualization of a database of papers across InfoVis, SciVis, VAST and Vis \cite{isenberg2017VPD}. We provide a different view of the data by clustering papers together to quickly understand domains, with a focus on survey papers. Isenberg et al.\ present topic popularity using research paper keywords across four conferences and provide related papers \cite{isenberg2017visualization}. Our paper differs by providing analysis of related papers with a focus on surveys to provide an overview and explore possible research areas in the field.
+Isenberg et al.\ present a novel visualization of a database of papers across InfoVis, SciVis, VAST and Vis \cite{isenberg2017VPD}. We provide a different view of the data by clustering papers together to quickly understand domains, with a focus on survey papers. Isenberg et al.\ present topic popularity using research paper keywords across four conferences and provide related papers \cite{isenberg2017visualization}. Our literature review differs by providing analysis of related papers with a focus on surveys to provide an overview and explore possible research areas in the field.
 
 \subsection{Organization of The SoS} 
-Survey Literature is organized using a 2D matrix that incorporates the two classifications discussed in Section \ref{sec:subbasedclusters} and \ref{sec:infovispip}. Each survey paper is placed at the most relevant intersection of each classification criteria matched. Color is used to signify the depth of which the literature is reviewed in the paper. This is shown in Table \ref{table: classificationTableClusters}.
+Survey Literature is organized using a 2D matrix that incorporates the two classifications discussed in Section \ref{sec:subbasedclusters} and \ref{sec:infovispip}. Each survey paper is placed at the most relevant intersection of each classification criteria matched. Color is used to signify the depth of which the literature is reviewed within. This is shown in Table \ref{table: classificationTableClusters}.
 
 The SoS is structured using the subject-based clusters as the primary organization. This groups related papers together. The modified pipeline classification is ignored in favor of chronological order within the paper's organization. This enables us to describe a natural progression within each section for papers that are intrinsically related. 
 
@@ -698,7 +697,7 @@ Wanner et al.\ classify 51 papers across their survey. They classify these in va
 \begin{figure}[t]
 \begin{center}
 \includegraphics[width=0.8\textwidth]{images/wanner2014state.png}
-\caption{This 1-N table identifies event detection techniques and displays the the use of visualization with each. The table reveals that clustering techniques are  often represented using the river metaphor. Image courtesy of Wanner et al.\ \cite{wanner2014state}} \label{fig: wanner2014state}
+\caption{This 1-N table identifies event detection techniques and displays the use of visualization with each. The table reveals that clustering techniques are  often represented using the river metaphor. Image courtesy of Wanner et al.\ \cite{wanner2014state}} \label{fig: wanner2014state}
 \end{center}
 \end{figure}
 
@@ -755,7 +754,7 @@ They provide a large collection of areas for future research which includes nove
 %\item \textit{The Concept:}
 Text visualization is becoming a more mature field within information visualization and Kucher and Kerren aim to classify the literature using an interactive browser \cite{kucher2015text}. See also Table \ref{table:literatureBrowsers}.
 %\item \textit{The Scope:}
-They examine the field of text visualization and closely related surveys. Kucher and Kerren then present the taxonomy they have created to look at different areas within text visualization and how they can be subdivided (the figure is provided in the supplementary material).
+They examine the field of text visualization and closely related surveys. Kucher and Kerren then present the taxonomy they have created to look at different areas within text visualization and how they can be subdivided.
 
 %\item \textit{Classification:}
 Kucher and Kerren categorize text visualization techniques into 5 main categories: Analytic Tasks, Visualization Tasks, Domain, Data, and Item Visualization.
@@ -834,7 +833,7 @@ This section includes surveys that have an emphasis on hierarchical structures. 
 %\item \textit{The Concept:}
 Elmqvist and Fekete review the use of hierarchical aggregation within Information Visualization. Hierarchical Aggregation is based on iteratively building a tree of aggregate items. Elmqvist and Fekete use this review to present a model that enables augmentation of existing techniques with multiscale functionality \cite{elmqvist2010hierarchical}.
 %\item \textit{The Scope:}
-They first describe related reading  before discussing hierarchical aggregation and presenting various related techniques (scatter-plots, parallel coordinates, etc). The paper then presents examples of hierarchical aggregation within visualization before presenting their classification and guidelines (the figure is provided in the supplementary material). Elmqvist and Fekete end by describing design guidelines for hierarchical aggregation.
+They first describe related reading  before discussing hierarchical aggregation and presenting various related techniques (scatter-plots, parallel coordinates, etc). The paper then presents examples of hierarchical aggregation within visualization before presenting their classification and guidelines. Elmqvist and Fekete end by describing design guidelines for hierarchical aggregation.
 
 %\item \textit{Classification:}
 Elmqvist and Fekete derive a classification of visual aggregation strategies. The table looks at the data-structure used, visualization mapping type, type of visualization, type of aggregation, the visual  aggregate, and what is being visualized.
@@ -911,7 +910,7 @@ Visualization of sets can be a demanding task due to the wide variety of possibl
 They first define set-type data before looking at some common tasks. The tasks are either related to elements, element attributes, or relationships between sets. The paper then provides examples of different ways to visualize set-typed data such as using euler diagrams, bubble-sets, pivot-paths, and scatter views.
 
 %\item \textit{Classification:}
-Alsallakh et al.\ classify literature by constructing an overview of different tasks and techniques that are supported, partially supported, or supported with an interaction requirement. These techniques include Euler-based techniques, overlays, node-link's, matrices, aggregation, and scatter techniques (the figure is provided in the supplementary material).
+Alsallakh et al.\ classify literature by constructing an overview of different tasks and techniques that are supported, partially supported, or supported with an interaction requirement. These techniques include Euler-based techniques, overlays, node-link's, matrices, aggregation, and scatter techniques.
 
 \begin{figure}[p]
 \begin{center}
@@ -979,7 +978,7 @@ Liu et al.\ provide a comprehensive survey focused on the advances of high-dimen
 They first discuss their classification and methodology before discussing various sections or the information visualization pipeline. Similar to ours, this includes data transformation, visual mapping, and view transformation.
 
 %\item \textit{Classification:}
-The taxonomy of the survey is based on the information visualization pipeline (the figure is provided in the supplementary material). The classification clearly represents when techniques are to be used within the pipeline, as well as some action-driven classification signifying the time of use for each technique. Some examples of this are histograms, jigsaw maps, and glyphs. Liu et al.\ have also created custom action-driven classifications to further improve their taxonomy.
+The taxonomy of the survey is based on the information visualization pipeline. The classification clearly represents when techniques are to be used within the pipeline, as well as some action-driven classification signifying the time of use for each technique. Some examples of this are histograms, jigsaw maps, and glyphs. Liu et al.\ have also created custom action-driven classifications to further improve their taxonomy.
 
 \begin{figure}[t]
 \begin{center}
@@ -1169,7 +1168,7 @@ Von Landesberger et al.\ examine the visual analysis of graphs designed for larg
 They give some key definitions for graphs and preprocessing techniques that are related to the survey, including different types of graphs (directed, dynamic, compound, etc.). They introduce some visual representations of these graphs, as well as how interaction in graphs is incorporated. Von Landesberger et al.\ finish the survey with graph analysis.
 
 %\item \textit{Classification:}
-Von Landesberger et al.\ classify graphs according to both time-dependency and structure. Time dependency can be split into either static graphs, or time-dependent graphs, whilst the structure can be classified as a tree structure, generic graph structure (directed, undirected) or compound graphs (the figure is provided in the supplementary material).
+Von Landesberger et al.\ classify graphs according to both time-dependency and structure. Time dependency can be split into either static graphs, or time-dependent graphs, whilst the structure can be classified as a tree structure, generic graph structure (directed, undirected) or compound graphs.
 
 \begin{figure}[t]
 \begin{center}
@@ -1202,7 +1201,7 @@ They provide extensive insight into the future challenges within the field. Thes
 %\item \textit{The Concept:}
 Using the SurVis system \cite{beck2016visual}, Beck et al.\ create a paper deriving a hierarchical taxonomy of dynamic graph visualization which is achieved by categorizing and tagging publications within the area, as well as evaluating and comparing the use of animated diagrams against time-line diagrams (see Table \ref{table:literatureBrowsers}). The paper first classifies a static graph as $G := (V,E)$, where \textit{V} represents the vertices and \textit{E} defines the edges. Understanding this allows a representation of a dynamic graph as $G_{i} := (V_{i}, E_{i})$, where \textit{i} defines the number of time steps for the graph \cite{beck2014state}. The paper could also be considered a survey within our temporal categorization.
 %\item \textit{The Scope:}
-The three main section discussed are animation, time-lines, and a hybrid of the two  (the figure is provided in the supplementary material).
+The three main section discussed are animation, time-lines, and a hybrid of the two.
 
 %\item \textit{Classification:}
 The hierarchical classification of dynamic graph visualization provides the density of reviewed papers per category, as well as some example techniques for each subsection. Beck et al.\ also provide an interactive system using SurVis \cite{beck2016visual} to provide extra categorization for user-exploration of the dynamic graph visualization field.
@@ -1266,7 +1265,7 @@ objects of any kind'} \cite{vehlow2015state}. Vehlow et al.\ survey the use of t
 Vehlow et al.\ present an overview of group structures in graphs and their encodings before presenting their classification table. The survey discusses node attributes, juxtaposed visualization, superimposed visualization, and nested visualizations.
 
 %\item \textit{Classification:}
-Vehlow et al.\ classify the surveyed papers based on group structure and group visualization. The group structure can be categorized as disjoint flat, overlapping flat, disjoint hierarchy and overlapping hierarchy (the figure is provided in the supplementary material). Of these four, disjoint hierarchy is the most densely populated. Color nodes, glyph nodes, juxtaposition, superimposition, and nested visualizations are identified visualization techniques (see Figure \ref{fig: vehlow2015state1}).
+Vehlow et al.\ classify the surveyed papers based on group structure and group visualization. The group structure can be categorized as disjoint flat, overlapping flat, disjoint hierarchy and overlapping hierarchy. Of these four, disjoint hierarchy is the most densely populated. Color nodes, glyph nodes, juxtaposition, superimposition, and nested visualizations are identified visualization techniques (see Figure \ref{fig: vehlow2015state1}).
 
 %\begin{figure}[ht]
 %\begin{center}
@@ -1297,12 +1296,12 @@ Vehlow et al.\ interview 7 domain experts to identify 5 research challenges in t
 %\item \textit{The Concept:}
 Kerracher et al.\ look at the quickly-developing research area of visual representations of temporal graphs. This taxonomy reviews the design space  in a way that enables the reader to review overlapping task categories for the purpose of formalizing graph decisions based on these criteria. \cite{kerracher2015task, kerracher2015visual}.
 %\item \textit{The Scope:}
-Kerracher et al.\ incorporate the Andrienko Task Framework (ATF) \cite{andrienko2006exploratory}  as the foundation of their classification (the figure is provided in the supplementary material). They analyze the limitations of the framework and propose an extension to consider structural tasks. They then present a summary of tasks primarily for the use of temporal graphs.
+Kerracher et al.\ incorporate the Andrienko Task Framework (ATF) \cite{andrienko2006exploratory}  as the foundation of their classification. They analyze the limitations of the framework and propose an extension to consider structural tasks. They then present a summary of tasks primarily for the use of temporal graphs.
 
 %\item \textit{Classification:}
 %Their task categorization includes a variation of comparison, relation seeking and lookup tasks, which are combined and reviewed as variants of inherent structural tasks.
 
-Kerracher et al.\ use the Andrienko Task Framework (ATF) \cite{andrienko2006exploratory} to create an indirect classification for their survey. This  task categorization includes lookup tasks, comparison tasks, and relationship seeking tasks. This is combined with a classification of data items (the figure is provided in the supplementary material) discussed in their previous work, \textit{The Design Space of Temporal Graph Visualization} \cite{kerracher2014design}.
+Kerracher et al.\ use the Andrienko Task Framework (ATF) \cite{andrienko2006exploratory} to create an indirect classification for their survey. This  task categorization includes lookup tasks, comparison tasks, and relationship seeking tasks. This is combined with a classification of data items discussed in their previous work, \textit{The Design Space of Temporal Graph Visualization} \cite{kerracher2014design}.
 
 %\begin{figure}[ht]
 %\begin{center}
@@ -1331,7 +1330,7 @@ Kerracher et al.\ use the Andrienko Task Framework (ATF) \cite{andrienko2006expl
 %\item \textit{The Concept:}
 Kerracher et al.\ examine the quickly-developing research area that is visual representation of temporal graphs, with a focus on techniques to support exploratory analysis tasks \cite{kerracher2015visual}.
 %\item \textit{The Scope:}
-Kerracher et al.\ discuss a task classification which is used to create groups of exploratory tasks based on data attributes. The paper then maps visualization techniques to the quadrant classification as well as the tasks categories and provides examples of the related systems (the figure is provided in the supplementary material).
+Kerracher et al.\ discuss a task classification which is used to create groups of exploratory tasks based on data attributes. The paper then maps visualization techniques to the quadrant classification as well as the tasks categories and provides examples of the related systems.
 
 %\item \textit{Classification:}
 
@@ -1441,7 +1440,7 @@ Cottam et al.\ review the impact of dynamic data on Information Visualization, a
 Cottam et al.\ present the dimensions of their classification before presenting their technique matrix. Each cell of the technique matrix is reviewed, which gives an understanding of how the axes interact with each other. These are then grouped into higher-level identity groups, which represent how each classification cell would update to a new state. The paper ends by matching techniques to task scenarios.
 
 %\item \textit{Classification:}
-The classification has three dimensions. The first dimension envelopes retinal (visual-based) categories, which include: (1) unchanged (immutable) scales, (2) a known scale, (3) extreme bins which categorize catch-all bins such as "100+", and (4) mutable scales which are dynamic scales. The second dimension identifies spatial categories such as fixed spatial dimension, mutable spatial dimension, new spatial elements (create), and create and deleted spatial elements. The third dimension depicts the higher-level identity groups: identity preserving changes, transitional changes, and immediate changes (the figure is provided in the supplementary material).
+The classification has three dimensions. The first dimension envelopes retinal (visual-based) categories, which include: (1) unchanged (immutable) scales, (2) a known scale, (3) extreme bins which categorize catch-all bins such as "100+", and (4) mutable scales which are dynamic scales. The second dimension identifies spatial categories such as fixed spatial dimension, mutable spatial dimension, new spatial elements (create), and create and deleted spatial elements. The third dimension depicts the higher-level identity groups: identity preserving changes, transitional changes, and immediate changes.
 
 %\begin{figure}[ht]
 %\begin{center}
@@ -1723,7 +1722,7 @@ Shiravi et al.\  provide a comprehensive overview of network security visualizat
 They present a table that provides potential data sources for security visualization before giving an in-depth view of five use-cases for reviewing network security and their related papers. The use-cases are host/server monitoring, internal/external monitoring, port activity, attack patterns, and routing behavior.
 
 %\item \textit{Classification:}
-The taxonomy takes the form of a 2D table, sub-divided into five sections representing the five use-cases. The taxonomy reviews the type of visualization techniques and data source of each research paper. It also includes the number of citations a paper has to emphasize systems that have more references, as well as signifying whether the system is available online (the figure is provided in the supplementary material).
+The taxonomy takes the form of a 2D table, sub-divided into five sections representing the five use-cases. The taxonomy reviews the type of visualization techniques and data source of each research paper. It also includes the number of citations a paper has to emphasize systems that have more references, as well as signifying whether the system is available online.
 
 \begin{figure}[p]
 \begin{center}
@@ -1792,7 +1791,7 @@ Gao et al.\ present a review on papers designated for researching performance vi
 The paper provides a brief background of performance visualization and how it functions.
 
 %\item \textit{Classification:}
-Gao et al.\ classify performance visualization techniques using four main categories. Simple visual structures which include statistical charts with one or two variables, composed visual structures that include a combination of simple chart views, interactive visual structures featuring structures that provide a variety of user interactions, and focus+context which refers to visualizations with mapping that is automatically modified without the need of user interaction (the figure is provided in the supplementary material).
+Gao et al.\ classify performance visualization techniques using four main categories. Simple visual structures which include statistical charts with one or two variables, composed visual structures that include a combination of simple chart views, interactive visual structures featuring structures that provide a variety of user interactions, and focus+context which refers to visualizations with mapping that is automatically modified without the need of user interaction.
 
 
 \begin{figure}[t]
@@ -1971,7 +1970,7 @@ Liu et al.\ create a comprehensive study on the domain of information visualizat
 The paper opens by examining the visualization pipeline and classification schemes. They proceed to present their 1-N taxonomy of the literature landscape within recent years, and present each topic whilst giving examples of papers in the related area. This continues on to communicating some technical challenges.
 
 %\item \textit{Classification:}
-Liu et al.\ break their taxonomy down into four main categories: empirical methodologies, interactions, frameworks, and applications. These categories are sub-divided into sub-categories (the figure is provided in the supplementary material). The classification has a lot of overlap with our organization. 
+Liu et al.\ break their taxonomy down into four main categories: empirical methodologies, interactions, frameworks, and applications. These categories are sub-divided into sub-categories. The classification has a lot of overlap with our organization. 
 
 
 %\begin{figure}[ht]
@@ -2011,7 +2010,7 @@ Liu et al.\ describe an abundance of open research areas including usability, sc
 %%%CURRENT SURVEY SUMMARIES %%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Future Work}
+\section{Analysis of Future Work}
 At the end of most survey papers, it is common for the authors to discuss future areas of work that are discovered over the course of the survey. These challenges and research directions have been compiled using SurVis, an online literature browser \cite{beck2016visual,surVis}. This enables us to find a number of future research areas within Information Visualization.
 
 \begin{table}[p]
@@ -2087,7 +2086,7 @@ The research topics found to have a high frequency (over 15\%) are listed in thi
 \item \textbf{Fuzziness and Uncertainty (18\%):} Fuzziness and Uncertainty are a growing topic within Information Visualization and the results of our survey shows that this is a positive step. Visualization aims to represent clear findings and it is therefore essential that and uncertainty is represented. This open research topic was mainly suggested for text-focused surveys and multivariate surveys. Although there are uncertainty surveys published, only one of these fulfills one of our topics \cite{dasgupta2012conceptualizing}, while the other two are SciVis papers \cite{uncertain,brodlie2012}, so this research area is still open for research.
 \end{enumerate}
 
-Our paper presents some interesting findings. Graph surveys and text surveys have a large quantity of survey work in recent years. This enables quite a large overview of the current landscape of the topics but will also make it difficult to justify the creation of new surveys in the field. There is a large quantity of user studies across many fields yet there is little evidence of their use. Perceptual surveys are a great tool to analyze and document user-studies within a field, with the two papers summarized in this category giving a greater understanding of their benefit and contribution to the field \cite{johansson2016evaluation, fuchs2016systematic} (see Table \ref{table:futureWork} and figure \ref{fig: openresearch}). We also look how these papers are used in the field. We found that over 50\% of survey topics show a positive trend between surveys before and after 2010 (see Figure \ref{fig: cited}).
+Our chapter presents some interesting findings. Graph surveys and text surveys have a large quantity of survey work in recent years. This enables quite a large overview of the current landscape of the topics but will also make it difficult to justify the creation of new surveys in the field. There is a large quantity of user studies across many fields yet there is little evidence of their use. Perceptual surveys are a great tool to analyze and document user-studies within a field, with the two papers summarized in this category giving a greater understanding of their benefit and contribution to the field \cite{johansson2016evaluation, fuchs2016systematic} (see Table \ref{table:futureWork} and figure \ref{fig: openresearch}). We also look how these papers are used in the field. We found that over 50\% of survey topics show a positive trend between surveys before and after 2010 (see Figure \ref{fig: cited}).
 
 
 \begin{figure*}[t]
@@ -2101,7 +2100,7 @@ Our paper presents some interesting findings. Graph surveys and text surveys hav
 There are some important considerations when looking at the implementation of the Survey of Surveys. The SoS uses natural topic clusters to classify literature in the field of information visualization. This means that topics reviewed are naturally biased towards surveys that have been published. A second limitation is that open-research is only based on what is discussed within each survey and this does not necessarily fully represent the current landscape of the domain, as there is a possibility that papers have been presented that fulfill open research directions between the publication of the survey and the publication of the SoS. This means that the older the paper, the more uncertain we are that the open research areas have matured.
 
 \section{Conclusion}
-The SoS contributes a quantum step forward in literature surveys. We present a novel classification of survey papers that enables the reader to find recently published literature among a wide variety of topics. The classification also enables users to easily spot areas of open-research for survey publication, as well as an understanding of broad open research topics in the field of information visualization. The paper provides a basic systematization of classification tables among the existing survey literature. It provides a valuable starting point for both newcomers and experienced researchers in visualization. We also believe it provides a valuable resource to readers outside of the information visualization and visual analytics communities. 
+The SoS contributes a step forward in literature surveys. We present a novel classification of survey papers that enables the reader to find recently published literature among a wide variety of topics. The classification also enables users to easily spot areas of open-research for survey publication, as well as an understanding of broad open research topics in the field of information visualization. The literature review provides a basic systematization of classification tables among the existing survey literature. It provides a valuable starting point for both newcomers and experienced researchers in visualization. We also believe it provides a valuable resource to readers outside of the information visualization and visual analytics communities. 
 
 %\section{Acknowledgments}
 %We would like to thank KESS for contributing funding towards this endeavor. Knowledge Economy Skills Scholarships (KESS) is a pan-Wales higher level skills initiative led by Bangor University on behalf of the HE sector in Wales. It is partially funded by the Welsh Government's European Social Fund (ESF) convergence programme for West Wales and the Valleys. We would also like to thank Richard Roberts, Dylan Rees, Thomas Basketter, and Dave Greten for help with proofreading the paper before submission. We also thank Wolfgang Aigner, Raimund Dachselt, Kyle Hall, Petra Isenberg, Johannes Kehrer, Catherine Plaisant, Alexander Rind, Ben Schneiderman, Christian Tominski, and Markus Wagner for providing feedback on the paper. We thank Helwig Hauser for the inspirational discussions on survey papers.

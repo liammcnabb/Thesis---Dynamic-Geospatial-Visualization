@@ -1,0 +1,4364 @@
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.10.12)  21 FEB 2019 13:21
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**dissertation-base.tex
+(./dissertation-base.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/hepthesis/hepthesis.cls
+Document Class: hepthesis 2017/09/20 HEP thesis class by Andy Buckley (v1.5.1)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2017/09/07 v3.24 KOMA-Script document class (book)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2017/09/07 v3.24 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2017/09/07 v3.24 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2017/09/07 v3.24 KOMA-Script package (loading files)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2017/09/07 v3.24 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip41
+\scr@dte@tocline@numbox=\box26
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 135.
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 137.
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 138.
+Package tocbasic Info: defining new hook before heading of `' on input line 162
+3.
+Package scrbook Info: You've used standard option `12pt'.
+(scrbook)             This is correct!
+(scrbook)             Internally I'm using `fontsize=12pt'.
+(scrbook)             If you'd like to set the option with \KOMAoptions,
+(scrbook)             you'd have to use `fontsize=12pt' there
+(scrbook)             instead of `12pt', too.
+Class scrbook Info: You've used standard option `oneside'.
+(scrbook)           This is correct!
+(scrbook)           Internally I'm using `twoside=false'.
+(scrbook)           If you'd like to set the option with \KOMAoptions,
+(scrbook)           you'd have to use `twoside=false' there
+(scrbook)           instead of `oneside', too.
+Class scrbook Info: File `scrsize12pt.clo' used to setup font sizes on input li
+ne 2296.
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrsize12pt.clo
+File: scrsize12pt.clo 2017/09/07 v3.24 KOMA-Script font size class option (12pt
+)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2017/09/07 v3.24 KOMA-Script package (type area)
+\ta@bcor=\skip42
+\ta@div=\count79
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
+Package typearea Info: You've used standard option `oneside'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `twoside=false'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `twoside=false' there
+(typearea)             instead of `oneside', too.
+\ta@hblk=\skip43
+\ta@vblk=\skip44
+\ta@temp=\skip45
+\footheight=\skip46
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 12
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 448.13095pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 2.4185pt
+(typearea)              \oddsidemargin  = 2.4185pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 635.5pt
+(typearea)              \topmargin      = -41.72441pt
+(typearea)              \headheight     = 18.125pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
+(typearea)              on input line 1686.
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\scr@dte@part@maxnumwidth=\skip47
+\scr@dte@chapter@maxnumwidth=\skip48
+\scr@dte@section@maxnumwidth=\skip49
+\scr@dte@subsection@maxnumwidth=\skip50
+\scr@dte@subsubsection@maxnumwidth=\skip51
+\scr@dte@paragraph@maxnumwidth=\skip52
+\scr@dte@subparagraph@maxnumwidth=\skip53
+LaTeX Info: Redefining \textsubscript on input line 4966.
+\abovecaptionskip=\skip54
+\belowcaptionskip=\skip55
+\c@pti@nb@sid@b@x=\box27
+\c@figure=\count87
+\c@table=\count88
+Class scrbook Info: Redefining `\numberline' on input line 6142.
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/a4wide/a4wide.sty
+Package: a4wide 1994/08/30
+
+(/usr/share/texlive/texmf-dist/tex/latex/ntgclass/a4.sty
+Package: a4 2004/04/15 v1.2g A4 based page layout
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 105.
+
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count89
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
+\MT@toks=\toks15
+\MT@count=\count90
+LaTeX Info: Redefining \textls on input line 793.
+\MT@outer@kern=\dimen103
+LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
+\MT@listname@count=\count91
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-xetex.def
+File: microtype-xetex.def 2018/01/14 v2.7a Definitions specific to xetex (RS)
+LaTeX Info: Redefining \lsstyle on input line 256.
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count92
+\cp@tempcnt=\count93
+)
+(./varwidth.sty
+Package: varwidth 2003/03/10 ver 0.9a;  Variable-width minipages
+\@vwid@box=\box28
+\sift@deathcycles=\count94
+\@vwid@loff=\dimen104
+\@vwid@roff=\dimen105
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip56
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen106
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen107
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count95
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count96
+\leftroot@=\count97
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count98
+\DOTSCASE@=\count99
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count100
+\c@MaxMatrixCols=\count101
+\dotsspace@=\muskip10
+\c@parentequation=\count102
+\dspbrk@lvl=\count103
+\tag@help=\toks17
+\row@=\count104
+\column@=\count105
+\maxfields@=\count106
+\andhelp@=\toks18
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks19
+\multlinegap=\skip57
+\multlinetaggap=\skip58
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+Package scrkbase Info: You've told me to extend the font selection of the
+(scrkbase)             element `sectioning' that is an alias of element
+(scrkbase)             `disposition' on input line 269.
+
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen115
+\lightrulewidth=\dimen116
+\cmidrulewidth=\dimen117
+\belowrulesep=\dimen118
+\belowbottomsep=\dimen119
+\aboverulesep=\dimen120
+\abovetopsep=\dimen121
+\cmidrulesep=\dimen122
+\cmidrulekern=\dimen123
+\defaultaddspace=\dimen124
+\@cmidla=\count107
+\@cmidlb=\count108
+\@aboverulesep=\dimen125
+\@belowrulesep=\dimen126
+\@thisruleclass=\count109
+\@lastruleclass=\count110
+\@thisrulewidth=\dimen127
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+
+Class scrbook Warning: Usage of package `fancyhdr' together
+(scrbook)              with a KOMA-Script class is not recommended.
+(scrbook)              I'd suggest to use 
+(scrbook)              package `scrlayer' or `scrlayer-scrpage', because
+(scrbook)              they support KOMA-Script classes.
+(scrbook)              With `fancyhdr' several features of class `scrbook'
+(scrbook)              like options `headsepline', `footsepline' or command
+(scrbook)              `\MakeMarkcase' and the commands `\setkomafont' and
+(scrbook)              `\addtokomafont' for the page style elements need
+(scrbook)              explicite user intervention to work.
+(scrbook)              Nevertheless, using requested
+(scrbook)              package `fancyhdr' on input line 312.
+
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip59
+\f@nch@O@elh=\skip60
+\f@nch@O@erh=\skip61
+\f@nch@O@olh=\skip62
+\f@nch@O@orh=\skip63
+\f@nch@O@elf=\skip64
+\f@nch@O@erf=\skip65
+\f@nch@O@olf=\skip66
+\f@nch@O@orf=\skip67
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen128
+\Gin@req@width=\dimen129
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count111
+\rotFPtop=\skip68
+\rotFPbot=\skip69
+\rot@float@box=\box31
+\rot@mess@toks=\toks21
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen130
+\captionmargin@=\dimen131
+\captionwidth=\dimen132
+\caption@tempdima=\dimen133
+\caption@indent=\dimen134
+\caption@parindent=\dimen135
+\caption@hangindent=\dimen136
+)
+Package caption Info: KOMA-Script document class.
+\c@ContinuedFloat=\count112
+Package caption Info: rotating package is loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks22
+\AP@partial=\box32
+\AP@footins=\box33
+)
+\@bindextramargin=\skip70
+\@mainmatterextramargin=\skip71
+\@backmatterextramargin=\skip72
+\@frontmatterextramargin=\skip73
+\@appendixextramargin=\skip74
+\@abstractextramargin=\skip75
+\@declarationextramargin=\skip76
+\@acknowledgementsextramargin=\skip77
+\@prefaceextramargin=\skip78
+\@pagequoteextramargin=\skip79
+\@frontmattertopskip=\skip80
+\@frontmattertitletopskip=\skip81
+\frontmattertitleskip=\skip82
+\smallfigwidth=\skip83
+\mediumfigwidth=\skip84
+\largefigwidth=\skip85
+\hugefigwidth=\skip86
+\littlefigwidth=\skip87
+\bigfigwidth=\skip88
+
+Special comment 'frontmatter' Special comment 'mainmatter'
+Special comment 'appendices' Special comment 'backmatter'
+LaTeX Info: Redefining \titlepage on input line 687.
+\@oldparindent=\skip89
+LaTeX Info: Redefining \dedication on input line 741.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathpazo.sty
+Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup4
+)
+
+Class scrbook Warning: Usage of package `minitoc' together
+(scrbook)              with a KOMA-Script class is not recommended.
+(scrbook)              Nevertheless, using requested
+(scrbook)              package `minitoc' on input line 19.
+
+(/usr/share/texlive/texmf-dist/tex/latex/minitoc/minitoc.sty
+Package: minitoc 2015/07/13 v61 Package minitoc
+
+(/usr/share/texlive/texmf-dist/tex/latex/minitoc/mtcmess.sty
+Package: mtcmess 2006/03/14
+)
+Package minitoc Info: I0001
+(minitoc)             *** minitoc package, version 61 ***.
+\tf@mtc=\write4
+\mtcindent=\skip90
+\mtcskipamount=\skip91
+Package minitoc Info: I0005
+(minitoc)             compatible with hyperref.
+Package minitoc Info: I0023
+(minitoc)             part level macros available.
+Package minitoc Info: I0003
+(minitoc)             chapter level macros available.
+\mtc@toks=\toks23
+\mtc@strutbox=\box34
+\mtc@hstrutbox=\box35
+Package minitoc Info: I0002
+(minitoc)             Autoconfiguration of extensions.
+\openout4 = `dissertation-base.mtc0'.
+
+\openout4 = `dissertation-base.mtc'.
+
+
+(./dissertation-base.mtc0)
+Package minitoc Info: I0012
+(minitoc)             Long extensions (Unix-like) will be used.
+Package minitoc Info: I0031
+(minitoc)             ==> this version is configured for UNIX-like 
+(minitoc)                 (long extensions) file names.
+\openout4 = `dissertation-base.mtc'.
+
+\openout4 = `dissertation-base.mtc0'.
+
+\c@mtc=\count113
+\c@minitocdepth=\count114
+\c@ptc=\count115
+\c@parttocdepth=\count116
+\ptcindent=\skip92
+Package minitoc Info: I0010
+(minitoc)             The english language is selected.
+(minitoc)              on input line 4909.
+
+(/usr/share/texlive/texmf-dist/tex/latex/minitoc/english.mld
+File: english.mld 2006/01/13
+)
+(/usr/share/texlive/texmf-dist/tex/latex/minitoc/english.mld
+File: english.mld 2006/01/13
+))
+Class scrbook Info: Deactivating the `minitoc' workaround for `\@sect',
+(scrbook)           because it is not needed on input line 19.
+ (./preamble.tex
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen137
+\extrarowheight=\dimen138
+\NC@list=\toks24
+\extratabsurround=\skip93
+\backup@length=\skip94
+)
+\everycr=\toks25
+\minrowclearance=\skip95
+)
+\rownum=\count117
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen139
+\Hy@linkcounter=\count118
+\Hy@pagecounter=\count119
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count120
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count121
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen140
+\Fld@menulength=\count122
+\Field@Width=\dimen141
+\Fld@charsize=\dimen142
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count123
+\c@Item=\count124
+\c@Hfootnote=\count125
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2018/02/06 v6.86b Hyperref driver for XeTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2018/02/06 v6.86b Hyperref: PDF Unicode definition (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/stringenc.sty
+Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box36
+\c@Hy@AnnotLevel=\count126
+\HyField@AnnotCount=\count127
+\Fld@listcount=\count128
+\c@bookmark@seq@number=\count129
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
+(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
+
+(rerunfilecheck)             Therefore file contents cannot be checked efficien
+tly
+(rerunfilecheck)             and the loading of the package is aborted.
+)
+\Hy@SectionHShift=\skip96
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 7.
+
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/bibentry.sty
+Package: bibentry 2007/10/30 1.5 (PWD)
+)
+(./dissertation-base.bbl)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+\c@tracingmulticols=\count130
+\mult@box=\box37
+\multicol@leftmargin=\dimen143
+\c@unbalance=\count131
+\c@collectmore=\count132
+\doublecol@number=\count133
+\multicoltolerance=\count134
+\multicolpretolerance=\count135
+\full@width=\dimen144
+\page@free=\dimen145
+\premulticols=\dimen146
+\postmulticols=\dimen147
+\multicolsep=\skip97
+\multicolbaselineskip=\skip98
+\partial@page=\box38
+\last@line=\box39
+\maxbalancingoverflow=\dimen148
+\mult@rightbox=\box40
+\mult@grightbox=\box41
+\mult@gfirstbox=\box42
+\mult@firstbox=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\c@columnbadness=\count136
+\c@finalcolumnbadness=\count137
+\last@try=\dimen149
+\multicolovershoot=\dimen150
+\multicolundershoot=\dimen151
+\mult@nat@firstbox=\box61
+\colbreak@box=\box62
+\mc@col@check@num=\count138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count139
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks26
+\pgfutil@tempdima=\dimen152
+\pgfutil@tempdimb=\dimen153
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box63
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks27
+\pgfkeys@temptoks=\toks28
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks29
+))
+\pgf@x=\dimen154
+\pgf@y=\dimen155
+\pgf@xa=\dimen156
+\pgf@ya=\dimen157
+\pgf@xb=\dimen158
+\pgf@yb=\dimen159
+\pgf@xc=\dimen160
+\pgf@yc=\dimen161
+\w@pgf@writea=\write5
+\r@pgf@reada=\read1
+\c@pgf@counta=\count140
+\c@pgf@countb=\count141
+\c@pgf@countc=\count142
+\c@pgf@countd=\count143
+\t@pgf@toka=\toks30
+\t@pgf@tokb=\toks31
+\t@pgf@tokc=\toks32
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+File: pgfsys-xetex.def 2014/07/09  (rcs-revision 1.11)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2014/07/09  (rcs-revision 1.14)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)
+\pgfsys@objnum=\count144
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count145
+\pgfsyssoftpath@bigbuffer@items=\count146
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen162
+\pgfmath@count=\count147
+\pgfmath@box=\box64
+\pgfmath@toks=\toks33
+\pgfmath@stack@operand=\toks34
+\pgfmath@stack@operation=\toks35
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count148
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen163
+\pgf@picmaxx=\dimen164
+\pgf@picminy=\dimen165
+\pgf@picmaxy=\dimen166
+\pgf@pathminx=\dimen167
+\pgf@pathmaxx=\dimen168
+\pgf@pathminy=\dimen169
+\pgf@pathmaxy=\dimen170
+\pgf@xx=\dimen171
+\pgf@xy=\dimen172
+\pgf@yx=\dimen173
+\pgf@yy=\dimen174
+\pgf@zx=\dimen175
+\pgf@zy=\dimen176
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen177
+\pgf@path@lasty=\dimen178
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen179
+\pgf@shorten@start@additional=\dimen180
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box65
+\pgf@hbox=\box66
+\pgf@layerbox@main=\box67
+\pgf@picture@serial@count=\count149
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen181
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen182
+\pgf@pt@y=\dimen183
+\pgf@pt@temp=\dimen184
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen185
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen186
+\pgf@sys@shading@range@num=\count150
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box68
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box69
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen187
+\pgf@nodesepend=\dimen188
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen189
+\pgffor@skip=\dimen190
+\pgffor@stack=\toks36
+\pgffor@toks=\toks37
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count151
+\pgfplotmarksize=\dimen191
+)
+\tikz@lastx=\dimen192
+\tikz@lasty=\dimen193
+\tikz@lastxsaved=\dimen194
+\tikz@lastysaved=\dimen195
+\tikzleveldistance=\dimen196
+\tikzsiblingdistance=\dimen197
+\tikz@figbox=\box70
+\tikz@figbox@bg=\box71
+\tikz@tempbox=\box72
+\tikz@tempbox@bg=\box73
+\tikztreelevel=\count152
+\tikznumberofchildren=\count153
+\tikznumberofcurrentchild=\count154
+\tikz@fig@count=\count155
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count156
+\pgfmatrixcurrentcolumn=\count157
+\pgf@matrix@numberofcolumns=\count158
+)
+\tikz@expandcount=\count159
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/morefloats/morefloats.sty
+Package: morefloats 2015/07/22 v1.0h Raise limit of unprocessed floats (HMM)
+Package morefloats Info: Maximum number of possible floats asked for: 36
+(morefloats)             (i.e. 18 more floats).
+(morefloats)             LaTeX might run out of memory before this
+(morefloats)             (in which case it will notify you).
+)
+(/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count160
+\sf@farskip=\skip99
+\sf@captopadj=\dimen198
+\sf@capskip=\skip100
+\sf@nearskip=\skip101
+\c@subfigure=\count161
+\c@subfigure@save=\count162
+\c@lofdepth=\count163
+\c@subtable=\count164
+\c@subtable@save=\count165
+\c@lotdepth=\count166
+\sf@top=\skip102
+\sf@bottom=\skip103
+)
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup5
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks38
+\verbatim@line=\toks39
+\verbatim@in@stream=\read2
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/02/14 3.18 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/02/14 3.18 Babel switching mechanism
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/02/14 3.18 Babel common definitions
+\babel@savecnt=\count167
+\U@D=\dimen199
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/xebabel.def
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def))
+\bbl@dirlevel=\count168
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (./abmath.sty
+Package: abmath 2006/04/12
+
+(/usr/share/texlive/texmf-dist/tex/latex/maybemath/maybemath.sty
+Package: maybemath 2005/2/22
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+\symboldupright=\mathgroup9
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/braket/braket.sty)
+LaTeX Info: Redefining \pm on input line 50.
+LaTeX Info: Redefining \mp on input line 52.
+LaTeX Info: Redefining \vert on input line 54.
+LaTeX Info: Redefining \to on input line 56.
+LaTeX Info: Redefining \sim on input line 58.
+LaTeX Info: Redefining \implies on input line 60.
+LaTeX Info: Redefining \times on input line 63.
+LaTeX Info: Redefining \bra on input line 65.
+LaTeX Info: Redefining \ket on input line 67.
+LaTeX Info: Redefining \braket on input line 69.
+LaTeX Info: Redefining \Im on input line 178.
+LaTeX Info: Redefining \Re on input line 179.
+LaTeX Info: Redefining \d on input line 240.
+LaTeX Info: Redefining \exclude on input line 247.
+)
+LaTeX Info: Redefining \mymath on input line 35.
+ (./abhep.sty
+Package: abhep 2005/01/17
+
+(/usr/share/texlive/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+) (./abhepexpt.sty
+Package: abhepexpt 2005/08/22
+
+(/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hepnames/hepnicenames.sty
+Package: hepnicenames 2014/12/01 Friendly alternatives to the PEN particle code
+s (version 2.0)
+
+(/usr/share/texlive/texmf-dist/tex/latex/hepnames/heppennames.sty
+Package: heppennames 2014/12/01 Elementary Particle Naming Scheme (version 2.0)
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/hepparticles/hepparticles.sty
+Package: hepparticles 2014/12/01 HEP particle typesetting (v2.0)
+
+(/usr/share/texlive/texmf-dist/tex/latex/subdepth/subdepth.sty
+Package: subdepth 2007/09/02 v0.1 Unify subscript depths
+)
+LaTeX Font Info:    Overwriting math alphabet `\mathup' in version `bold'
+(Font)                  OT1/ppl/m/n --> T1/ppl/bx/n on input line 110.
+LaTeX Font Info:    Overwriting math alphabet `\mathsfup' in version `bold'
+(Font)                  OT1/lmss/m/n --> T1/lmss/bx/n on input line 113.
+LaTeX Font Info:    Overwriting math alphabet `\mathsfit' in version `bold'
+(Font)                  T1/lmss/m/sl --> T1/lmss/bx/sl on input line 116.
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/hepunits/hepunits.sty
+Package: hepunits 2007/09/27 High-energy physics units by Andy Buckley (v1.1.1)
+
+ (./SIunits.sty
+Package: SIunits 2007/12/02 v1.36 Support for the International System of units
+ (MH)
+
+
+\@qskwidth=\skip104
+\symgreek=\mathgroup10
+(/usr/share/texlive/texmf-dist/tex/latex/SIunits/SIunits.cfg)
+LaTeX Info: Redefining \usk on input line 576.
+
+Option `mediumspace' provided!
+LaTeX Info: Redefining \@qsk on input line 576.
+Option `thickqspace' provided!
+Option `textstyle' provided!
+Option `squaren' provided!
+))
+\CKMPairWidth=\skip105
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 157.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 157
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 157
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 157
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 157
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 157.
+
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hepnames/hepnames.sty
+Package: hepnames 2014/12/01 Pre-defined HEP particle symbols (version 2.0)
+)
+LaTeX Info: Redefining \CP on input line 62.
+LaTeX Info: Redefining \CPv on input line 64.
+LaTeX Info: Redefining \LHCb on input line 65.
+LaTeX Info: Redefining \LHC on input line 66.
+LaTeX Info: Redefining \LEP on input line 67.
+LaTeX Info: Redefining \CERN on input line 68.
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/hhline.sty
+Package: hhline 2014/10/28 v2.03 Table rule package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+\TX@col@width=\dimen256
+\TX@old@table=\dimen257
+\TX@old@col=\dimen258
+\TX@target=\dimen259
+\TX@delta=\dimen260
+\TX@cols=\count169
+\TX@ftn=\toks40
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip106
+\multirow@cntb=\count170
+\multirow@dima=\skip107
+\bigstrutjot=\dimen261
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup11
+\symAMSb=\mathgroup12
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup13
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/mwe/mwe.sty
+Package: mwe 2017/12/10 v0.4 Package to support minimal working examples (MWE)
+
+(/usr/share/texlive/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+\c@blindtext=\count171
+\c@Blindtext=\count172
+\c@blind@countparstart=\count173
+\blind@countxx=\count174
+\blindtext@numBlindtext=\count175
+\blind@countyy=\count176
+\c@blindlist=\count177
+\c@blindlistlevel=\count178
+\c@blindlist@level=\count179
+\blind@listitem=\count180
+\c@blind@listcount=\count181
+\c@blind@levelcount=\count182
+\blind@mathformula=\count183
+\blind@Mathformula=\count184
+\c@blind@randomcount=\count185
+\c@blind@randommax=\count186
+\c@blind@pangramcount=\count187
+\c@blind@pangrammax=\count188
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphbox/graphbox.sty
+Package: graphbox 2018/01/17 v1.1 extension for graphicx to adjust containing b
+ox
+\Gin@box@box=\box74
+\Gin@box@width=\skip108
+\Gin@box@height=\skip109
+\Gin@box@raise=\skip110
+\Gin@box@hspace=\skip111
+\Gin@box@bwidth=\skip112
+\Gin@box@bheight=\skip113
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 99.
+
+)
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen262
+\WF@size=\dimen263
+\c@WF@wrappedlines=\count189
+\WF@box=\box75
+\WF@everypar=\toks41
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/share/texlive/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen264
+\c@nlinenum=\count190
+\TeXr@lab=\toks42
+)
+(/usr/share/texlive/texmf-dist/tex/latex/sttools/stfloats.sty
+Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip sett
+ings
+\@dblbotnum=\count191
+\c@dblbotnumber=\count192
+)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks43
+\XKV@tempa@toks=\toks44
+)
+\XKV@depth=\count193
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+(/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box76
+)
+\tc@llx=\dimen265
+\tc@lly=\dimen266
+\tc@urx=\dimen267
+\tc@ury=\dimen268
+Package trimclip Info: Using driver 'tc-xetex.def'.
+
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-xetex.def
+File: tc-xetex.def 2012/05/13 v1.0 Clipping driver for xetex
+))
+\adjbox@Width=\dimen269
+\adjbox@Height=\dimen270
+\adjbox@Depth=\dimen271
+\adjbox@Totalheight=\dimen272
+
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count194
+LaTeX Info: Redefining \checkoddpage on input line 45.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count195
+\float@exts=\toks45
+\float@box=\box77
+\@float@everytoks=\toks46
+\@floatcapt=\box78
+)
+(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+\@float@every@algorithm=\toks47
+\c@algorithm=\count196
+)
+(/usr/share/texlive/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+
+(/usr/share/texlive/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count197
+\c@ALG@rem=\count198
+\c@ALG@nested=\count199
+\ALG@tlm=\skip114
+\ALG@thistlm=\skip115
+\c@ALG@Lnr=\count266
+\c@ALG@blocknr=\count267
+\c@ALG@storecount=\count268
+\c@ALG@tmpcounter=\count269
+\ALG@tmplength=\skip116
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (/usr/share/texlive/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2017/06/05 v1.15 Data Visualization (1.15)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks48
+\t@pgfplots@tokb=\toks49
+\t@pgfplots@tokc=\toks50
+\pgfplots@tmpa=\dimen273
+\c@pgfplots@coordindex=\count270
+\c@pgfplots@scanlineindex=\count271
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code
+.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.t
+ex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
+gfsupp_loader.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
+)
+Package pgfplots: loading complementary arithmetics for your pgf version...
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
+gfsupp_pgflibraryfpu.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
+gfsupp_pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count272
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotslists
+tructure.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotslists
+tructureext.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray
+.code.tex
+\c@pgfplotsarray@tmp=\count273
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatri
+x.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshare
+d.code.tex
+\c@pgfplotstable@counta=\count274
+\t@pgfplotstable@a=\toks51
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.te
+x
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.co
+de.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.sur
+fshading.code.tex
+\c@pgfplotslibrarysurf@no=\count275
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surf
+shading.pgfsys-xetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surf
+shading.pgfsys-dvipdfmx.def
+\c@pgfplotslibrarysurf@streamlen=\count276
+))))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.
+tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.t
+ex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.t
+ex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.cod
+e.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.
+tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.cod
+e.tex
+\pgfdecoratedcompleteddistance=\dimen274
+\pgfdecoratedremainingdistance=\dimen275
+\pgfdecoratedinputsegmentcompleteddistance=\dimen276
+\pgfdecoratedinputsegmentremainingdistance=\dimen277
+\pgf@decorate@distancetomove=\dimen278
+\pgf@decorate@repeatstate=\count277
+\pgfdecorationsegmentamplitude=\dimen279
+\pgfdecorationsegmentlength=\dimen280
+)
+\tikz@lib@dec@box=\box79
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.pathmorphing.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.pathmorphing.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.pathreplacing.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.pathreplacing.code.tex))
+\pgfplots@numplots=\count278
+\pgfplots@xmin@reg=\dimen281
+\pgfplots@xmax@reg=\dimen282
+\pgfplots@ymin@reg=\dimen283
+\pgfplots@ymax@reg=\dimen284
+\pgfplots@zmin@reg=\dimen285
+\pgfplots@zmax@reg=\dimen286
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.co
+de.tex
+File: pgflibraryplotmarks.code.tex 2015/08/03 v3.0.1a (rcs-revision 1.14)
+))) (/usr/share/texlive/texmf-dist/tex/latex/pgfplots/pgfplotstable.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplotstable 2017/06/05 v1.15 Table typesetting and Pretty-printing (
+1.15)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable.code
+.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable.colt
+ype.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.da
+teplot.code.tex
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfcalendar.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfcalendar.code.tex
+File: pgfcalendar.code.tex 2007/07/23 v3.0.1a (rcs-revision 1.11)
+\pgfcalendarcurrentjulian=\count279
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.da
+teplot.code.tex)
+
+Package array Warning: Column C is already defined on input line 169.
+
+
+Package array Warning: Column R is already defined on input line 174.
+
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip117
+\enit@outerparindent=\dimen287
+\enit@toks=\toks52
+\enit@inbox=\box80
+\enitdp@description=\count280
+)
+
+Package array Warning: Column C is already defined on input line 185.
+
+(/usr/share/texlive/texmf-dist/tex/latex/stackengine/stackengine.sty
+Package: stackengine 2017/02/13 v4.01\ Stacking text and objects in convenient 
+ways
+
+(/usr/share/texlive/texmf-dist/tex/generic/listofitems/listofitems.sty
+(/usr/share/texlive/texmf-dist/tex/generic/listofitems/listofitems.tex
+\loi_nestcnt=\count281
+)
+Package: listofitems 2018/01/13 v1.52 Grab items in lists using user-specified 
+sep char (CT)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count282
+\calc@Bcount=\count283
+\calc@Adimen=\dimen288
+\calc@Bdimen=\dimen289
+\calc@Askip=\skip118
+\calc@Bskip=\skip119
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count284
+\calc@Cskip=\skip120
+)
+\c@@stackindex=\count285
+\@boxshift=\skip121
+\stack@tmplength=\skip122
+\temp@stkl=\skip123
+\@stackedboxwidth=\skip124
+\@addedbox=\box81
+\@anchorbox=\box82
+\stackedbox=\box83
+\@centerbox=\box84
+\c@ROWcellindex@=\count286
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count287
+\lst@gtempboxa=\box85
+\lst@token=\toks53
+\lst@length=\count288
+\lst@currlwidth=\dimen290
+\lst@column=\count289
+\lst@pos=\count290
+\lst@lostspace=\dimen291
+\lst@width=\dimen292
+\lst@newlines=\count291
+\lst@lineno=\count292
+\lst@maxwidth=\dimen293
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count293
+\lst@skipnumbers=\count294
+\lst@framebox=\box86
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+)
+\AM@pagewidth=\dimen294
+\AM@pageheight=\dimen295
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppxetex.def
+File: ppxetex.def 2017/10/31 v0.5l Pdfpages driver for XeTeX (AM)
+)
+\AM@pagebox=\box87
+\AM@global@opts=\toks54
+\AM@toc@title=\toks55
+\c@AM@survey=\count295
+\AM@templatesizebox=\box88
+)
+LaTeX Info: Redefining \HepProcess on input line 42.
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
+
+)
+LaTeX Info: Redefining \HepProcess on input line 42.
+LaTeX Info: Redefining \HepProcess on input line 42.
+LaTeX Info: Redefining \HepProcess on input line 42.
+Package minitoc Info: I0024
+(minitoc)             PREPARING MINITOCS FROM dissertation-base.toc on input li
+ne 45.
+Package minitoc Info: I0033
+(minitoc)             Writing dissertation-base.mtc1.
+\openout4 = `dissertation-base.mtc1'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing dissertation-base.mtc2.
+\openout4 = `dissertation-base.mtc2'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing dissertation-base.mtc3.
+\openout4 = `dissertation-base.mtc3'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing dissertation-base.mtc4.
+\openout4 = `dissertation-base.mtc4'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing dissertation-base.mtc5.
+\openout4 = `dissertation-base.mtc5'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing dissertation-base.mtc6.
+\openout4 = `dissertation-base.mtc6'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing dissertation-base.mtc7.
+\openout4 = `dissertation-base.mtc7'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing dissertation-base.mtc8.
+\openout4 = `dissertation-base.mtc8'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing dissertation-base.mtc9.
+\openout4 = `dissertation-base.mtc9'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing dissertation-base.mtc10.
+\openout4 = `dissertation-base.mtc10'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing dissertation-base.mtc11.
+\openout4 = `dissertation-base.mtc11'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing dissertation-base.mtc12.
+\openout4 = `dissertation-base.mtc12'.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2018/02/11 v5.2c context-sensitive quotations (JAW)
+\csq@reset=\count296
+\csq@gtype=\count297
+\csq@glevel=\count298
+\csq@qlevel=\count299
+\csq@maxlvl=\count300
+\csq@tshold=\count301
+\csq@ltx@everypar=\toks56
+
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2018/02/11 v5.2c csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+)
+Package csquotes Info: Enabling multilingual quotes.
+)
+
+LaTeX Warning: Unused global option(s):
+    [nobindpdf].
+
+(./dissertation-base.aux
+
+LaTeX Warning: Label `fig:teaser' multiply defined.
+
+
+LaTeX Warning: Label `fig:procedure' multiply defined.
+
+
+LaTeX Warning: Label `sec:tasks' multiply defined.
+
+
+LaTeX Warning: Label `sec:introduction' multiply defined.
+
+
+LaTeX Warning: Label `table:searchTable' multiply defined.
+
+
+LaTeX Warning: Label `sec:scope' multiply defined.
+
+
+LaTeX Warning: Label `sec:related' multiply defined.
+
+
+LaTeX Warning: Label `table:uniqueMappingExamples' multiply defined.
+
+
+LaTeX Warning: Label `table:nMappingExamples' multiply defined.
+
+
+LaTeX Warning: Label `fig:compare' multiply defined.
+
+
+LaTeX Warning: Label `fig:bar' multiply defined.
+
+)
+\openout1 = `dissertation-base.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 47.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 47.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+LaTeX Info: Redefining \microtypecontext on input line 47.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `phv' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@minilofdepth=\count302
+\c@minilotdepth=\count303
+\c@partlofdepth=\count304
+\c@partlotdepth=\count305
+\c@sectlofdepth=\count306
+\c@sectlotdepth=\count307
+Package minitoc(hints) Info: I0049
+(minitoc(hints))             ==> You requested the hints option. 
+(minitoc(hints))             Some hints are eventually given below.
+Package minitoc(hints) Info: I0046
+(minitoc(hints))             --- The tocbibind package is loaded. 
+(minitoc(hints))             See the minitoc package documentation 
+(minitoc(hints))             for specific precautions.
+Package minitoc(hints) Info: I0043
+(minitoc(hints))             --- The KOMAScript scrbook class is loaded. 
+(minitoc(hints))             See the minitoc package documentation 
+(minitoc(hints))             for specific precautions.
+
+
+Package minitoc(hints) Warning: W0030
+(minitoc(hints))                --- The \part command is altered 
+(minitoc(hints))                after minitoc.
+
+
+Package minitoc(hints) Warning: W0023
+(minitoc(hints))                --- It may be the consequence 
+(minitoc(hints))                of loading the ``hyperref'' package.
+
+
+Package minitoc(hints) Warning: W0028
+(minitoc(hints))                --- The \chapter command is altered 
+(minitoc(hints))                after minitoc.
+
+
+Package minitoc(hints) Warning: W0023
+(minitoc(hints))                --- It may be the consequence 
+(minitoc(hints))                of loading the ``hyperref'' package.
+
+\AtBeginShipoutBox=\box89
+Package hyperref Info: Link coloring ON on input line 47.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count308
+)
+LaTeX Info: Redefining \ref on input line 47.
+LaTeX Info: Redefining \pageref on input line 47.
+LaTeX Info: Redefining \nameref on input line 47.
+
+(./dissertation-base.out) (./dissertation-base.out)
+\@outlinefile=\write6
+\openout6 = `dissertation-base.out'.
+
+
+ABD: EveryShipout initializing macros
+Option `squaren' provided! 
+ Command \squaren defined by SIunits package!
+
+LaTeX Info: Redefining \micro on input line 47.
+Package pgfplots notification 'compat/show suggested version=true': you might b
+enefit from \pgfplotsset{compat=1.15} (current compat level: 1.13).
+
+\c@lstlisting=\count309
+Processing 'frontmatter' comment.
+\c@iterlist=\count310
+\openout3 = `comment.cut'.
+
+
+Comment 'frontmatter' writing to comment.cut. Straight input of comment.cut.
+(./comment.cut (./frontmatter.tex
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ppl.cfg
+File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `zplm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-eur.cfg
+File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
+)
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 25.92514pt on input line 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 21.61124pt on input line 3.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 15.0049pt on input line 3.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 25.92514pt on input line 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 21.61124pt on input line 3.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 15.0049pt on input line 3.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+File: images/swansea_university_logo.png Graphic file (type bmp)
+<images/swansea_university_logo.png>
+LaTeX Info: Redefining \HepProcess on input line 8.
+LaTeX Info: Redefining \HepProcess on input line 8.
+ [1
+
+
+]
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 8.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 12.50409pt on input line 8.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 12.50409pt on input line 8.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 17.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 17.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 17.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 17.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 17.
+LaTeX Info: Redefining \HepProcess on input line 17.
+LaTeX Info: Redefining \HepProcess on input line 17.
+ [2
+
+]
+LaTeX Info: Redefining \HepProcess on input line 27.
+LaTeX Info: Redefining \HepProcess on input line 27.
+ [3]
+LaTeX Info: Redefining \HepProcess on input line 36.
+LaTeX Info: Redefining \HepProcess on input line 36.
+ [4]
+LaTeX Info: Redefining \HepProcess on input line 50.
+LaTeX Info: Redefining \HepProcess on input line 50.
+
+[5
+
+]
+LaTeX Info: Redefining \HepProcess on input line 61.
+LaTeX Info: Redefining \HepProcess on input line 61.
+ [6
+
+]
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 61.
+ (/usr/share/texmf/tex/latex/lm/t1lmss.fd
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmss' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 61.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+)
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 61.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 61.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 11.40997pt on input line 61.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 61.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 61.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 11.40997pt on input line 61.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 61.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 61.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 66.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 66.
+
+(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 66.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 66.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 66.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 66.
+LaTeX Info: Redefining \HepProcess on input line 78.
+LaTeX Info: Redefining \HepProcess on input line 78.
+ [7
+
+]
+Package tocbasic Info: character protrusion at toc deactivated on input line 78
+.
+ (./dissertation-base.toc
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 3.
+LaTeX Info: Redefining \HepProcess on input line 51.
+LaTeX Info: Redefining \HepProcess on input line 51.
+ [8
+
+]
+Overfull \hbox (1.41573pt too wide) detected at line 66
+ []\T1/phv/m/n/12 101
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 68
+ []\T1/phv/m/n/12 106
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 69
+ []\T1/phv/m/n/12 107
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 70
+ []\T1/phv/m/n/12 109
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 71
+ []\T1/phv/m/n/12 109
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 72
+ []\T1/phv/m/n/12 109
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 73
+ []\T1/phv/m/n/12 110
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 74
+ []\T1/phv/m/n/12 113
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 75
+ []\T1/phv/m/n/12 113
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 76
+ []\T1/phv/m/n/12 113
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 77
+ []\T1/phv/m/n/12 116
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 78
+ []\T1/phv/m/n/12 117
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 79
+ []\T1/phv/m/n/12 117
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 80
+ []\T1/phv/m/n/12 119
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 81
+ []\T1/phv/m/n/12 121
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 82
+ []\T1/phv/m/n/12 122
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 83
+ []\T1/phv/m/n/12 122
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 85
+ []\T1/phv/m/n/12 128
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 86
+ []\T1/phv/m/n/12 130
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 87.
+LaTeX Info: Redefining \HepProcess on input line 87.
+[9]
+Overfull \hbox (1.41573pt too wide) detected at line 87
+ []\T1/phv/m/n/12 132
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 88
+ []\T1/phv/m/n/12 132
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 89
+ []\T1/phv/m/n/12 133
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 90
+ []\T1/phv/m/n/12 134
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 91
+ []\T1/phv/m/n/12 134
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 92
+ []\T1/phv/m/n/12 135
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 93
+ []\T1/phv/m/n/12 137
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 94
+ []\T1/phv/m/n/12 137
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 95
+ []\T1/phv/m/n/12 137
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 96
+ []\T1/phv/m/n/12 137
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 97
+ []\T1/phv/m/n/12 138
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 98
+ []\T1/phv/m/n/12 139
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 99
+ []\T1/phv/m/n/12 139
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 103
+ []\T1/phv/m/n/12 142
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 104
+ []\T1/phv/m/n/12 144
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 106
+ []\T1/phv/m/n/12 153
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 107
+ []\T1/phv/m/n/12 153
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 108
+ []\T1/phv/m/n/12 153
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 109
+ []\T1/phv/m/n/12 155
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 110
+ []\T1/phv/m/n/12 156
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 111
+ []\T1/phv/m/n/12 156
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 112
+ []\T1/phv/m/n/12 164
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 113
+ []\T1/phv/m/n/12 165
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 114
+ []\T1/phv/m/n/12 166
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 115
+ []\T1/phv/m/n/12 166
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 116
+ []\T1/phv/m/n/12 167
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 117
+ []\T1/phv/m/n/12 168
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 118
+ []\T1/phv/m/n/12 168
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 119
+ []\T1/phv/m/n/12 169
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 121
+ []\T1/phv/m/n/12 173
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 122
+ []\T1/phv/m/n/12 173
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 123
+ []\T1/phv/m/n/12 174
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 124
+ []\T1/phv/m/n/12 174
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 125
+ []\T1/phv/m/n/12 175
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 126.
+LaTeX Info: Redefining \HepProcess on input line 126.
+[10]
+Overfull \hbox (1.41573pt too wide) detected at line 126
+ []\T1/phv/m/n/12 177
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 127
+ []\T1/phv/m/n/12 178
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 128
+ []\T1/phv/m/n/12 178
+ []
+
+)
+\tf@toc=\write7
+\openout7 = `dissertation-base.toc'.
+
+LaTeX Info: Redefining \HepProcess on input line 85.
+LaTeX Info: Redefining \HepProcess on input line 85.
+ [11])) Processing 'mainmatter' comment.
+\openout3 = `comment.cut'.
+
+
+Comment 'mainmatter' writing to comment.cut. Straight input of comment.cut.
+(./comment.cut (./ch1-Introduction.tex
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [12
+
+]
+chapter 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+
+Class scrbook Warning: \float@addtolists detected!
+(scrbook)              Implementation of \float@addtolist became
+(scrbook)              deprecated in KOMA-Script v3.01 2008/11/14 and
+(scrbook)              has been replaced by several more flexible
+(scrbook)              features of package `tocbasic`.
+(scrbook)              Since Version 3.12 support for deprecated
+(scrbook)              \float@addtolist interface has been
+(scrbook)              restricted to only some of the KOMA-Script
+(scrbook)              features and been removed from others.
+(scrbook)              Loading of package `scrhack' may help to
+(scrbook)              avoid this warning, if you are using a
+(scrbook)              a package that still implements the
+(scrbook)              deprecated \float@addtolist interface .
+
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 6.
+LaTeX Info: Redefining \HepProcess on input line 12.
+LaTeX Info: Redefining \HepProcess on input line 12.
+[1
+
+]
+\openout4 = `dissertation-base.mtc'.
+
+\openout4 = `dissertation-base.mtc'.
+
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 14.
+ (./dissertation-base.mtc1)
+File: images/adams1932john.png Graphic file (type bmp)
+<images/adams1932john.png>
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 18.
+File: images/playfairArea2.jpg Graphic file (type bmp)
+<images/playfairArea2.jpg>
+File: images/playfairLine2.png Graphic file (type bmp)
+<images/playfairLine2.png>
+File: images/playfairBar.jpg Graphic file (type bmp)
+<images/playfairBar.jpg>
+File: images/playfairPie.jpg Graphic file (type bmp)
+<images/playfairPie.jpg>
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 27.
+LaTeX Info: Redefining \HepProcess on input line 27.
+File: images/ch1/SubjectDefinition2.png Graphic file (type bmp)
+<images/ch1/SubjectDefinition2.png>
+File: images/ch1/SubjectDefinition2.png Graphic file (type bmp)
+<images/ch1/SubjectDefinition2.png>
+File: images/ch1/venn1.png Graphic file (type bmp)
+<images/ch1/venn1.png>
+File: images/ch1/venn1.png Graphic file (type bmp)
+<images/ch1/venn1.png>
+LaTeX Info: Redefining \HepProcess on input line 46.
+File: images/ch1/nestedTreemap.png Graphic file (type bmp)
+<images/ch1/nestedTreemap.png>
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 50.
+File: images/ch1/treemap.png Graphic file (type bmp)
+<images/ch1/treemap.png>
+LaTeX Info: Redefining \HepProcess on input line 56.
+LaTeX Info: Redefining \HepProcess on input line 56.
+ [2]
+LaTeX Info: Redefining \HepProcess on input line 56.
+LaTeX Info: Redefining \HepProcess on input line 56.
+ [3]
+File: images/ch1/pc2.png Graphic file (type bmp)
+<images/ch1/pc2.png>
+LaTeX Info: Redefining \HepProcess on input line 64.
+LaTeX Info: Redefining \HepProcess on input line 64.
+ [4]
+File: images/ch1/graph.png Graphic file (type bmp)
+<images/ch1/graph.png>
+LaTeX Info: Redefining \HepProcess on input line 75.
+LaTeX Info: Redefining \HepProcess on input line 77.
+LaTeX Info: Redefining \HepProcess on input line 77.
+ [5]
+File: images/ch1/choropleth.png Graphic file (type bmp)
+<images/ch1/choropleth.png>
+File: images/ch1/minardsymbol.png Graphic file (type bmp)
+<images/ch1/minardsymbol.png>
+LaTeX Info: Redefining \HepProcess on input line 96.
+LaTeX Info: Redefining \HepProcess on input line 96.
+ [6]
+LaTeX Info: Redefining \HepProcess on input line 98.
+LaTeX Info: Redefining \HepProcess on input line 101.
+File: images/ch1/TopicBreakdown2.png Graphic file (type bmp)
+<images/ch1/TopicBreakdown2.png>
+LaTeX Info: Redefining \HepProcess on input line 111.
+LaTeX Info: Redefining \HepProcess on input line 111.
+ [7]
+LaTeX Info: Redefining \HepProcess on input line 113.
+LaTeX Info: Redefining \HepProcess on input line 122.
+LaTeX Info: Redefining \HepProcess on input line 122.
+ [8]
+LaTeX Info: Redefining \HepProcess on input line 123.
+LaTeX Info: Redefining \HepProcess on input line 132.
+LaTeX Info: Redefining \HepProcess on input line 132.
+ [9]
+LaTeX Info: Redefining \HepProcess on input line 133.
+)
+(./ch2-Survey.tex
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [10]
+chapter 2.
+LaTeX Info: Redefining \HepProcess on input line 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--6
+
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 8.
+LaTeX Info: Redefining \HepProcess on input line 8.
+[11
+
+]
+\openout4 = `dissertation-base.mtc'.
+
+\openout4 = `dissertation-base.mtc'.
+
+ (./dissertation-base.mtc2)
+LaTeX Info: Redefining \HepProcess on input line 11.
+LaTeX Info: Redefining \HepProcess on input line 11.
+ [12]
+LaTeX Info: Redefining \HepProcess on input line 27.
+LaTeX Info: Redefining \HepProcess on input line 27.
+ [13]
+LaTeX Info: Redefining \HepProcess on input line 30.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 40.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsphv.fd
+File: omsphv.fd 
+)
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
+LaTeX Info: Redefining \HepProcess on input line 42.
+LaTeX Info: Redefining \HepProcess on input line 42.
+ [14]
+LaTeX Info: Redefining \HepProcess on input line 73.
+LaTeX Info: Redefining \HepProcess on input line 79.
+LaTeX Info: Redefining \HepProcess on input line 79.
+ [15]
+LaTeX Info: Redefining \HepProcess on input line 83.
+LaTeX Info: Redefining \HepProcess on input line 89.
+File: images/customPipeline.png Graphic file (type bmp)
+<images/customPipeline.png>
+LaTeX Info: Redefining \HepProcess on input line 107.
+LaTeX Info: Redefining \HepProcess on input line 107.
+ [16]
+LaTeX Info: Redefining \HepProcess on input line 113.
+LaTeX Info: Redefining \HepProcess on input line 113.
+
+[17]
+File: images/yearbreakdownv2.png Graphic file (type bmp)
+<images/yearbreakdownv2.png>
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 135.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 135.
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 137.
+LaTeX Info: Redefining \HepProcess on input line 163.
+LaTeX Info: Redefining \HepProcess on input line 163.
+ [18]
+LaTeX Info: Redefining \HepProcess on input line 208.
+LaTeX Info: Redefining \HepProcess on input line 213.
+LaTeX Info: Redefining \HepProcess on input line 213.
+ [19]
+
+Package hhline Warning: the character + ignored in \hhline argument
+(hhline)                 on input line 401.
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 402--402
+[][]|\T1/phv/m/n/8 A 3-Dimensional hi-er-ar-chi-cal clas-si-fi-ca-tion ta-ble d
+e-pict-ing the cat-e-go-riza-tion of all the sur-vey pa-pers.
+ []
+
+
+LaTeX Warning: Float too large for page by 41.47212pt on input line 403.
+
+LaTeX Info: Redefining \HepProcess on input line 405.
+LaTeX Info: Redefining \HepProcess on input line 407.
+LaTeX Info: Redefining \HepProcess on input line 407.
+[20]
+LaTeX Info: Redefining \HepProcess on input line 407.
+LaTeX Info: Redefining \HepProcess on input line 407.
+ [21]
+LaTeX Info: Redefining \HepProcess on input line 410.
+LaTeX Info: Redefining \HepProcess on input line 416.
+LaTeX Info: Redefining \HepProcess on input line 422.
+LaTeX Info: Redefining \HepProcess on input line 422.
+ [22]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 427.
+
+
+Overfull \hbox (2.98407pt too wide) in paragraph at lines 503--503
+ []|[]\T1/phv/m/n/10 C$[]$[]| 
+ []
+
+
+Overfull \hbox (5.82951pt too wide) in paragraph at lines 503--503
+ []|[]\T1/phv/m/n/10 C$[]$[]| 
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 510.
+LaTeX Info: Redefining \HepProcess on input line 510.
+[23]
+LaTeX Info: Redefining \HepProcess on input line 510.
+LaTeX Info: Redefining \HepProcess on input line 510.
+ [24]
+Overfull \hbox (2.98407pt too wide) in paragraph at lines 527--527
+ []|[]\T1/phv/m/n/10 C$[]$[]| 
+ []
+
+
+Overfull \hbox (5.82951pt too wide) in paragraph at lines 527--527
+ []|[]\T1/phv/m/n/10 C$[]$[]| 
+ []
+
+
+Overfull \hbox (9.20445pt too wide) in paragraph at lines 533--534
+[]\T1/phv/m/n/10.95 Borgo et al. com-pare dif-fer-ent glyph-based vi-su-al-iza-
+tion tech-niques us-ing a multiple-attribute
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 537.
+LaTeX Info: Redefining \HepProcess on input line 537.
+[25]
+LaTeX Info: Redefining \HepProcess on input line 540.
+LaTeX Info: Redefining \HepProcess on input line 542.
+LaTeX Info: Redefining \HepProcess on input line 556.
+LaTeX Info: Redefining \HepProcess on input line 556.
+ [26]
+File: images/sedlmair2012taxonomyFull.pdf Graphic file (type pdf)
+<use images/sedlmair2012taxonomyFull.pdf>
+LaTeX Info: Redefining \HepProcess on input line 593.
+LaTeX Info: Redefining \HepProcess on input line 593.
+ [27]
+File: images/isaacs2014stateFull.pdf Graphic file (type pdf)
+<use images/isaacs2014stateFull.pdf>
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 625.
+
+LaTeX Info: Redefining \HepProcess on input line 653.
+LaTeX Info: Redefining \HepProcess on input line 653.
+[28]
+LaTeX Info: Redefining \HepProcess on input line 653.
+LaTeX Info: Redefining \HepProcess on input line 653.
+ [29]
+File: images/zhou2015survey.png Graphic file (type bmp)
+<images/zhou2015survey.png>
+LaTeX Info: Redefining \HepProcess on input line 682.
+LaTeX Info: Redefining \HepProcess on input line 682.
+ [30]
+File: images/wanner2014state.png Graphic file (type bmp)
+<images/wanner2014state.png>
+LaTeX Info: Redefining \HepProcess on input line 723.
+LaTeX Info: Redefining \HepProcess on input line 723.
+ [31]
+File: images/janicke2015on.png Graphic file (type bmp)
+<images/janicke2015on.png>
+LaTeX Info: Redefining \HepProcess on input line 759.
+LaTeX Info: Redefining \HepProcess on input line 759.
+ [32]
+LaTeX Info: Redefining \HepProcess on input line 759.
+LaTeX Info: Redefining \HepProcess on input line 759.
+ [33]
+File: images/kucher2015text.png Graphic file (type bmp)
+<images/kucher2015text.png>
+File: images/federico2016survey.png Graphic file (type bmp)
+<images/federico2016survey.png>
+LaTeX Info: Redefining \HepProcess on input line 824.
+LaTeX Info: Redefining \HepProcess on input line 824.
+ [34]
+LaTeX Info: Redefining \HepProcess on input line 827.
+LaTeX Info: Redefining \HepProcess on input line 838.
+LaTeX Info: Redefining \HepProcess on input line 838.
+ [35]
+File: images/elmqvist2010hierarchical.png Graphic file (type bmp)
+<images/elmqvist2010hierarchical.png>
+File: images/schulz2011designFull.pdf Graphic file (type pdf)
+<use images/schulz2011designFull.pdf>
+LaTeX Info: Redefining \HepProcess on input line 883.
+LaTeX Info: Redefining \HepProcess on input line 883.
+ [36]
+File: images/alsallakh2014visualising.png Graphic file (type bmp)
+<images/alsallakh2014visualising.png>
+
+
+LaTeX Warning: Float too large for page by 10.31006pt on input line 921.
+
+LaTeX Info: Redefining \HepProcess on input line 945.
+LaTeX Info: Redefining \HepProcess on input line 945.
+[37]
+LaTeX Info: Redefining \HepProcess on input line 945.
+LaTeX Info: Redefining \HepProcess on input line 945.
+ [38]
+LaTeX Info: Redefining \HepProcess on input line 945.
+LaTeX Info: Redefining \HepProcess on input line 945.
+ [39]
+File: images/bertini2011quality.png Graphic file (type bmp)
+<images/bertini2011quality.png>
+File: images/liu2015visualising.png Graphic file (type bmp)
+<images/liu2015visualising.png>
+LaTeX Info: Redefining \HepProcess on input line 1005.
+LaTeX Info: Redefining \HepProcess on input line 1005.
+ [40]
+LaTeX Info: Redefining \HepProcess on input line 1005.
+LaTeX Info: Redefining \HepProcess on input line 1005.
+ [41]
+LaTeX Info: Redefining \HepProcess on input line 1020.
+LaTeX Info: Redefining \HepProcess on input line 1020.
+ [42]
+File: images/heinrich2013stateFull.pdf Graphic file (type pdf)
+<use images/heinrich2013stateFull.pdf>
+File: images/johansson2016evaluation.png Graphic file (type bmp)
+<images/johansson2016evaluation.png>
+LaTeX Info: Redefining \HepProcess on input line 1081.
+LaTeX Info: Redefining \HepProcess on input line 1081.
+ [43]
+LaTeX Info: Redefining \HepProcess on input line 1086.
+LaTeX Info: Redefining \HepProcess on input line 1086.
+ [44]
+Overfull \hbox (1.61623pt too wide) in paragraph at lines 1102--1103
+[]\T1/phv/m/n/10.95 Borgo et al. cat-e-go-rize the lit-er-a-ture by ex-am-in-in
+g each tech-nique and de-ter-min-ing whether
+ []
+
+File: images/borgo2013glyphFull.pdf Graphic file (type pdf)
+<use images/borgo2013glyphFull.pdf>
+File: images/fuchs2016systematic.png Graphic file (type bmp)
+<images/fuchs2016systematic.png>
+File: images/citationvis5.png Graphic file (type bmp)
+<images/citationvis5.png>
+LaTeX Info: Redefining \HepProcess on input line 1156.
+LaTeX Info: Redefining \HepProcess on input line 1156.
+[45]
+LaTeX Info: Redefining \HepProcess on input line 1157.
+LaTeX Info: Redefining \HepProcess on input line 1159.
+LaTeX Info: Redefining \HepProcess on input line 1159.
+ [46]
+LaTeX Info: Redefining \HepProcess on input line 1159.
+LaTeX Info: Redefining \HepProcess on input line 1159.
+ [47]
+LaTeX Info: Redefining \HepProcess on input line 1167.
+LaTeX Info: Redefining \HepProcess on input line 1167.
+ [48]
+File: images/von2011visual.png Graphic file (type bmp)
+<images/von2011visual.png>
+LaTeX Info: Redefining \HepProcess on input line 1208.
+LaTeX Info: Redefining \HepProcess on input line 1208.
+ [49]
+File: images/kerracher2014designFull.pdf Graphic file (type pdf)
+<use images/kerracher2014designFull.pdf>
+LaTeX Info: Redefining \HepProcess on input line 1264.
+LaTeX Info: Redefining \HepProcess on input line 1264.
+ [50]
+Overfull \hbox (7.23915pt too wide) in paragraph at lines 1264--1267
+[]\T1/phv/m/sl/10.95 `Graphs or net-works are used to model re-la-tion-ships be
+-tween ob-jects of any kind' \T1/phv/m/n/10.95 [[][]VBW15a[][]].
+ []
+
+File: images/vehlow2015state1.png Graphic file (type bmp)
+<images/vehlow2015state1.png>
+LaTeX Info: Redefining \HepProcess on input line 1335.
+LaTeX Info: Redefining \HepProcess on input line 1335.
+[51]
+LaTeX Info: Redefining \HepProcess on input line 1335.
+LaTeX Info: Redefining \HepProcess on input line 1335.
+ [52]
+LaTeX Info: Redefining \HepProcess on input line 1374.
+LaTeX Info: Redefining \HepProcess on input line 1374.
+ [53]
+File: images/ahn2014taskFull.pdf Graphic file (type pdf)
+<use images/ahn2014taskFull.pdf>
+LaTeX Info: Redefining \HepProcess on input line 1430.
+LaTeX Info: Redefining \HepProcess on input line 1438.
+LaTeX Info: Redefining \HepProcess on input line 1438.
+ [54]
+LaTeX Info: Redefining \HepProcess on input line 1438.
+LaTeX Info: Redefining \HepProcess on input line 1438.
+ [55]
+File: images/bach2014reviewFull.pdf Graphic file (type pdf)
+<use images/bach2014reviewFull.pdf>
+LaTeX Info: Redefining \HepProcess on input line 1501.
+LaTeX Info: Redefining \HepProcess on input line 1501.
+ [56]
+LaTeX Info: Redefining \HepProcess on input line 1501.
+LaTeX Info: Redefining \HepProcess on input line 1501.
+ [57]
+File: images/chen2015survey.png Graphic file (type bmp)
+<images/chen2015survey.png>
+LaTeX Info: Redefining \HepProcess on input line 1542.
+LaTeX Info: Redefining \HepProcess on input line 1542.
+ [58]
+File: images/nusrat2015taskFullp.png Graphic file (type bmp)
+<images/nusrat2015taskFullp.png>
+LaTeX Info: Redefining \HepProcess on input line 1582.
+LaTeX Info: Redefining \HepProcess on input line 1582.
+ [59]
+File: images/nusrat2016state.png Graphic file (type bmp)
+<images/nusrat2016state.png>
+LaTeX Info: Redefining \HepProcess on input line 1605.
+LaTeX Info: Redefining \HepProcess on input line 1614.
+LaTeX Info: Redefining \HepProcess on input line 1614.
+ [60]
+LaTeX Info: Redefining \HepProcess on input line 1614.
+LaTeX Info: Redefining \HepProcess on input line 1614.
+ [61]
+File: images/javed2012exploring.png Graphic file (type bmp)
+<images/javed2012exploring.png>
+LaTeX Info: Redefining \HepProcess on input line 1652.
+LaTeX Info: Redefining \HepProcess on input line 1652.
+ [62]
+File: images/hadlak2015survey.png Graphic file (type bmp)
+<images/hadlak2015survey.png>
+LaTeX Info: Redefining \HepProcess on input line 1673.
+LaTeX Info: Redefining \HepProcess on input line 1681.
+LaTeX Info: Redefining \HepProcess on input line 1681.
+ [63]
+File: images/ko2016surveyFull.pdf Graphic file (type pdf)
+<use images/ko2016surveyFull.pdf>
+LaTeX Info: Redefining \HepProcess on input line 1715.
+LaTeX Info: Redefining \HepProcess on input line 1715.
+ [64]
+File: images/shiravi2012survey.png Graphic file (type bmp)
+<images/shiravi2012survey.png>
+File: images/wagner2015survey.png Graphic file (type bmp)
+<images/wagner2015survey.png>
+LaTeX Info: Redefining \HepProcess on input line 1781.
+LaTeX Info: Redefining \HepProcess on input line 1781.
+ [65]
+LaTeX Info: Redefining \HepProcess on input line 1781.
+LaTeX Info: Redefining \HepProcess on input line 1781.
+
+[66]
+File: images/gao2011performance.png Graphic file (type bmp)
+<images/gao2011performance.png>
+LaTeX Info: Redefining \HepProcess on input line 1824.
+LaTeX Info: Redefining \HepProcess on input line 1824.
+ [67]
+LaTeX Info: Redefining \HepProcess on input line 1833.
+LaTeX Info: Redefining \HepProcess on input line 1833.
+ [68]
+File: images/caserta2011visualization.png Graphic file (type bmp)
+<images/caserta2011visualization.png>
+LaTeX Info: Redefining \HepProcess on input line 1872.
+LaTeX Info: Redefining \HepProcess on input line 1872.
+ [69]
+File: images/sun2014five.png Graphic file (type bmp)
+<images/sun2014five.png>
+LaTeX Info: Redefining \HepProcess on input line 1904.
+LaTeX Info: Redefining \HepProcess on input line 1904.
+ [70]
+Overfull \hbox (8.55255pt too wide) in paragraph at lines 1906--1907
+\T1/phv/m/n/10.95 mag-ni-fi-ca-tion em-pha-sis ef-fects. (2) \T1/phv/m/sl/10.95
+ Be-yond mag-ni-fi-ca-tion \T1/phv/m/n/10.95 - pa-pers de-scrib-ing non-magnifi
+cation
+ []
+
+File: images/hall2016formalizingFull.pdf Graphic file (type pdf)
+<use images/hall2016formalizingFull.pdf>
+
+LaTeX Warning: Float too large for page by 8.45824pt on input line 1913.
+
+LaTeX Info: Redefining \HepProcess on input line 1933.
+File: images/tominski2014surveyFull.png Graphic file (type bmp)
+<images/tominski2014surveyFull.png>
+LaTeX Info: Redefining \HepProcess on input line 1964.
+LaTeX Info: Redefining \HepProcess on input line 1964.
+[71]
+LaTeX Info: Redefining \HepProcess on input line 1964.
+LaTeX Info: Redefining \HepProcess on input line 1964.
+ [72]
+LaTeX Info: Redefining \HepProcess on input line 1964.
+LaTeX Info: Redefining \HepProcess on input line 1964.
+ [73]
+LaTeX Info: Redefining \HepProcess on input line 2014.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <8> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 2025.
+LaTeX Font Info:    Font shape `T1/phv/bx/sc' in size <8> not available
+(Font)              Font shape `T1/phv/b/sc' tried instead on input line 2025.
+LaTeX Info: Redefining \HepProcess on input line 2081.
+LaTeX Info: Redefining \HepProcess on input line 2081.
+ [74]
+LaTeX Info: Redefining \HepProcess on input line 2081.
+LaTeX Info: Redefining \HepProcess on input line 2081.
+ [75]
+LaTeX Info: Redefining \HepProcess on input line 2091.
+LaTeX Info: Redefining \HepProcess on input line 2091.
+ [76]
+File: images/open-research2.png Graphic file (type bmp)
+<images/open-research2.png>
+LaTeX Info: Redefining \HepProcess on input line 2100.
+LaTeX Info: Redefining \HepProcess on input line 2103.
+LaTeX Info: Redefining \HepProcess on input line 2105.
+LaTeX Info: Redefining \HepProcess on input line 2105.
+ [77]
+File: images/CitedVis.png Graphic file (type bmp)
+<images/CitedVis.png>
+) (./ch3-ChoroplethZooming.tex
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [78]
+chapter 3.
+LaTeX Info: Redefining \HepProcess on input line 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 9.
+LaTeX Info: Redefining \HepProcess on input line 9.
+[79
+
+]
+\openout4 = `dissertation-base.mtc'.
+
+\openout4 = `dissertation-base.mtc'.
+
+ (./dissertation-base.mtc3)
+LaTeX Info: Redefining \HepProcess on input line 14.
+LaTeX Info: Redefining \HepProcess on input line 14.
+ [80]
+LaTeX Info: Redefining \HepProcess on input line 21.
+LaTeX Info: Redefining \HepProcess on input line 21.
+ [81]
+LaTeX Info: Redefining \HepProcess on input line 23.
+File: images/newTeaser.png Graphic file (type bmp)
+<images/newTeaser.png>
+LaTeX Info: Redefining \HepProcess on input line 42.
+LaTeX Info: Redefining \HepProcess on input line 42.
+ [82]
+
+LaTeX Warning: Reference `cfw' on page 83 undefined on input line 53.
+
+File: images/Zooming3.png Graphic file (type bmp)
+<images/Zooming3.png>
+LaTeX Info: Redefining \HepProcess on input line 61.
+LaTeX Info: Redefining \HepProcess on input line 63.
+LaTeX Info: Redefining \HepProcess on input line 63.
+[83]
+LaTeX Info: Redefining \HepProcess on input line 64.
+
+Overfull \hbox (13.70726pt too wide) in paragraph at lines 65--67
+\T1/phv/m/n/10.95 Cockburn \T1/phv/m/sl/10.95 et al. \T1/phv/m/n/10.95 re-view 
+pan+zoom used in over 15 re-search pa-pers, and ex-am-ine overview+detail,
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 71.
+LaTeX Info: Redefining \HepProcess on input line 71.
+[84]
+LaTeX Info: Redefining \HepProcess on input line 71.
+LaTeX Info: Redefining \HepProcess on input line 77.
+LaTeX Info: Redefining \HepProcess on input line 77.
+ [85]
+LaTeX Info: Redefining \HepProcess on input line 83.
+LaTeX Info: Redefining \HepProcess on input line 87.
+LaTeX Info: Redefining \HepProcess on input line 87.
+ [86]
+LaTeX Info: Redefining \HepProcess on input line 90.
+LaTeX Info: Redefining \HepProcess on input line 93.
+File: images/HorizontalFlow2.pdf Graphic file (type pdf)
+<use images/HorizontalFlow2.pdf>
+
+Overfull \hbox (12.21738pt too wide) in paragraph at lines 101--102
+\T1/phv/m/n/10.95 In or-der to ef-fec-tively en-able smooth and con-tin-u-ous z
+oom-ing at run-time, we use pre-processing.
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 102.
+LaTeX Info: Redefining \HepProcess on input line 102.
+[87]
+LaTeX Info: Redefining \HepProcess on input line 111.
+LaTeX Info: Redefining \HepProcess on input line 115.
+LaTeX Info: Redefining \HepProcess on input line 115.
+ [88]
+LaTeX Info: Redefining \HepProcess on input line 119.
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 124.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7.6> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 195.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 195.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: images/Contiguous1.png Graphic file (type bmp)
+<images/Contiguous1.png>
+File: images/Contiguous2.png Graphic file (type bmp)
+<images/Contiguous2.png>
+File: images/Contiguous3.png Graphic file (type bmp)
+<images/Contiguous3.png>
+LaTeX Info: Redefining \HepProcess on input line 217.
+LaTeX Info: Redefining \HepProcess on input line 217.
+[89]
+File: images/ahupuaa.png Graphic file (type bmp)
+<images/ahupuaa.png>
+LaTeX Info: Redefining \HepProcess on input line 223.
+LaTeX Info: Redefining \HepProcess on input line 223.
+ [90]
+LaTeX Info: Redefining \HepProcess on input line 226.
+LaTeX Info: Redefining \HepProcess on input line 229.
+LaTeX Info: Redefining \HepProcess on input line 229.
+ [91]
+LaTeX Info: Redefining \HepProcess on input line 229.
+
+Overfull \hbox (26.71046pt too wide) in paragraph at lines 243--244
+\T1/phv/m/n/10.95 for-ma-tions to form. To cal-cu-late this we can use ($[]$).
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 244.
+LaTeX Info: Redefining \HepProcess on input line 244.
+[92]
+File: images/caseLegend.png Graphic file (type bmp)
+<images/caseLegend.png>
+File: images/case1v2.png Graphic file (type bmp)
+<images/case1v2.png>
+File: images/case2.png Graphic file (type bmp)
+<images/case2.png>
+File: images/case5.png Graphic file (type bmp)
+<images/case5.png>
+File: images/case3.png Graphic file (type bmp)
+<images/case3.png>
+File: images/case4.png Graphic file (type bmp)
+<images/case4.png>
+LaTeX Info: Redefining \HepProcess on input line 278.
+LaTeX Info: Redefining \HepProcess on input line 284.
+LaTeX Info: Redefining \HepProcess on input line 284.
+ [93]
+LaTeX Info: Redefining \HepProcess on input line 284.
+LaTeX Info: Redefining \HepProcess on input line 284.
+ [94]
+File: images/TexasExample.png Graphic file (type bmp)
+<images/TexasExample.png>
+LaTeX Info: Redefining \HepProcess on input line 369.
+LaTeX Info: Redefining \HepProcess on input line 369.
+ [95]
+LaTeX Info: Redefining \HepProcess on input line 372.
+LaTeX Info: Redefining \HepProcess on input line 374.
+LaTeX Info: Redefining \HepProcess on input line 374.
+ [96]
+File: images/displayBoundaries.pdf Graphic file (type pdf)
+<use images/displayBoundaries.pdf>
+LaTeX Info: Redefining \HepProcess on input line 415.
+LaTeX Info: Redefining \HepProcess on input line 417.
+LaTeX Info: Redefining \HepProcess on input line 417.
+ [97]
+LaTeX Info: Redefining \HepProcess on input line 418.
+
+
+LaTeX Warning: Command \l invalid in math mode on input line 419.
+
+
+LaTeX Warning: Command \l invalid in math mode on input line 419.
+
+Missing character: There is no ª in font zplmr7m!
+Missing character: There is no ª in font zplmr7m!
+
+LaTeX Warning: Command \l invalid in math mode on input line 419.
+
+Missing character: There is no ª in font zplmr7m!
+LaTeX Info: Redefining \HepProcess on input line 420.
+LaTeX Info: Redefining \HepProcess on input line 420.
+[98]
+File: images/sum.png Graphic file (type bmp)
+<images/sum.png>
+File: images/frequency.png Graphic file (type bmp)
+<images/frequency.png>
+File: images/average.png Graphic file (type bmp)
+<images/average.png>
+LaTeX Info: Redefining \HepProcess on input line 484.
+LaTeX Info: Redefining \HepProcess on input line 489.
+LaTeX Info: Redefining \HepProcess on input line 489.
+ [99]
+Overfull \hbox (0.601pt too wide) in paragraph at lines 524--524
+ []|\T1/phv/b/n/10 Number 
+ []
+
+
+Overfull \hbox (4.84131pt too wide) in paragraph at lines 524--524
+ \T1/phv/m/n/10 269.744|
+ []
+
+
+Overfull \hbox (4.56131pt too wide) in paragraph at lines 524--524
+ \T1/phv/m/n/10 108.004|
+ []
+
+
+Overfull \hbox (4.56131pt too wide) in paragraph at lines 524--524
+ \T1/phv/m/n/10 155.779|
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 538.
+LaTeX Info: Redefining \HepProcess on input line 540.
+LaTeX Info: Redefining \HepProcess on input line 540.
+[100]
+LaTeX Info: Redefining \HepProcess on input line 544.
+LaTeX Info: Redefining \HepProcess on input line 544.
+ [101]
+File: images/zoomOutExample.png Graphic file (type bmp)
+<images/zoomOutExample.png>
+File: images/zoomOutExample2.png Graphic file (type bmp)
+<images/zoomOutExample2.png>
+) (./ch4-UserStudy.tex
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [102]
+chapter 4.
+LaTeX Info: Redefining \HepProcess on input line 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 9.
+LaTeX Info: Redefining \HepProcess on input line 9.
+[103
+
+]
+\openout4 = `dissertation-base.mtc'.
+
+\openout4 = `dissertation-base.mtc'.
+
+ (./dissertation-base.mtc4)
+LaTeX Info: Redefining \HepProcess on input line 14.
+LaTeX Info: Redefining \HepProcess on input line 14.
+ [104]
+LaTeX Info: Redefining \HepProcess on input line 21.
+LaTeX Info: Redefining \HepProcess on input line 21.
+ [105]
+LaTeX Info: Redefining \HepProcess on input line 23.
+File: images/CypressView2.jpg Graphic file (type bmp)
+<images/CypressView2.jpg>
+LaTeX Info: Redefining \HepProcess on input line 46.
+LaTeX Info: Redefining \HepProcess on input line 46.
+ [106]
+LaTeX Info: Redefining \HepProcess on input line 51.
+LaTeX Info: Redefining \HepProcess on input line 57.
+LaTeX Info: Redefining \HepProcess on input line 57.
+ [107]
+LaTeX Info: Redefining \HepProcess on input line 64.
+LaTeX Info: Redefining \HepProcess on input line 64.
+ [108]
+LaTeX Info: Redefining \HepProcess on input line 66.
+File: images/boundaryBlack2.png Graphic file (type bmp)
+<images/boundaryBlack2.png>
+File: images/boundaryNone2.png Graphic file (type bmp)
+<images/boundaryNone2.png>
+File: images/boundaryWhite2.png Graphic file (type bmp)
+<images/boundaryWhite2.png>
+File: images/FullBoundaryBlack.png Graphic file (type bmp)
+<images/FullBoundaryBlack.png>
+File: images/FullBoundaryNone.png Graphic file (type bmp)
+<images/FullBoundaryNone.png>
+File: images/FullBoundaryGrey.png Graphic file (type bmp)
+<images/FullBoundaryGrey.png>
+File: images/pixelSize.png Graphic file (type bmp)
+<images/pixelSize.png>
+LaTeX Info: Redefining \HepProcess on input line 96.
+LaTeX Info: Redefining \HepProcess on input line 99.
+LaTeX Info: Redefining \HepProcess on input line 102.
+LaTeX Info: Redefining \HepProcess on input line 102.
+ [109]
+LaTeX Info: Redefining \HepProcess on input line 102.
+LaTeX Info: Redefining \HepProcess on input line 106.
+LaTeX Info: Redefining \HepProcess on input line 106.
+ [110]
+File: images/highlightExample2.png Graphic file (type bmp)
+<images/highlightExample2.png>
+File: images/highlightExample.png Graphic file (type bmp)
+<images/highlightExample.png>
+File: images/highlightExample1.png Graphic file (type bmp)
+<images/highlightExample1.png>
+LaTeX Info: Redefining \HepProcess on input line 121.
+LaTeX Info: Redefining \HepProcess on input line 121.
+
+[111]
+File: images/clbrwr1.png Graphic file (type bmp)
+<images/clbrwr1.png>
+File: images/clbrwr2.png Graphic file (type bmp)
+<images/clbrwr2.png>
+File: images/tableau2.png Graphic file (type bmp)
+<images/tableau2.png>
+LaTeX Info: Redefining \HepProcess on input line 142.
+LaTeX Info: Redefining \HepProcess on input line 142.
+ [112]
+File: images/sample.png Graphic file (type bmp)
+<images/sample.png>
+File: images/samplet2.png Graphic file (type bmp)
+<images/samplet2.png>
+File: images/0-000.png Graphic file (type bmp)
+<images/0-000.png>
+File: images/0-100.png Graphic file (type bmp)
+<images/0-100.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--153
+[][]|\T1/phv/m/n/10 0.100% Min-i-mum Area
+ []
+
+File: images/0-250.png Graphic file (type bmp)
+<images/0-250.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+[][]|\T1/phv/m/n/10 0.250% Min-i-mum Area
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 157.
+LaTeX Info: Redefining \HepProcess on input line 159.
+LaTeX Info: Redefining \HepProcess on input line 161.
+LaTeX Info: Redefining \HepProcess on input line 163.
+LaTeX Info: Redefining \HepProcess on input line 163.
+[113]
+LaTeX Info: Redefining \HepProcess on input line 163.
+LaTeX Info: Redefining \HepProcess on input line 163.
+ [114]
+LaTeX Info: Redefining \HepProcess on input line 167.
+LaTeX Info: Redefining \HepProcess on input line 167.
+ [115]
+LaTeX Info: Redefining \HepProcess on input line 168.
+LaTeX Info: Redefining \HepProcess on input line 198.
+LaTeX Info: Redefining \HepProcess on input line 200.
+LaTeX Info: Redefining \HepProcess on input line 200.
+ [116]
+LaTeX Info: Redefining \HepProcess on input line 200.
+File: images/T1Scatter.png Graphic file (type bmp)
+<images/T1Scatter.png>
+File: images/T1Accuracy.png Graphic file (type bmp)
+<images/T1Accuracy.png>
+
+
+LaTeX Warning: Reference `sec:limit' on page 117 undefined on input line 207.
+
+LaTeX Info: Redefining \HepProcess on input line 212.
+LaTeX Info: Redefining \HepProcess on input line 212.
+[117]
+LaTeX Info: Redefining \HepProcess on input line 212.
+LaTeX Info: Redefining \HepProcess on input line 212.
+ [118]
+LaTeX Info: Redefining \HepProcess on input line 212.
+
+
+LaTeX Warning: Reference `sec:limit' on page 119 undefined on input line 213.
+
+File: images/T2Scatter.png Graphic file (type bmp)
+<images/T2Scatter.png>
+File: images/T2Accuracy.png Graphic file (type bmp)
+<images/T2Accuracy.png>
+LaTeX Info: Redefining \HepProcess on input line 226.
+File: images/T3.png Graphic file (type bmp)
+<images/T3.png>
+LaTeX Info: Redefining \HepProcess on input line 233.
+LaTeX Info: Redefining \HepProcess on input line 233.
+[119]
+LaTeX Info: Redefining \HepProcess on input line 233.
+LaTeX Info: Redefining \HepProcess on input line 233.
+ [120]
+LaTeX Info: Redefining \HepProcess on input line 234.
+LaTeX Info: Redefining \HepProcess on input line 236.
+LaTeX Info: Redefining \HepProcess on input line 236.
+ [121]
+LaTeX Info: Redefining \HepProcess on input line 243.
+File: images/T1.png Graphic file (type bmp)
+<images/T1.png>
+File: images/T2.png Graphic file (type bmp)
+<images/T2.png>
+) (./ch5-MultivariateMaps.tex
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [122]
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [123]
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [124]
+chapter 5.
+LaTeX Info: Redefining \HepProcess on input line 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 9.
+LaTeX Info: Redefining \HepProcess on input line 9.
+[125
+
+]
+\openout4 = `dissertation-base.mtc'.
+
+\openout4 = `dissertation-base.mtc'.
+
+ (./dissertation-base.mtc5)
+LaTeX Info: Redefining \HepProcess on input line 15.
+LaTeX Info: Redefining \HepProcess on input line 15.
+ [126]
+LaTeX Info: Redefining \HepProcess on input line 21.
+LaTeX Info: Redefining \HepProcess on input line 21.
+ [127]
+LaTeX Info: Redefining \HepProcess on input line 23.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 28.
+File: images/ch5/ccgsetPie2.png Graphic file (type bmp)
+<images/ch5/ccgsetPie2.png>
+LaTeX Info: Redefining \HepProcess on input line 40.
+LaTeX Info: Redefining \HepProcess on input line 40.
+ [128
+
+]
+LaTeX Info: Redefining \HepProcess on input line 49.
+LaTeX Info: Redefining \HepProcess on input line 52.
+LaTeX Info: Redefining \HepProcess on input line 52.
+ [129]
+File: images/ch5/HorizontalFlow2.png Graphic file (type bmp)
+<images/ch5/HorizontalFlow2.png>
+LaTeX Info: Redefining \HepProcess on input line 74.
+LaTeX Info: Redefining \HepProcess on input line 74.
+ [130]
+LaTeX Info: Redefining \HepProcess on input line 84.
+LaTeX Info: Redefining \HepProcess on input line 88.
+LaTeX Info: Redefining \HepProcess on input line 88.
+ [131]
+LaTeX Info: Redefining \HepProcess on input line 95.
+LaTeX Info: Redefining \HepProcess on input line 99.
+LaTeX Info: Redefining \HepProcess on input line 103.
+LaTeX Info: Redefining \HepProcess on input line 103.
+ [132]
+LaTeX Info: Redefining \HepProcess on input line 108.
+LaTeX Info: Redefining \HepProcess on input line 110.
+LaTeX Info: Redefining \HepProcess on input line 110.
+
+[133]
+File: images/ch5/transition/11.png Graphic file (type bmp)
+<images/ch5/transition/11.png>
+File: images/ch5/transition/12.png Graphic file (type bmp)
+<images/ch5/transition/12.png>
+File: images/ch5/transition/13.png Graphic file (type bmp)
+<images/ch5/transition/13.png>
+File: images/ch5/transition/14.png Graphic file (type bmp)
+<images/ch5/transition/14.png>
+File: images/ch5/transition/15.png Graphic file (type bmp)
+<images/ch5/transition/15.png>
+File: images/ch5/transition/16.png Graphic file (type bmp)
+<images/ch5/transition/16.png>
+File: images/ch5/transition/17.png Graphic file (type bmp)
+<images/ch5/transition/17.png>
+File: images/ch5/GlyphLegend2.png Graphic file (type bmp)
+<images/ch5/GlyphLegend2.png>
+File: images/ch5/glyphs/pie1.png Graphic file (type bmp)
+<images/ch5/glyphs/pie1.png>
+File: images/ch5/glyphs/pie2.png Graphic file (type bmp)
+<images/ch5/glyphs/pie2.png>
+File: images/ch5/glyphs/pie3.png Graphic file (type bmp)
+<images/ch5/glyphs/pie3.png>
+File: images/ch5/glyphs/pie4.png Graphic file (type bmp)
+<images/ch5/glyphs/pie4.png>
+File: images/ch5/glyphs/wheel1.png Graphic file (type bmp)
+<images/ch5/glyphs/wheel1.png>
+File: images/ch5/glyphs/wheel2.png Graphic file (type bmp)
+<images/ch5/glyphs/wheel2.png>
+File: images/ch5/glyphs/wheel3.png Graphic file (type bmp)
+<images/ch5/glyphs/wheel3.png>
+File: images/ch5/glyphs/wheel4.png Graphic file (type bmp)
+<images/ch5/glyphs/wheel4.png>
+File: images/ch5/glyphs/bar1.png Graphic file (type bmp)
+<images/ch5/glyphs/bar1.png>
+File: images/ch5/glyphs/bar2.png Graphic file (type bmp)
+<images/ch5/glyphs/bar2.png>
+File: images/ch5/glyphs/bar3.png Graphic file (type bmp)
+<images/ch5/glyphs/bar3.png>
+File: images/ch5/glyphs/bar4.png Graphic file (type bmp)
+<images/ch5/glyphs/bar4.png>
+File: images/ch5/glyphs/star1.png Graphic file (type bmp)
+<images/ch5/glyphs/star1.png>
+File: images/ch5/glyphs/star2.png Graphic file (type bmp)
+<images/ch5/glyphs/star2.png>
+File: images/ch5/glyphs/star3.png Graphic file (type bmp)
+<images/ch5/glyphs/star3.png>
+File: images/ch5/glyphs/star4.png Graphic file (type bmp)
+<images/ch5/glyphs/star4.png>
+LaTeX Info: Redefining \HepProcess on input line 167.
+LaTeX Info: Redefining \HepProcess on input line 175.
+LaTeX Info: Redefining \HepProcess on input line 175.
+ [134]
+LaTeX Info: Redefining \HepProcess on input line 176.
+File: images/ch5/f+cv2.png Graphic file (type bmp)
+<images/ch5/f+cv2.png>
+LaTeX Info: Redefining \HepProcess on input line 183.
+LaTeX Info: Redefining \HepProcess on input line 183.
+ [135]
+LaTeX Info: Redefining \HepProcess on input line 185.
+LaTeX Info: Redefining \HepProcess on input line 187.
+LaTeX Info: Redefining \HepProcess on input line 187.
+ [136]
+LaTeX Info: Redefining \HepProcess on input line 188.
+LaTeX Info: Redefining \HepProcess on input line 192.
+LaTeX Info: Redefining \HepProcess on input line 195.
+LaTeX Info: Redefining \HepProcess on input line 203.
+LaTeX Info: Redefining \HepProcess on input line 203.
+ [137]
+LaTeX Info: Redefining \HepProcess on input line 204.
+LaTeX Info: Redefining \HepProcess on input line 212.
+LaTeX Info: Redefining \HepProcess on input line 212.
+ [138]
+LaTeX Info: Redefining \HepProcess on input line 213.
+LaTeX Info: Redefining \HepProcess on input line 216.
+LaTeX Info: Redefining \HepProcess on input line 225.
+LaTeX Info: Redefining \HepProcess on input line 225.
+ [139]
+File: images/ch5/london01.png Graphic file (type bmp)
+<images/ch5/london01.png>
+File: images/ch5/london02-1.png Graphic file (type bmp)
+<images/ch5/london02-1.png>
+LaTeX Info: Redefining \HepProcess on input line 237.
+LaTeX Info: Redefining \HepProcess on input line 237.
+ [140]
+File: images/ch5/us01.png Graphic file (type bmp)
+<images/ch5/us01.png>
+File: images/ch5/us02-1.png Graphic file (type bmp)
+<images/ch5/us02-1.png>
+File: images/ch5/ireland01.png Graphic file (type bmp)
+<images/ch5/ireland01.png>
+File: images/ch5/ireland02.png Graphic file (type bmp)
+<images/ch5/ireland02.png>
+LaTeX Info: Redefining \HepProcess on input line 254.
+LaTeX Info: Redefining \HepProcess on input line 254.
+ [141]
+File: images/ch5/CCGgridAFull2.png Graphic file (type bmp)
+<images/ch5/CCGgridAFull2.png>
+File: images/ch5/USgridAFull2.png Graphic file (type bmp)
+<images/ch5/USgridAFull2.png>
+File: images/ch5/irelandgridAFull2.png Graphic file (type bmp)
+<images/ch5/irelandgridAFull2.png>
+File: images/ch5/CCGgridBFull.png Graphic file (type bmp)
+<images/ch5/CCGgridBFull.png>
+File: images/ch5/USgridBFull.png Graphic file (type bmp)
+<images/ch5/USgridBFull.png>
+File: images/ch5/irelandgridBFull.png Graphic file (type bmp)
+<images/ch5/irelandgridBFull.png>
+LaTeX Info: Redefining \HepProcess on input line 271.
+LaTeX Info: Redefining \HepProcess on input line 273.
+LaTeX Info: Redefining \HepProcess on input line 273.
+ [142]
+LaTeX Info: Redefining \HepProcess on input line 273.
+LaTeX Info: Redefining \HepProcess on input line 273.
+ [143]
+LaTeX Info: Redefining \HepProcess on input line 280.
+File: images/ch5/CCGgridAFull.png Graphic file (type bmp)
+<images/ch5/CCGgridAFull.png>
+LaTeX Info: Redefining \HepProcess on input line 301.
+LaTeX Info: Redefining \HepProcess on input line 301.
+ [144]
+File: images/ch5/CCGgridBFull.png Graphic file (type bmp)
+<images/ch5/CCGgridBFull.png>
+File: images/ch5/USgridAFull.png Graphic file (type bmp)
+<images/ch5/USgridAFull.png>
+File: images/ch5/USgridBFull2.png Graphic file (type bmp)
+<images/ch5/USgridBFull2.png>
+File: images/ch5/irelandgridAFull.png Graphic file (type bmp)
+<images/ch5/irelandgridAFull.png>
+File: images/ch5/irelandgridBFull.png Graphic file (type bmp)
+<images/ch5/irelandgridBFull.png>
+)
+(./ch6-SoftwareDevelopment.tex
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [145]
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [146]
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [147]
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [148]
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [149]
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [150]
+chapter 6.
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 7.
+LaTeX Info: Redefining \HepProcess on input line 7.
+[151
+
+]
+\openout4 = `dissertation-base.mtc'.
+
+\openout4 = `dissertation-base.mtc'.
+
+ (./dissertation-base.mtc6)
+LaTeX Info: Redefining \HepProcess on input line 9.
+LaTeX Info: Redefining \HepProcess on input line 9.
+ [152]
+LaTeX Info: Redefining \HepProcess on input line 11.
+LaTeX Info: Redefining \HepProcess on input line 14.
+File: images/ch6/loading/01.png Graphic file (type bmp)
+<images/ch6/loading/01.png>
+File: images/ch6/loading/02.png Graphic file (type bmp)
+<images/ch6/loading/02.png>
+File: images/ch6/loading/03.png Graphic file (type bmp)
+<images/ch6/loading/03.png>
+File: images/ch6/loading/04.png Graphic file (type bmp)
+<images/ch6/loading/04.png>
+File: images/ch6/loading/05.png Graphic file (type bmp)
+<images/ch6/loading/05.png>
+File: images/ch6/loading/06.png Graphic file (type bmp)
+<images/ch6/loading/06.png>
+File: images/ch6/loading/07.png Graphic file (type bmp)
+<images/ch6/loading/07.png>
+File: images/ch6/loading/08.png Graphic file (type bmp)
+<images/ch6/loading/08.png>
+File: images/ch6/loading/09.png Graphic file (type bmp)
+<images/ch6/loading/09.png>
+File: images/ch6/loading/10.png Graphic file (type bmp)
+<images/ch6/loading/10.png>
+File: images/ch6/loading/11.png Graphic file (type bmp)
+<images/ch6/loading/11.png>
+File: images/ch6/loading/12.png Graphic file (type bmp)
+<images/ch6/loading/12.png>
+File: images/ch6/loading/13.png Graphic file (type bmp)
+<images/ch6/loading/13.png>
+File: images/ch6/loading/14.png Graphic file (type bmp)
+<images/ch6/loading/14.png>
+File: images/ch6/loading/15.png Graphic file (type bmp)
+<images/ch6/loading/15.png>
+File: images/ch6/loading/16.png Graphic file (type bmp)
+<images/ch6/loading/16.png>
+File: images/ch6/loading/17.png Graphic file (type bmp)
+<images/ch6/loading/17.png>
+File: images/ch6/loading/18.png Graphic file (type bmp)
+<images/ch6/loading/18.png>
+File: images/ch6/loading/19.png Graphic file (type bmp)
+<images/ch6/loading/19.png>
+File: images/ch6/loading/20.png Graphic file (type bmp)
+<images/ch6/loading/20.png>
+LaTeX Info: Redefining \HepProcess on input line 50.
+LaTeX Info: Redefining \HepProcess on input line 57.
+LaTeX Info: Redefining \HepProcess on input line 57.
+ [153]
+LaTeX Info: Redefining \HepProcess on input line 57.
+LaTeX Info: Redefining \HepProcess on input line 57.
+ [154]
+LaTeX Info: Redefining \HepProcess on input line 59.
+File: images/ch6/innerRings.png Graphic file (type bmp)
+<images/ch6/innerRings.png>
+LaTeX Info: Redefining \HepProcess on input line 72.
+LaTeX Info: Redefining \HepProcess on input line 74.
+LaTeX Info: Redefining \HepProcess on input line 74.
+ [155]
+File: images/ch6/contig/01.png Graphic file (type bmp)
+<images/ch6/contig/01.png>
+File: images/ch6/contig/02.png Graphic file (type bmp)
+<images/ch6/contig/02.png>
+File: images/ch6/contig/03.png Graphic file (type bmp)
+<images/ch6/contig/03.png>
+File: images/ch6/contig/04.png Graphic file (type bmp)
+<images/ch6/contig/04.png>
+File: images/ch6/contig/05.png Graphic file (type bmp)
+<images/ch6/contig/05.png>
+File: images/ch6/contig/06.png Graphic file (type bmp)
+<images/ch6/contig/06.png>
+File: images/ch6/contig/07.png Graphic file (type bmp)
+<images/ch6/contig/07.png>
+File: images/ch6/contig/08.png Graphic file (type bmp)
+<images/ch6/contig/08.png>
+File: images/ch6/contig/09.png Graphic file (type bmp)
+<images/ch6/contig/09.png>
+File: images/ch6/contig/10.png Graphic file (type bmp)
+<images/ch6/contig/10.png>
+File: images/ch6/contig/11.png Graphic file (type bmp)
+<images/ch6/contig/11.png>
+File: images/ch6/contig/12.png Graphic file (type bmp)
+<images/ch6/contig/12.png>
+File: images/ch6/contig/13.png Graphic file (type bmp)
+<images/ch6/contig/13.png>
+File: images/ch6/contig/14.png Graphic file (type bmp)
+<images/ch6/contig/14.png>
+File: images/ch6/contig/15.png Graphic file (type bmp)
+<images/ch6/contig/15.png>
+File: images/ch6/contig/16.png Graphic file (type bmp)
+<images/ch6/contig/16.png>
+File: images/ch6/contig/17.png Graphic file (type bmp)
+<images/ch6/contig/17.png>
+File: images/ch6/contig/18.png Graphic file (type bmp)
+<images/ch6/contig/18.png>
+File: images/ch6/contig/19.png Graphic file (type bmp)
+<images/ch6/contig/19.png>
+File: images/ch6/contig/20.png Graphic file (type bmp)
+<images/ch6/contig/20.png>
+File: images/ch6/WeirdBoundary3.png Graphic file (type bmp)
+<images/ch6/WeirdBoundary3.png>
+File: images/ch6/currentProblem.png Graphic file (type bmp)
+<images/ch6/currentProblem.png>
+File: images/ch6/multipleVoids3.png Graphic file (type bmp)
+<images/ch6/multipleVoids3.png>
+
+
+LaTeX Warning: Float too large for page by 10.47696pt on input line 118.
+
+File: images/ch6/BoundarySplit2.png Graphic file (type bmp)
+<images/ch6/BoundarySplit2.png>
+File: images/ch6/mergeoverall/05.png Graphic file (type bmp)
+<images/ch6/mergeoverall/05.png>
+File: images/ch6/mergeoverall/06.png Graphic file (type bmp)
+<images/ch6/mergeoverall/06.png>
+File: images/ch6/mergeoverall/07.png Graphic file (type bmp)
+<images/ch6/mergeoverall/07.png>
+File: images/ch6/mergeoverall/08.png Graphic file (type bmp)
+<images/ch6/mergeoverall/08.png>
+File: images/ch6/mergeoverall/09.png Graphic file (type bmp)
+<images/ch6/mergeoverall/09.png>
+File: images/ch6/mergeoverall/10.png Graphic file (type bmp)
+<images/ch6/mergeoverall/10.png>
+File: images/ch6/mergeoverall/11.png Graphic file (type bmp)
+<images/ch6/mergeoverall/11.png>
+File: images/ch6/mergeoverall/12.png Graphic file (type bmp)
+<images/ch6/mergeoverall/12.png>
+File: images/ch6/mergeoverall/13.png Graphic file (type bmp)
+<images/ch6/mergeoverall/13.png>
+File: images/ch6/mergeoverall/14.png Graphic file (type bmp)
+<images/ch6/mergeoverall/14.png>
+File: images/ch6/mergeoverall/15.png Graphic file (type bmp)
+<images/ch6/mergeoverall/15.png>
+File: images/ch6/mergeoverall/16.png Graphic file (type bmp)
+<images/ch6/mergeoverall/16.png>
+File: images/ch6/mergeoverall/17.png Graphic file (type bmp)
+<images/ch6/mergeoverall/17.png>
+File: images/ch6/mergeoverall/18.png Graphic file (type bmp)
+<images/ch6/mergeoverall/18.png>
+File: images/ch6/mergeoverall/19.png Graphic file (type bmp)
+<images/ch6/mergeoverall/19.png>
+File: images/ch6/mergeoverall/20.png Graphic file (type bmp)
+<images/ch6/mergeoverall/20.png>
+File: images/ch6/mergeoverall/21.png Graphic file (type bmp)
+<images/ch6/mergeoverall/21.png>
+File: images/ch6/mergeoverall/22.png Graphic file (type bmp)
+<images/ch6/mergeoverall/22.png>
+File: images/ch6/mergeoverall/23.png Graphic file (type bmp)
+<images/ch6/mergeoverall/23.png>
+File: images/ch6/mergeoverall/24.png Graphic file (type bmp)
+<images/ch6/mergeoverall/24.png>
+File: images/ch6/mergefocus/05.png Graphic file (type bmp)
+<images/ch6/mergefocus/05.png>
+File: images/ch6/mergefocus/06.png Graphic file (type bmp)
+<images/ch6/mergefocus/06.png>
+File: images/ch6/mergefocus/07.png Graphic file (type bmp)
+<images/ch6/mergefocus/07.png>
+File: images/ch6/mergefocus/08.png Graphic file (type bmp)
+<images/ch6/mergefocus/08.png>
+File: images/ch6/mergefocus/09.png Graphic file (type bmp)
+<images/ch6/mergefocus/09.png>
+File: images/ch6/mergefocus/10.png Graphic file (type bmp)
+<images/ch6/mergefocus/10.png>
+File: images/ch6/mergefocus/11.png Graphic file (type bmp)
+<images/ch6/mergefocus/11.png>
+File: images/ch6/mergefocus/12.png Graphic file (type bmp)
+<images/ch6/mergefocus/12.png>
+File: images/ch6/mergefocus/13.png Graphic file (type bmp)
+<images/ch6/mergefocus/13.png>
+File: images/ch6/mergefocus/14.png Graphic file (type bmp)
+<images/ch6/mergefocus/14.png>
+File: images/ch6/mergefocus/15.png Graphic file (type bmp)
+<images/ch6/mergefocus/15.png>
+File: images/ch6/mergefocus/16.png Graphic file (type bmp)
+<images/ch6/mergefocus/16.png>
+File: images/ch6/mergefocus/17.png Graphic file (type bmp)
+<images/ch6/mergefocus/17.png>
+File: images/ch6/mergefocus/24.png Graphic file (type bmp)
+<images/ch6/mergefocus/24.png>
+File: images/ch6/mergefocus/18.png Graphic file (type bmp)
+<images/ch6/mergefocus/18.png>
+File: images/ch6/mergefocus/19.png Graphic file (type bmp)
+<images/ch6/mergefocus/19.png>
+File: images/ch6/mergefocus/20.png Graphic file (type bmp)
+<images/ch6/mergefocus/20.png>
+File: images/ch6/mergefocus/21.png Graphic file (type bmp)
+<images/ch6/mergefocus/21.png>
+File: images/ch6/mergefocus/22.png Graphic file (type bmp)
+<images/ch6/mergefocus/22.png>
+File: images/ch6/mergefocus/23.png Graphic file (type bmp)
+<images/ch6/mergefocus/23.png>
+LaTeX Info: Redefining \HepProcess on input line 187.
+LaTeX Info: Redefining \HepProcess on input line 190.
+LaTeX Info: Redefining \HepProcess on input line 190.
+[156]
+LaTeX Info: Redefining \HepProcess on input line 190.
+LaTeX Info: Redefining \HepProcess on input line 190.
+ [157]
+LaTeX Info: Redefining \HepProcess on input line 190.
+LaTeX Info: Redefining \HepProcess on input line 190.
+ [158]
+LaTeX Info: Redefining \HepProcess on input line 190.
+LaTeX Info: Redefining \HepProcess on input line 190.
+ [159]
+LaTeX Info: Redefining \HepProcess on input line 190.
+LaTeX Info: Redefining \HepProcess on input line 190.
+ [160]
+LaTeX Info: Redefining \HepProcess on input line 190.
+LaTeX Info: Redefining \HepProcess on input line 190.
+ [161]
+LaTeX Info: Redefining \HepProcess on input line 190.
+LaTeX Info: Redefining \HepProcess on input line 190.
+ [162]
+LaTeX Info: Redefining \HepProcess on input line 190.
+LaTeX Info: Redefining \HepProcess on input line 190.
+ [163]
+LaTeX Info: Redefining \HepProcess on input line 196.
+LaTeX Info: Redefining \HepProcess on input line 203.
+LaTeX Info: Redefining \HepProcess on input line 203.
+ [164]
+LaTeX Info: Redefining \HepProcess on input line 208.
+LaTeX Info: Redefining \HepProcess on input line 233.
+File: images/ch6/noInter.png Graphic file (type bmp)
+<images/ch6/noInter.png>
+File: images/ch6/inter.png Graphic file (type bmp)
+<images/ch6/inter.png>
+LaTeX Info: Redefining \HepProcess on input line 242.
+LaTeX Info: Redefining \HepProcess on input line 242.
+ [165]
+LaTeX Info: Redefining \HepProcess on input line 243.
+LaTeX Info: Redefining \HepProcess on input line 245.
+LaTeX Info: Redefining \HepProcess on input line 245.
+ [166]
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 246.
+
+(./src/simpleTest.cpp) (./src/closestPoint.cpp
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
+)
+LaTeX Info: Redefining \HepProcess on input line 251.
+LaTeX Info: Redefining \HepProcess on input line 255.
+LaTeX Info: Redefining \HepProcess on input line 255.
+ [167]
+LaTeX Info: Redefining \HepProcess on input line 255.
+LaTeX Info: Redefining \HepProcess on input line 261.
+File: images/ch6/attempt1p.pdf Graphic file (type pdf)
+<use images/ch6/attempt1p.pdf>
+File: images/ch6/attempt2p.pdf Graphic file (type pdf)
+<use images/ch6/attempt2p.pdf>
+LaTeX Info: Redefining \HepProcess on input line 274.
+LaTeX Info: Redefining \HepProcess on input line 276.
+LaTeX Info: Redefining \HepProcess on input line 276.
+ [168]
+File: images/ch6/caseA.png Graphic file (type bmp)
+<images/ch6/caseA.png>
+
+Overfull \hbox (8.19934pt too wide) in paragraph at lines 283--284
+[]\T1/phv/m/n/10.95 In or-der to rec-tify these er-rors, we mod-i-fied our ex-t
+rac-tion al-go-rithm to in-clude a bi-directional
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 287.
+LaTeX Info: Redefining \HepProcess on input line 287.
+[169]
+File: images/ch6/caseB.png Graphic file (type bmp)
+<images/ch6/caseB.png>
+LaTeX Info: Redefining \HepProcess on input line 296.
+LaTeX Info: Redefining \HepProcess on input line 296.
+ [170]
+File: images/ch6/length.png Graphic file (type bmp)
+<images/ch6/length.png>
+) (./ch7-Conclusion.tex
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [171]
+chapter 7.
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 7.
+LaTeX Info: Redefining \HepProcess on input line 7.
+[172
+
+]
+\openout4 = `dissertation-base.mtc'.
+
+\openout4 = `dissertation-base.mtc'.
+
+ (./dissertation-base.mtc7)
+LaTeX Info: Redefining \HepProcess on input line 11.
+LaTeX Info: Redefining \HepProcess on input line 12.
+LaTeX Info: Redefining \HepProcess on input line 17.
+LaTeX Info: Redefining \HepProcess on input line 17.
+ [173]
+LaTeX Info: Redefining \HepProcess on input line 20.
+LaTeX Info: Redefining \HepProcess on input line 24.
+LaTeX Info: Redefining \HepProcess on input line 28.
+LaTeX Info: Redefining \HepProcess on input line 28.
+ [174]
+LaTeX Info: Redefining \HepProcess on input line 29.
+File: images/ch7/visualchannels.png Graphic file (type bmp)
+<images/ch7/visualchannels.png>
+LaTeX Info: Redefining \HepProcess on input line 39.
+LaTeX Info: Redefining \HepProcess on input line 39.
+ [175]
+File: images/ch7/trivariate.png Graphic file (type bmp)
+<images/ch7/trivariate.png>
+LaTeX Info: Redefining \HepProcess on input line 53.
+File: images/ch5/ccgsetPie2.png Graphic file (type bmp)
+<images/ch5/ccgsetPie2.png>
+LaTeX Info: Redefining \HepProcess on input line 57.
+LaTeX Info: Redefining \HepProcess on input line 57.
+ [176]
+File: images/ch7/treemap.png Graphic file (type bmp)
+<images/ch7/treemap.png>
+LaTeX Info: Redefining \HepProcess on input line 68.
+LaTeX Info: Redefining \HepProcess on input line 70.
+LaTeX Info: Redefining \HepProcess on input line 70.
+ [177]
+LaTeX Info: Redefining \HepProcess on input line 70.
+LaTeX Info: Redefining \HepProcess on input line 76.
+LaTeX Info: Redefining \HepProcess on input line 76.
+ [178]
+LaTeX Info: Redefining \HepProcess on input line 83.
+LaTeX Info: Redefining \HepProcess on input line 83.
+ [179]))
+Processing 'appendices' comment.
+\openout3 = `comment.cut'.
+
+ Comment 'appendices' writing to comment.cut.
+Straight input of comment.cut. (./comment.cut
+(./AppA-HowToWriteASurveyPaper.tex
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [180]
+chapter A.
+LaTeX Info: Redefining \HepProcess on input line 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--6
+
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 8.
+LaTeX Info: Redefining \HepProcess on input line 8.
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 11.
+LaTeX Info: Redefining \HepProcess on input line 11.
+[2
+
+]
+LaTeX Info: Redefining \HepProcess on input line 13.
+LaTeX Info: Redefining \HepProcess on input line 24.
+LaTeX Info: Redefining \HepProcess on input line 27.
+LaTeX Info: Redefining \HepProcess on input line 27.
+ [3]
+LaTeX Info: Redefining \HepProcess on input line 46.
+LaTeX Info: Redefining \HepProcess on input line 50.
+LaTeX Info: Redefining \HepProcess on input line 50.
+ [4]
+LaTeX Info: Redefining \HepProcess on input line 60.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 60.
+
+LaTeX Info: Redefining \HepProcess on input line 95.
+LaTeX Info: Redefining \HepProcess on input line 98.
+LaTeX Info: Redefining \HepProcess on input line 98.
+[5]
+LaTeX Info: Redefining \HepProcess on input line 103.
+LaTeX Info: Redefining \HepProcess on input line 103.
+ [6]
+LaTeX Info: Redefining \HepProcess on input line 103.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 103.
+
+File: pictures/sto.png Graphic file (type bmp)
+<pictures/sto.png>
+LaTeX Info: Redefining \HepProcess on input line 117.
+LaTeX Info: Redefining \HepProcess on input line 117.
+[7]
+LaTeX Info: Redefining \HepProcess on input line 119.
+LaTeX Info: Redefining \HepProcess on input line 122.
+LaTeX Info: Redefining \HepProcess on input line 126.
+LaTeX Info: Redefining \HepProcess on input line 126.
+ [8]
+LaTeX Info: Redefining \HepProcess on input line 128.
+LaTeX Info: Redefining \HepProcess on input line 132.
+LaTeX Info: Redefining \HepProcess on input line 134.
+LaTeX Info: Redefining \HepProcess on input line 141.
+LaTeX Info: Redefining \HepProcess on input line 141.
+ [9]
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+
+ []
+
+File: pictures/techniquetaxonomy.png Graphic file (type bmp)
+<pictures/techniquetaxonomy.png>
+LaTeX Info: Redefining \HepProcess on input line 184.
+LaTeX Info: Redefining \HepProcess on input line 184.
+[10]
+LaTeX Info: Redefining \HepProcess on input line 187.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 187.
+
+LaTeX Info: Redefining \HepProcess on input line 193.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 193.
+
+LaTeX Info: Redefining \HepProcess on input line 196.
+LaTeX Info: Redefining \HepProcess on input line 196.
+[11]
+LaTeX Info: Redefining \HepProcess on input line 201.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 201.
+
+
+Overfull \hbox (2.98407pt too wide) in paragraph at lines 216--216
+ []|[]\T1/phv/m/n/10 D$[]$[]| 
+ []
+
+
+Overfull \hbox (5.82951pt too wide) in paragraph at lines 216--216
+ []|[]\T1/phv/m/n/10 D$[]$[]| 
+ []
+
+
+Overfull \hbox (2.98407pt too wide) in paragraph at lines 232--232
+ []|[]\T1/phv/m/n/10 D$[]$[]| 
+ []
+
+
+Overfull \hbox (5.82951pt too wide) in paragraph at lines 232--232
+ []|[]\T1/phv/m/n/10 D$[]$[]| 
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 244.
+LaTeX Info: Redefining \HepProcess on input line 244.
+[12]
+LaTeX Info: Redefining \HepProcess on input line 248.
+LaTeX Info: Redefining \HepProcess on input line 248.
+ [13]
+LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 252.
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 252.
+LaTeX Info: Redefining \HepProcess on input line 280.
+LaTeX Info: Redefining \HepProcess on input line 282.
+LaTeX Info: Redefining \HepProcess on input line 282.
+ [14]
+File: pictures/5473227-fig-2-source-hires.png Graphic file (type bmp)
+<pictures/5473227-fig-2-source-hires.png>
+LaTeX Info: Redefining \HepProcess on input line 289.
+LaTeX Info: Redefining \HepProcess on input line 291.
+LaTeX Info: Redefining \HepProcess on input line 291.
+ [15]
+File: pictures/collectiveMetaDataExample.png Graphic file (type bmp)
+<pictures/collectiveMetaDataExample.png>
+
+Underfull \hbox (badness 7362) in paragraph at lines 339--339
+[]|\T1/phv/m/n/10 Beck et al. [[][]BBDW14b[][]], Fed-erico et al.
+ []
+
+
+Underfull \hbox (badness 3471) in paragraph at lines 339--339
+[]|\T1/phv/m/n/10 Edmunds et al. [[][]ELC$[]$12[][]], Laramee et al.
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 342.
+LaTeX Info: Redefining \HepProcess on input line 345.
+LaTeX Info: Redefining \HepProcess on input line 345.
+[16]
+LaTeX Info: Redefining \HepProcess on input line 348.
+LaTeX Info: Redefining \HepProcess on input line 350.
+LaTeX Info: Redefining \HepProcess on input line 350.
+ [17]
+LaTeX Info: Redefining \HepProcess on input line 363.
+LaTeX Info: Redefining \HepProcess on input line 363.
+ [18]
+LaTeX Info: Redefining \HepProcess on input line 371.
+File: pictures/kucherkerren.png Graphic file (type bmp)
+<pictures/kucherkerren.png>
+LaTeX Info: Redefining \HepProcess on input line 384.
+LaTeX Info: Redefining \HepProcess on input line 386.
+LaTeX Info: Redefining \HepProcess on input line 386.
+ [19]
+LaTeX Info: Redefining \HepProcess on input line 389.
+) (./appendices.tex
+LaTeX Info: Redefining \HepProcess on input line 3.
+LaTeX Info: Redefining \HepProcess on input line 3.
+ [20]
+LaTeX Info: Redefining \HepProcess on input line 3.
+LaTeX Info: Redefining \HepProcess on input line 3.
+ [21]
+chapter B.
+LaTeX Info: Redefining \HepProcess on input line 3.
+LaTeX Info: Redefining \HepProcess on input line 4.
+File: images/softwareDevelopment.png Graphic file (type bmp)
+<images/softwareDevelopment.png>
+LaTeX Info: Redefining \HepProcess on input line 8.
+LaTeX Info: Redefining \HepProcess on input line 8.
+[22
+
+]
+LaTeX Info: Redefining \HepProcess on input line 8.
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[][]$\T1/lmtt/m/n/8 https : / / www . census . gov / library / publications / 2
+011 / compendia /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--31
+
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 31.
+LaTeX Info: Redefining \HepProcess on input line 31.
+[23]
+LaTeX Info: Redefining \HepProcess on input line 32.
+
+
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
+
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf>
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf>
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf>
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf>
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf, page 1>
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf, page 1>
+LaTeX Info: Redefining \HepProcess on input line 34.
+LaTeX Info: Redefining \HepProcess on input line 34.
+[24]
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf, page 1>
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf, page 1>
+LaTeX Info: Redefining \HepProcess on input line 34.
+LaTeX Info: Redefining \HepProcess on input line 34.
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf, page 1>
+ [25]
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf, page 2>
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf, page 2>
+LaTeX Info: Redefining \HepProcess on input line 34.
+LaTeX Info: Redefining \HepProcess on input line 34.
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf, page 2>
+ [26]
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf, page 3>
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf, page 3>
+LaTeX Info: Redefining \HepProcess on input line 34.
+LaTeX Info: Redefining \HepProcess on input line 34.
+File: src/IntroductionToQGIS.pdf Graphic file (type pdf)
+<use src/IntroductionToQGIS.pdf, page 3>
+ [27])) Processing 'backmatter' comment.
+\openout3 = `comment.cut'.
+
+
+Comment 'backmatter' writing to comment.cut. Straight input of comment.cut.
+(./comment.cut (./backmatter.tex
+LaTeX Info: Redefining \HepProcess on input line 1.
+LaTeX Info: Redefining \HepProcess on input line 1.
+ [28]
+
+LaTeX Warning: Citation `hepthesis' on page 29 undefined on input line 2.
+
+(./dissertation-base.bbl
+LaTeX Info: Redefining \HepProcess on input line 2.
+LaTeX Info: Redefining \HepProcess on input line 2.
+ [29
+
+]
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <8> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 2.
+LaTeX Info: Redefining \HepProcess on input line 2.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 7.
+LaTeX Info: Redefining \HepProcess on input line 116.
+LaTeX Info: Redefining \HepProcess on input line 116.
+ [30
+
+]
+Missing character: There is no • in font phvr8t!
+LaTeX Info: Redefining \HepProcess on input line 243.
+LaTeX Info: Redefining \HepProcess on input line 243.
+ [31]
+LaTeX Info: Redefining \HepProcess on input line 369.
+LaTeX Info: Redefining \HepProcess on input line 369.
+ [32]
+Missing character: There is no • in font phvr8t!
+LaTeX Info: Redefining \HepProcess on input line 496.
+LaTeX Info: Redefining \HepProcess on input line 496.
+ [33]
+LaTeX Info: Redefining \HepProcess on input line 624.
+LaTeX Info: Redefining \HepProcess on input line 624.
+ [34]
+LaTeX Info: Redefining \HepProcess on input line 749.
+LaTeX Info: Redefining \HepProcess on input line 749.
+ [35]
+LaTeX Info: Redefining \HepProcess on input line 876.
+LaTeX Info: Redefining \HepProcess on input line 876.
+ [36]
+LaTeX Info: Redefining \HepProcess on input line 998.
+LaTeX Info: Redefining \HepProcess on input line 998.
+ [37]
+LaTeX Info: Redefining \HepProcess on input line 1119.
+LaTeX Info: Redefining \HepProcess on input line 1119.
+ [38]
+Underfull \hbox (badness 2302) in paragraph at lines 1146--1150
+[]\T1/phv/m/sc/8 McConchie A.\T1/phv/m/n/8 :  Pop vs soda trivari-ate choro-ple
+th, 2018.  URL: [][]$\T1/lmtt/m/n/8 https : / / bl . ocks . org / almccon /
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1250.
+LaTeX Info: Redefining \HepProcess on input line 1250.
+[39]
+Underfull \hbox (badness 2922) in paragraph at lines 1304--1308
+[]\T1/phv/m/sc/8 Nusrat S., Kobourov S.\T1/phv/m/n/8 :  Car-togram in-ter-ac-ti
+ve browser.  [][]$\T1/lmtt/m/n/8 http : / / cartogram . cs . arizona . edu /
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1367.
+LaTeX Info: Redefining \HepProcess on input line 1367.
+[40]
+LaTeX Info: Redefining \HepProcess on input line 1486.
+LaTeX Info: Redefining \HepProcess on input line 1486.
+ [41]
+LaTeX Info: Redefining \HepProcess on input line 1614.
+LaTeX Info: Redefining \HepProcess on input line 1614.
+ [42]
+Underfull \hbox (badness 1642) in paragraph at lines 1658--1663
+\T1/phv/m/n/8 2018-03-21.  URL: [][]$\T1/lmtt/m/n/8 https : / / www . ons . gov
+ . uk / peoplepopulationandcommunity / populationandmigration /
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1739.
+LaTeX Info: Redefining \HepProcess on input line 1739.
+[43]
+LaTeX Info: Redefining \HepProcess on input line 1868.
+LaTeX Info: Redefining \HepProcess on input line 1868.
+ [44]
+Missing character: There is no … in font phvr8t!
+)
+LaTeX Info: Redefining \HepProcess on input line 17.
+LaTeX Info: Redefining \HepProcess on input line 17.
+ [45]
+LaTeX Info: Redefining \HepProcess on input line 17.
+ (./dissertation-base.lof
+LaTeX Info: Redefining \HepProcess on input line 24.
+LaTeX Info: Redefining \HepProcess on input line 24.
+ [46
+
+]
+LaTeX Info: Redefining \HepProcess on input line 42.
+LaTeX Info: Redefining \HepProcess on input line 42.
+ [47]
+LaTeX Info: Redefining \HepProcess on input line 65.
+LaTeX Info: Redefining \HepProcess on input line 65.
+ [48]
+Overfull \hbox (0.94383pt too wide) detected at line 74
+ []\T1/phv/m/n/8 102
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 75
+ []\T1/phv/m/n/8 102
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 78
+ []\T1/phv/m/n/8 106
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 79
+ []\T1/phv/m/n/8 118
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 83
+ []\T1/phv/m/n/8 118
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 87
+ []\T1/phv/m/n/8 119
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 91
+ []\T1/phv/m/n/8 120
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 94
+ []\T1/phv/m/n/8 121
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 98
+ []\T1/phv/m/n/8 122
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 101
+ []\T1/phv/m/n/8 123
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 104
+ []\T1/phv/m/n/8 124
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 105.
+LaTeX Info: Redefining \HepProcess on input line 105.
+[49]
+Overfull \hbox (0.94383pt too wide) detected at line 105
+ []\T1/phv/m/n/8 125
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 106
+ []\T1/phv/m/n/8 126
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 109
+ []\T1/phv/m/n/8 143
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 110
+ []\T1/phv/m/n/8 143
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 111
+ []\T1/phv/m/n/8 143
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 112
+ []\T1/phv/m/n/8 144
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 113
+ []\T1/phv/m/n/8 144
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 114
+ []\T1/phv/m/n/8 145
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 115
+ []\T1/phv/m/n/8 145
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 116
+ []\T1/phv/m/n/8 146
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 117
+ []\T1/phv/m/n/8 147
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 121
+ []\T1/phv/m/n/8 148
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 122
+ []\T1/phv/m/n/8 149
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 123
+ []\T1/phv/m/n/8 150
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 124
+ []\T1/phv/m/n/8 151
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 125.
+LaTeX Info: Redefining \HepProcess on input line 125.
+[50]
+Overfull \hbox (0.94383pt too wide) detected at line 125
+ []\T1/phv/m/n/8 152
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 126
+ []\T1/phv/m/n/8 153
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 129
+ []\T1/phv/m/n/8 157
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 130
+ []\T1/phv/m/n/8 167
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 131
+ []\T1/phv/m/n/8 168
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 132
+ []\T1/phv/m/n/8 169
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 133
+ []\T1/phv/m/n/8 170
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 134
+ []\T1/phv/m/n/8 171
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 135
+ []\T1/phv/m/n/8 172
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 136
+ []\T1/phv/m/n/8 173
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 137
+ []\T1/phv/m/n/8 174
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 138.
+LaTeX Info: Redefining \HepProcess on input line 138.
+[51]
+Overfull \hbox (0.94383pt too wide) detected at line 138
+ []\T1/phv/m/n/8 175
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 141
+ []\T1/phv/m/n/8 175
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 142
+ []\T1/phv/m/n/8 175
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 143
+ []\T1/phv/m/n/8 176
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 144
+ []\T1/phv/m/n/8 176
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 147
+ []\T1/phv/m/n/8 184
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 148
+ []\T1/phv/m/n/8 184
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 149
+ []\T1/phv/m/n/8 185
+ []
+
+)
+\tf@lof=\write8
+\openout8 = `dissertation-base.lof'.
+
+LaTeX Info: Redefining \HepProcess on input line 18.
+LaTeX Info: Redefining \HepProcess on input line 18.
+ [52]
+LaTeX Info: Redefining \HepProcess on input line 18.
+ (./dissertation-base.lot
+Overfull \hbox (26.54536pt too wide) in paragraph at lines 9--9
+ [][] [][][]\T1/phv/m/n/8 A 3-Dimensional hi-er-ar-chi-cal clas-si-fi-ca-tion t
+a-ble de-pict-ing the cat-e-go-riza-tion of all the sur-vey pa-pers. [][][][][]
+[] 
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 15
+ []\T1/phv/m/n/8 100
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 18
+ []\T1/phv/m/n/8 114
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 21
+ []\T1/phv/m/n/8 135
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 24
+ []\T1/phv/m/n/8 161
+ []
+
+
+Overfull \hbox (0.94383pt too wide) detected at line 27
+ []\T1/phv/m/n/8 180
+ []
+
+)
+\tf@lot=\write9
+\openout9 = `dissertation-base.lot'.
+
+))
+Package minitoc Info: I0009
+(minitoc)             Listing minitoc auxiliary files. 
+(minitoc)             Creating the dissertation-base.maf file.
+\openout4 = `dissertation-base.maf'.
+
+Package minitoc(hints) Info: I0053
+(minitoc(hints))             You have loaded the float package; 
+(minitoc(hints))             please be aware that the minitoc package 
+(minitoc(hints))             facilities can not be used for new types 
+(minitoc(hints))             of floats defined by the float package.
+
+
+Package minitoc(hints) Warning: W0024
+(minitoc(hints))                Some hints have been written 
+(minitoc(hints))                in the dissertation-base.log file.
+
+LaTeX Info: Redefining \HepProcess on input line 82.
+LaTeX Info: Redefining \HepProcess on input line 82.
+[53
+
+]
+LaTeX Info: Redefining \HepProcess on input line 82.
+LaTeX Info: Redefining \HepProcess on input line 82.
+ [54]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 82.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
+ (./dissertation-base.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 82.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 82.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 48515 strings out of 493007
+ 996159 string characters out of 6136718
+ 1611446 words of memory out of 5000000
+ 51103 multiletter control sequences out of 15000+600000
+ 144517 words of font info for 237 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 67i,19n,103p,8829b,1557s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on dissertation-base.pdf (246 pages).

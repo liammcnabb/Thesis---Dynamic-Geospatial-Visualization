@@ -1,0 +1,157 @@
+\select@language {english}
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Data Visualization}{2}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Information Visualization}{4}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Geospatial visualization}{6}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Interactive Visualization}{7}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}Dynamic Geospatial Maps}{7}{subsection.1.1.4}
+\contentsline {section}{\numberline {1.2}Challenges}{8}{section.1.2}
+\contentsline {section}{\numberline {1.3}Contributions}{9}{section.1.3}
+\contentsline {section}{\numberline {1.4}Thesis Structure}{10}{section.1.4}
+\contentsline {chapter}{\numberline {2}Survey of Surveys (SoS)}{11}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introduction and Motivation}{14}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Literature-based Challenges in the Field}{15}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Literature Search Methodology}{16}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Classification Overview}{16}{subsection.2.1.3}
+\contentsline {subsubsection}{\nonumberline The Information Visualization Pipeline}{17}{section*.12}
+\contentsline {subsubsection}{\nonumberline Subject-based Clusters}{18}{section*.15}
+\contentsline {subsection}{\numberline {2.1.4}SoS Scope}{19}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Background}{22}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}Organization of The SoS}{22}{subsection.2.1.6}
+\contentsline {section}{\numberline {2.2}A Classification of Classifications}{22}{section.2.2}
+\contentsline {section}{\numberline {2.3}Survey Papers}{26}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Data-Centric Survey Papers}{26}{subsection.2.3.1}
+\contentsline {subsubsection}{\nonumberline Data-Type Focused Surveys}{26}{section*.21}
+\contentsline {subsubsection}{\nonumberline Text-Focused Surveys}{31}{section*.26}
+\contentsline {subsection}{\numberline {2.3.2}Multivariate \& Hierarchical}{35}{subsection.2.3.2}
+\contentsline {subsubsection}{\nonumberline Hierarchical Surveys}{35}{section*.31}
+\contentsline {subsubsection}{\nonumberline High-Dimensional Surveys}{37}{section*.35}
+\contentsline {subsubsection}{\nonumberline Parallel Coordinates Surveys}{42}{section*.38}
+\contentsline {subsubsection}{\nonumberline Glyph Surveys}{44}{section*.41}
+\contentsline {subsection}{\numberline {2.3.3}Graphs \& Networks}{48}{subsection.2.3.3}
+\contentsline {subsubsection}{\nonumberline Graph Surveys}{48}{section*.45}
+\contentsline {subsubsection}{\nonumberline Network Surveys}{53}{section*.49}
+\contentsline {subsection}{\numberline {2.3.4}Geospace + Time}{54}{subsection.2.3.4}
+\contentsline {subsubsection}{\nonumberline Time Oriented Surveys}{54}{section*.51}
+\contentsline {subsubsection}{\nonumberline Geospatial Focused Surveys}{58}{section*.53}
+\contentsline {subsection}{\numberline {2.3.5}Coordinated Multiple View (CMV) Surveys}{60}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.6}Real-World and Applications}{63}{subsection.2.3.6}
+\contentsline {subsubsection}{\nonumberline Finance Focused Surveys}{64}{section*.59}
+\contentsline {subsubsection}{\nonumberline Security-based Literature Surveys}{65}{section*.61}
+\contentsline {subsubsection}{\nonumberline Systems-based Surveys}{67}{section*.64}
+\contentsline {subsubsection}{\nonumberline Software Visualization Surveys}{68}{section*.66}
+\contentsline {subsubsection}{\nonumberline Surveys of Frameworks}{69}{section*.68}
+\contentsline {subsection}{\numberline {2.3.7}Overview Surveys}{71}{subsection.2.3.7}
+\contentsline {section}{\numberline {2.4}Future Work}{74}{section.2.4}
+\contentsline {section}{\numberline {2.5}Limitations}{77}{section.2.5}
+\contentsline {section}{\numberline {2.6}Conclusion}{78}{section.2.6}
+\contentsline {chapter}{\numberline {3}Dynamic Maps}{79}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction and Motivation}{82}{section.3.1}
+\contentsline {section}{\numberline {3.2}Background}{84}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Zooming}{84}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Choropleths}{85}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Cartographic Generalization}{86}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}Methodology}{87}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Method Overview}{88}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Order Area Polygon Vertices}{88}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Identifying Adjacent Neighbors \& Contiguous Regions}{89}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Building the Hierarchical Data Structure}{91}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Boundary Neighbor Selection \& Amalgamation Criteria}{92}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}Creating Parent Area}{93}{subsection.3.3.6}
+\contentsline {subsection}{\numberline {3.3.7}Updating the Sorted List with the Parent}{97}{subsection.3.3.7}
+\contentsline {subsection}{\numberline {3.3.8}Selecting Visible Boundaries}{98}{subsection.3.3.8}
+\contentsline {subsection}{\numberline {3.3.9}Storing Values of Amalgamated Areas}{99}{subsection.3.3.9}
+\contentsline {section}{\numberline {3.4}Results and Performance}{99}{section.3.4}
+\contentsline {section}{\numberline {3.5}Conclusion}{101}{section.3.5}
+\contentsline {chapter}{\numberline {4}User Study}{103}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{106}{section.4.1}
+\contentsline {section}{\numberline {4.2}Background}{107}{section.4.2}
+\contentsline {section}{\numberline {4.3}Experimental User Tasks}{109}{section.4.3}
+\contentsline {section}{\numberline {4.4}Experimental Variables}{109}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Dependent Variables}{109}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Control Variables}{110}{subsection.4.4.2}
+\contentsline {section}{\numberline {4.5}Perceivability Experiment}{112}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Equipment}{112}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Procedure}{112}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.3}Stored Experimental Data}{113}{subsection.4.5.3}
+\contentsline {section}{\numberline {4.6}User-Study Results}{114}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}T1 Analysis}{114}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}T2 Analysis}{115}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}T3 Analysis}{116}{subsection.4.6.3}
+\contentsline {subsection}{\numberline {4.6.4}Anecdotal Results}{117}{subsection.4.6.4}
+\contentsline {section}{\numberline {4.7}Conclusion}{117}{section.4.7}
+\contentsline {chapter}{\numberline {5}Multivariate Maps}{127}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction and Motivation}{130}{section.5.1}
+\contentsline {section}{\numberline {5.2}Background}{131}{section.5.2}
+\contentsline {section}{\numberline {5.3}Design Goals and Tasks}{133}{section.5.3}
+\contentsline {section}{\numberline {5.4}Overview}{133}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Pre-processing}{134}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Geospatial Glyph Placement}{135}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Glyph Selection}{136}{subsection.5.4.3}
+\contentsline {subsection}{\numberline {5.4.4}Adjusting Level-of-Detail with Glyph Density}{136}{subsection.5.4.4}
+\contentsline {subsection}{\numberline {5.4.5}Smooth Merging and Splitting Transitions}{137}{subsection.5.4.5}
+\contentsline {subsection}{\numberline {5.4.6}Dynamic Average Glyph Legend}{137}{subsection.5.4.6}
+\contentsline {subsection}{\numberline {5.4.7}Attribute Filtering}{137}{subsection.5.4.7}
+\contentsline {subsection}{\numberline {5.4.8}Unit Area Density Indicators}{137}{subsection.5.4.8}
+\contentsline {subsection}{\numberline {5.4.9}Interactive User Options}{138}{subsection.5.4.9}
+\contentsline {section}{\numberline {5.5}Evaluation}{139}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Case Studies}{139}{subsection.5.5.1}
+\contentsline {subsubsection}{\nonumberline Case 1: England's Clinical Commissioning Groups (CCGs)}{139}{section*.109}
+\contentsline {subsubsection}{\nonumberline Case 2: Counties of the United States}{140}{section*.111}
+\contentsline {subsubsection}{\nonumberline Case 3: Electoral Divisions of the Republic of Ireland}{140}{section*.114}
+\contentsline {subsection}{\numberline {5.5.2}Comparative Evaluation: Grid-Placement vs. Dynamic Placement}{141}{subsection.5.5.2}
+\contentsline {section}{\numberline {5.6}Conclusion}{142}{section.5.6}
+\contentsline {chapter}{\numberline {6}Software Design and Development}{154}{chapter.6}
+\contentsline {section}{\numberline {6.1}Introduction and Motivation}{156}{section.6.1}
+\contentsline {section}{\numberline {6.2}Debug Visualization for Geospatial Maps}{156}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Debug Geospatial Visualization Concepts}{156}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Geospatial Data Loading Verification}{158}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Contiguity Visualization}{159}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Hierarchy Building Visualization}{159}{subsection.6.2.4}
+\contentsline {section}{\numberline {6.3}Intersection Testing for Primatives}{160}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Motivation}{160}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Graphical User Interface}{161}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Using Primatives}{161}{subsection.6.3.3}
+\contentsline {subsection}{\numberline {6.3.4}Open Source}{163}{subsection.6.3.4}
+\contentsline {section}{\numberline {6.4}The Complexities of Identifying a Boundary}{164}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Unification of Area Pair}{164}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Identifying the Start and End of a Shared Boundary}{165}{subsection.6.4.2}
+\contentsline {chapter}{\numberline {7}Conclusion}{177}{chapter.7}
+\contentsline {section}{\numberline {7.1}What are you hiding from me? On data resolution, expectations and fears, and realistic counter-measures in visualization.}{178}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Introduction and Motivation}{178}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Hidden Data}{179}{subsection.7.1.2}
+\contentsline {subsection}{\numberline {7.1.3}Visual Perception}{179}{subsection.7.1.3}
+\contentsline {subsection}{\numberline {7.1.4}Overview without full detail}{179}{subsection.7.1.4}
+\contentsline {subsection}{\numberline {7.1.5}When to Consider Low Resolution Overviews}{181}{subsection.7.1.5}
+\contentsline {subsection}{\numberline {7.1.6}Conclusion}{181}{subsection.7.1.6}
+\contentsline {section}{\numberline {7.2}Future Work}{181}{section.7.2}
+\contentsline {chapter}{\numberline {A}How To Write A Visualization Survey Paper: A Starting Point}{1}{appendix.A}
+\contentsline {section}{\numberline {A.1}Introduction and Motivation}{3}{section.A.1}
+\contentsline {subsection}{\numberline {A.1.1}Contributions}{3}{subsection.A.1.1}
+\contentsline {subsection}{\numberline {A.1.2}Challenges of Writing a Survey}{4}{subsection.A.1.2}
+\contentsline {subsection}{\numberline {A.1.3}Literature Search Methodology { \color {red} {\fontfamily {pzd}\fontencoding {U}\fontseries {m}\fontshape {n}\selectfont \char 117}}}{5}{subsection.A.1.3}
+\contentsline {subsection}{\numberline {A.1.4}Literature Classification Overview}{6}{subsection.A.1.4}
+\contentsline {subsection}{\numberline {A.1.5}Survey Scope { \color {red} {\fontfamily {pzd}\fontencoding {U}\fontseries {m}\fontshape {n}\selectfont \char 117}}}{7}{subsection.A.1.5}
+\contentsline {subsection}{\numberline {A.1.6}Survey Paper Organization}{8}{subsection.A.1.6}
+\contentsline {section}{\numberline {A.2}Related Work}{8}{section.A.2}
+\contentsline {subsection}{\numberline {A.2.1}Background}{8}{subsection.A.2.1}
+\contentsline {section}{\numberline {A.3}Presenting the Main Literature Survey}{9}{section.A.3}
+\contentsline {subsection}{\numberline {A.3.1}Summarizing An Individual Research Paper}{9}{subsection.A.3.1}
+\contentsline {subsection}{\numberline {A.3.2}Developing a Literature Classification (How To) { \color {red} {\fontfamily {pzd}\fontencoding {U}\fontseries {m}\fontshape {n}\selectfont \char 117}}}{10}{subsection.A.3.2}
+\contentsline {subsection}{\numberline {A.3.3}Identifying Classification Dimensions { \color {red} {\fontfamily {pzd}\fontencoding {U}\fontseries {m}\fontshape {n}\selectfont \char 117}}}{12}{subsection.A.3.3}
+\contentsline {subsection}{\numberline {A.3.4}Literature Classification Types { \color {red} {\fontfamily {pzd}\fontencoding {U}\fontseries {m}\fontshape {n}\selectfont \char 117}}}{12}{subsection.A.3.4}
+\contentsline {subsection}{\numberline {A.3.5}Paper Centered vs Topic Centered}{14}{subsection.A.3.5}
+\contentsline {section}{\numberline {A.4}Complementary Material}{14}{section.A.4}
+\contentsline {subsection}{\numberline {A.4.1}Figures}{14}{subsection.A.4.1}
+\contentsline {subsection}{\numberline {A.4.2}Collective Meta-Data for Comparison}{16}{subsection.A.4.2}
+\contentsline {subsection}{\numberline {A.4.3}Interactive Literature Browsers}{17}{subsection.A.4.3}
+\contentsline {section}{\numberline {A.5}Discussion and Future Challenges}{18}{section.A.5}
+\contentsline {section}{\numberline {A.6}Conclusions}{18}{section.A.6}
+\contentsline {chapter}{\numberline {B}Miscellanious}{22}{appendix.B}
+\contentsline {section}{\numberline {B.1}Intersection Tester Doxygen Sample}{23}{section.B.1}
+\contentsline {section}{\numberline {B.2}Table of Data}{24}{section.B.2}
+\contentsline {section}{\numberline {B.3}Introduction to QGIS (Guidelines for QGIS Tutorial for CGVC 2018)}{24}{section.B.3}
+\contentsline {chapter}{Bibliography}{30}{chapter*.152}
+\contentsline {chapter}{List of figures}{46}{chapter*.153}
+\contentsline {chapter}{List of tables}{53}{chapter*.154}

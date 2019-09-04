@@ -1,36 +1,36 @@
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.1}Introduction and Motivation}{\reset@font\mtcSfont 14}{section.2.1}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.1.1}Literature-based Challenges in the Field}{\reset@font\mtcSSfont 15}{subsection.2.1.1}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.1.2}Literature Search Methodology}{\reset@font\mtcSSfont 16}{subsection.2.1.2}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.1.3}Classification Overview}{\reset@font\mtcSSfont 16}{subsection.2.1.3}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline The Information Visualization Pipeline}{\reset@font\mtcSSSfont 16}{section*.11}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Subject-based Clusters}{\reset@font\mtcSSSfont 18}{section*.14}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.1.4}SoS Scope}{\reset@font\mtcSSfont 19}{subsection.2.1.4}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.1.5}Background}{\reset@font\mtcSSfont 20}{subsection.2.1.5}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.1.6}Organization of The SoS}{\reset@font\mtcSSfont 22}{subsection.2.1.6}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.2}A Classification of Classifications}{\reset@font\mtcSfont 22}{section.2.2}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.3}Survey Papers}{\reset@font\mtcSfont 25}{section.2.3}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.1}Data-Centric Survey Papers}{\reset@font\mtcSSfont 26}{subsection.2.3.1}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Data-Type Focused Surveys}{\reset@font\mtcSSSfont 26}{section*.20}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Text-Focused Surveys}{\reset@font\mtcSSSfont 29}{section*.25}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.2}Multivariate \& Hierarchical}{\reset@font\mtcSSfont 34}{subsection.2.3.2}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Hierarchical Surveys}{\reset@font\mtcSSSfont 35}{section*.30}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline High-Dimensional Surveys}{\reset@font\mtcSSSfont 39}{section*.34}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Parallel Coordinates Surveys}{\reset@font\mtcSSSfont 41}{section*.37}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Glyph Surveys}{\reset@font\mtcSSSfont 44}{section*.40}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.3}Graphs \& Networks}{\reset@font\mtcSSfont 47}{subsection.2.3.3}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Graph Surveys}{\reset@font\mtcSSSfont 48}{section*.44}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Network Surveys}{\reset@font\mtcSSSfont 52}{section*.48}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.4}Geospace + Time}{\reset@font\mtcSSfont 53}{subsection.2.3.4}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Time Oriented Surveys}{\reset@font\mtcSSSfont 55}{section*.50}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Geospatial Focused Surveys}{\reset@font\mtcSSSfont 56}{section*.52}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.1}Introduction and Motivation}{\reset@font\mtcSfont 15}{section.2.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.1.1}Literature-based Challenges in the Field}{\reset@font\mtcSSfont 16}{subsection.2.1.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.1.2}Literature Search Methodology}{\reset@font\mtcSSfont 17}{subsection.2.1.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.1.3}Classification Overview}{\reset@font\mtcSSfont 17}{subsection.2.1.3}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline The Information Visualization Pipeline}{\reset@font\mtcSSSfont 17}{section*.13}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Subject-based Clusters}{\reset@font\mtcSSSfont 19}{section*.16}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.1.4}SoS Scope}{\reset@font\mtcSSfont 20}{subsection.2.1.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.1.5}Background}{\reset@font\mtcSSfont 23}{subsection.2.1.5}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.1.6}Organization of The SoS}{\reset@font\mtcSSfont 23}{subsection.2.1.6}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.2}A Classification of Classifications}{\reset@font\mtcSfont 23}{section.2.2}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.3}Survey Papers}{\reset@font\mtcSfont 27}{section.2.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.1}Data-Centric Survey Papers}{\reset@font\mtcSSfont 27}{subsection.2.3.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Data-Type Focused Surveys}{\reset@font\mtcSSSfont 27}{section*.22}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Text-Focused Surveys}{\reset@font\mtcSSSfont 31}{section*.27}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.2}Multivariate \& Hierarchical}{\reset@font\mtcSSfont 36}{subsection.2.3.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Hierarchical Surveys}{\reset@font\mtcSSSfont 36}{section*.32}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline High-Dimensional Surveys}{\reset@font\mtcSSSfont 38}{section*.36}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Parallel Coordinates Surveys}{\reset@font\mtcSSSfont 43}{section*.39}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Glyph Surveys}{\reset@font\mtcSSSfont 45}{section*.42}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.3}Graphs \& Networks}{\reset@font\mtcSSfont 49}{subsection.2.3.3}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Graph Surveys}{\reset@font\mtcSSSfont 49}{section*.46}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Network Surveys}{\reset@font\mtcSSSfont 54}{section*.50}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.4}Geospace + Time}{\reset@font\mtcSSfont 55}{subsection.2.3.4}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Time Oriented Surveys}{\reset@font\mtcSSSfont 55}{section*.52}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Geospatial Focused Surveys}{\reset@font\mtcSSSfont 59}{section*.54}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.5}Coordinated Multiple View (CMV) Surveys}{\reset@font\mtcSSfont 61}{subsection.2.3.5}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.6}Real-World and Applications}{\reset@font\mtcSSfont 63}{subsection.2.3.6}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Finance Focused Surveys}{\reset@font\mtcSSSfont 63}{section*.58}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Security-based Literature Surveys}{\reset@font\mtcSSSfont 64}{section*.60}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Systems-based Surveys}{\reset@font\mtcSSSfont 66}{section*.63}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Software Visualization Surveys}{\reset@font\mtcSSSfont 67}{section*.65}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Surveys of Frameworks}{\reset@font\mtcSSSfont 69}{section*.67}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.7}Overview Surveys}{\reset@font\mtcSSfont 70}{subsection.2.3.7}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.4}Future Work}{\reset@font\mtcSfont 72}{section.2.4}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.5}Limitations}{\reset@font\mtcSfont 76}{section.2.5}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.6}Conclusion}{\reset@font\mtcSfont 77}{section.2.6}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.6}Real-World and Applications}{\reset@font\mtcSSfont 65}{subsection.2.3.6}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Finance Focused Surveys}{\reset@font\mtcSSSfont 65}{section*.60}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Security-based Literature Surveys}{\reset@font\mtcSSSfont 66}{section*.62}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Systems-based Surveys}{\reset@font\mtcSSSfont 68}{section*.65}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Software Visualization Surveys}{\reset@font\mtcSSSfont 69}{section*.67}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \nonumberline Surveys of Frameworks}{\reset@font\mtcSSSfont 71}{section*.69}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.7}Overview Surveys}{\reset@font\mtcSSfont 72}{subsection.2.3.7}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.4}Analysis of Future Work}{\reset@font\mtcSfont 74}{section.2.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.5}Limitations}{\reset@font\mtcSfont 78}{section.2.5}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.6}Conclusion}{\reset@font\mtcSfont 79}{section.2.6}}

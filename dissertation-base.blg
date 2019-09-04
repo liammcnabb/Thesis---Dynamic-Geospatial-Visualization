@@ -6,15 +6,17 @@ Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 13381 items from 5000.
+Reallocated field_info (elt_size=4) to 14541 items from 5000.
 Database file #1: references.bib
-Warning--I didn't find a database entry for "hepthesis"
+Warning--I didn't find a database entry for "mcnabb2019multivariate"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--to sort, need author or key in ieeexplore
 Warning--to sort, need author or key in acmdigitallibrary
 Warning--to sort, need author or key in scholar
 Warning--to sort, need author, editor, or key in frameworkdictionary
 Warning--to sort, need author, editor, or key in us1970use
+Warning--to sort, need author or key in mendely2018mendely
+Warning--to sort, need author or key in jabref2019jabref
 Warning--can't use both volume and number fields in axelsson2017dynamic
 Warning--can't use both author and editor fields in brodlie2012
 Warning--empty booktitle in beck2016visual
@@ -24,6 +26,7 @@ Warning--can't use both volume and number fields in dasgupta2012conceptualizing
 Warning--empty author and editor in frameworkdictionary
 Warning--empty booktitle in isenberg2017visualization
 Warning--can't use both volume and number fields in isenberg2017visualization
+Warning--empty journal in janicke2016visual
 Warning--can't use both volume and number fields in kerracher2017constructing
 Warning--there's a number but no series in kerracher2014design
 Warning--empty publisher in kobourov2004force
@@ -35,51 +38,50 @@ Warning--can't use both volume and number fields in mcloughlin2010over
 Warning--empty booktitle in mcmaster1992generalization
 Warning--can't use both volume and number fields in myers1986visual
 Warning--can't use both volume and number fields in nusrat2016state
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--can't use both volume and number fields in post2003state
 Warning--can't use both volume and number fields in sedlmair2012taxonomy
-Warning--empty booktitle in tominski2014survey
 Warning--empty author and editor in us1970use
 Warning--can't use both volume and number fields in von2011visual
-Warning--can't use both volume and number fields in wanner2014state
-You've used 288 entries,
+You've used 328 entries,
             3585 wiz_defined-function locations,
-            2254 strings with 57865 characters,
-and the built_in function-call counts, 156630 in all, are:
-= -- 15877
-> -- 6823
-< -- 64
-+ -- 2462
-- -- 2378
-* -- 11054
-:= -- 22386
-add.period$ -- 696
-call.type$ -- 288
-change.case$ -- 1998
-chr.to.int$ -- 271
-cite$ -- 324
-duplicate$ -- 4808
-empty$ -- 13160
-format.name$ -- 2666
-if$ -- 37585
-int.to.chr$ -- 18
+            2458 strings with 64454 characters,
+and the built_in function-call counts, 177199 in all, are:
+= -- 17992
+> -- 7572
+< -- 78
++ -- 2714
+- -- 2626
+* -- 12362
+:= -- 25235
+add.period$ -- 796
+call.type$ -- 328
+change.case$ -- 2241
+chr.to.int$ -- 312
+cite$ -- 367
+duplicate$ -- 5456
+empty$ -- 14978
+format.name$ -- 2961
+if$ -- 42599
+int.to.chr$ -- 17
 int.to.str$ -- 0
-missing$ -- 273
-newline$ -- 1550
-num.names$ -- 855
-pop$ -- 3150
+missing$ -- 305
+newline$ -- 1765
+num.names$ -- 971
+pop$ -- 3570
 preamble$ -- 1
-purify$ -- 2315
+purify$ -- 2605
 quote$ -- 0
-skip$ -- 9394
+skip$ -- 10713
 stack$ -- 0
-substring$ -- 7061
-swap$ -- 1257
-text.length$ -- 64
-text.prefix$ -- 63
+substring$ -- 8198
+swap$ -- 1433
+text.length$ -- 78
+text.prefix$ -- 76
 top$ -- 0
-type$ -- 2472
-warning$ -- 31
-while$ -- 1222
-width$ -- 292
-write$ -- 3772
-(There were 32 warnings)
+type$ -- 2812
+warning$ -- 32
+while$ -- 1393
+width$ -- 333
+write$ -- 4280
+(There were 33 warnings)
